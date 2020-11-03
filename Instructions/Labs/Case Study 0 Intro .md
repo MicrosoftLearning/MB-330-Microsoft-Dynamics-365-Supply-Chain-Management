@@ -1,4 +1,4 @@
-Case Study instructions
+Case study instructions
 =======================
 
 -   Please observe and follow the instructor introduction to the case study on
@@ -10,7 +10,7 @@ Case Study instructions
 
 -   Bonus exercises: are exercises students can practiced on their own.
 
-Supply chain Management Case studies
+Supply chain management case studies
 ====================================
 
 -   **Case study 1:**  
