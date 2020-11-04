@@ -2,7 +2,7 @@ Case study 2A Procurement and sourcing
 ======================================
 
 Objectives
----------
+----------
 
 -   *Create a purchase requisition using a procurement category and then submit
     and approve the purchase requisition*
@@ -29,8 +29,6 @@ Objectives
 
 -   *Create a trade agreement for domestic vendors that specifies a fixed price
     for a certain item.*
-
--   *Create a guest user for a supplier so they can access the system.*
 
 Exercise \#1 Create, submit, and approve a purchase requisition
 ---------------------------------------------------------------
@@ -120,13 +118,13 @@ help her to use?**
 
 12. Close the **Workflow history** page.
 
-**Approve the purchase requisition.**
+### Approve the purchase requisition.
 
 1.  Click **Workflow** at the top, and then click **Approve**.
 
 2.  Comment: Enter **Approved.**
 
-Click **Approve**
+3.  Click **Approve**
 
 Exercise \#2 Create, reply and accept a request for quotation (Bonus)
 ---------------------------------------------------------------------
@@ -627,8 +625,61 @@ You will have to do the following:
 
 8.  Click **Save**.
 
-Exercise \#9 Create a purchase order based on a trade agreement
----------------------------------------------------------------
+Exercise \#9 Create trade agreements for vendors
+------------------------------------------------
+
+*Objective: Create a trade agreement for domestic vendors that specifies a fixed
+price for a certain item.*
+
+The company managed to standardize the purchase price for item A0001 with all
+domestic vendors to be \$8.26. You needto help the purchase manager to record
+this purchase price using a trade agreement journal, so that whenever a purchase
+order is created for item A0001 and the vendor is from the domestic vendors, the
+price will default to \$8.26.
+
+### Create a Trade agreement for a vendor. 
+
+1.  Go to **Procurement and sourcing**, then to **Prices and discounts**, and
+    then to **Trade agreement journals**. 
+
+2.  Click **New**. 
+
+3.  Name: Select **S_Price** for Sales price adjustment
+
+4.  Click the **Lines** button to open the journal. 
+
+5.  Relation: Select **Price (purch.)**. 
+
+6.  Account code or Party code type: Select **Group**. 
+
+7.  Account selection: Select **Domestic** vendors. 
+
+8.  Item code/Product code type: Select **Table**. 
+
+9.  Item Relation: Select **A0001, HDMI 6' Cables**. 
+
+10. Site: Enter **1**. 
+
+11. Warehouse: Enter **13**. 
+
+12. From: Enter **1**. 
+
+13. Amount in currency: Enter **8.26**. 
+
+14. Change to the **Details** tab. 
+
+15. From date: Select **February 15, 2017**.  
+
+16. Select **Validate** \> **Validate all lines**. 
+
+17. Click **OK**.
+
+18. After successful validation, **post** the journal.
+
+19. Close all pages.
+
+Exercise \#10 Create a purchase order based on a trade agreement
+----------------------------------------------------------------
 
 *Objective: Create a purchase order from on a trade agreement based on value or
 quantity.*
@@ -694,104 +745,3 @@ What would you do?**
 3.  Click **OK**. 
 
 4.  Close all pages
-
-Exercise \#10 Create trade agreements for vendors
--------------------------------------------------
-
-*Objective: Create a trade agreement for domestic vendors that specifies a fixed
-price for a certain item.*
-
-The company managed to standardize the purchase price for item A0001 with all
-domestic vendors to be \$8.26. You needto help the purchase manager to record
-this purchase price using a trade agreement journal, so that whenever a purchase
-order is created for item A0001 and the vendor is from the domestic vendors, the
-price will default to \$8.26.
-
-### Create a Trade agreement for a vendor. 
-
-1.  Go to **Procurement and sourcing**, then to **Prices and discounts**, and
-    then to **Trade agreement journals**. 
-
-2.  Click **New**. 
-
-3.  Name: Select **S_Price** for Sales price adjustment
-
-4.  Click the **Lines** button to open the journal. 
-
-5.  Relation: Select **Price (purch.)**. 
-
-6.  Account code or Party code type: Select **Group**. 
-
-7.  Account selection: Select **Domestic** vendors. 
-
-8.  Item code/Product code type: Select **Table**. 
-
-9.  Item Relation: Select **A0001, HDMI 6' Cables**. 
-
-10. Site: Enter **1**. 
-
-11. Warehouse: Enter **13**. 
-
-12. From: Enter **1**. 
-
-13. Amount in currency: Enter **8.26**. 
-
-14. Change to the **Details** tab. 
-
-15. From date: Select **February 15, 2017**.  
-
-16. Select **Validate** \> **Validate all lines**. 
-
-17. Click **OK**.
-
-18. After successful validation, **post** the journal.
-
-19. Close all pages.
-
-Exercise \#11 Create a guest user for a supplier (Bonus)
---------------------------------------------------------
-
-*Objective:  Create a guest user for a supplier so they can access the system.*
-
-USMF is trying to improve the relation and supplier relation management using
-the vendor collaborations feature. This feature gives suppliers the ability to
-access the system as a guest so they can view purchase orders assigned to them,
-and review and confirm orders. This increases the efficiency of the procurement
-process.
-
-As a functional consultant you will need to setup the guest user, Alex Darrow,
-for the supplier and give them access to the D365 Supply chain.
-
-You will have to do the following:
-
--   Verify external roles.
-
-### Verify external roles 
-
-1.  In **USMF**, navigate to **System administration\>Security\>External
-    roles**. 
-
-2.  Verify that **Vendor (external)** and **Vendor admin (external)** roles are
-    listed.  
-
-3.  Navigate to **Procurement and sourcing\>Vendors\>All vendors**.
-
-4.  Click the vendor 1001 link to open the details page. 
-
-5.  In the **Collaboration activation** field, select **Active (PO is not
-    auto-confirmed)**.
-
-6.  Select **Add contacts** from the action pane  
-
-7.  In the first name field select **Alex Darrow**.
-
-8.  Click **Save**. 
-
-9.  Click **Provision vendor user**.
-
-10. Setup the email alias such as someone\@microsoft.com. 
-
-11.  Type Demo vendor collaboration in the **Business justification** field. 
-
-12. Select **Vendor collaboration access allowed** check box under **Legal
-    entities the person is a contact for**. 
