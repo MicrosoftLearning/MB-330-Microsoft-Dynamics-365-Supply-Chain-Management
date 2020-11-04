@@ -12,9 +12,6 @@ Objectives
 -   *Create a customer trade agreement for specific customers, a specific item
     and for a certain date range.*
 
--   *Set up a supplementary item to be included with the sale of a particular
-    item.*
-
 -   *Generate rebates and process rebate claims for payment.*
 
 Exercise \#1 Enter and confirm sales order
