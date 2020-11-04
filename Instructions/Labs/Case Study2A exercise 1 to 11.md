@@ -1,13 +1,13 @@
 Case study 2A Procurement and sourcing
 ======================================
 
-Objective
+Objectives
 ---------
 
 -   *Create a purchase requisition using a procurement category and then submit
     and approve the purchase requisition*
 
--   *Create a request for quotation, reply and accept a vendor’s reply.*
+-   *Create a request for quotation, reply and accept a vendorâ€™s reply.*
 
 -   *Create a purchase requisition permission policy with a new requester name
     and create an office supplies purchasing policy.*
@@ -131,7 +131,7 @@ Click **Approve**
 Exercise \#2 Create, reply and accept a request for quotation (Bonus)
 ---------------------------------------------------------------------
 
-*Objective: Create a request for quotation, reply and accept a vendor’s reply.*
+*Objective:Â Create a request for quotation, reply and accept a vendorâ€™s reply.*
 
 After the Purchase requestion was approved, the Procurement department found
 that there were a lot of other requests for the same type of cables, so they
@@ -150,7 +150,7 @@ You will have to do the following:
 
 -   Reply to a request for quotation.
 
--   Accept a vendor’s reply.
+-   Accept a vendorâ€™s reply.
 
 ### Create the request for quotation and send to the appropriate suppliers.
 
@@ -165,7 +165,7 @@ You will have to do the following:
 
 5.  Site: Select **1** (Home speakers production).
 
-6.  Warehouse: Select **13** (Site 1 – Finished Goods).
+6.  Warehouse: Select **13** (Site 1 â€“ Finished Goods).
 
 7.  Click **OK**.
 
@@ -175,7 +175,7 @@ You will have to do the following:
 
 2.  Line type: Select **Item**.
 
-3.  Item number: Select **A0001** (HDMI 6’ Cables).
+3.  Item number: Select **A0001** (HDMI 6â€™ Cables).
 
 4.  Quantity: Enter **500**.
 
@@ -210,7 +210,7 @@ You will have to do the following:
 Update the request for the quotation created in the previous practice with the
 vendor responses.
 
-### Process the quotation for US-103. Enter the vendors’ replies to the request for quotation. 
+### Process the quotation for US-103. Enter the vendorsâ€™ replies to the request for quotation.Â 
 
 1.  Go to the **Procurement and sourcing** module, then to **Requests for
     quotations**, and then to **All requests for quotations**.
@@ -247,7 +247,7 @@ vendor responses.
 
 16. Close the **Request for Quotation Reply** form.
 
-### Accept a vendor’s reply.
+### Accept a vendorâ€™s reply.
 
 1.  Click the **Request for quotation** number for **US-103** (Rain Projectors).
 
@@ -259,7 +259,7 @@ vendor responses.
 Exercise \#3 Create purchase requisition and purchasing policies (Bonus)
 ------------------------------------------------------------------------
 
-*Objective:  Create a purchase requisition permission policy with a new
+*Objective:Â  Create a purchase requisition permission policy with a new
 requester name and create an office supplies purchasing policy.*
 
 The purchasing manager decided to make some updates.
@@ -407,7 +407,7 @@ He is not clear how to perform this using the system and asking your help
 Exercise \#5 Create a charges code
 ----------------------------------
 
-*Objective:  Create a charge code for vendor transport charges on various
+*Objective:Â  Create a charge code for vendor transport charges on various
 items.*
 
 The accounts payable coordinator at Contoso Entertainment Systems USA must
@@ -455,7 +455,7 @@ specifications:
 Exercise \#6 Create a vendor charges group and assign to vendors (Bouns)
 ------------------------------------------------------------------------
 
-*Objective:  Create a vendor charge group and assign it to two vendors.*
+*Objective:Â  Create a vendor charge group and assign it to two vendors.*
 
 The accounts payable administrator at Contoso Entertainment Systems USA, wants
 to make updates for Fabrikam supplier, that has two vendor accounts from which
@@ -518,7 +518,7 @@ You will have to do the following:
 Exercise \#7 Create an automatic charge (Bonus)
 -----------------------------------------------
 
-*Objective:  Create an item charges group and use it to create an automatic
+*Objective:Â  Create an item charges group and use it to create an automatic
 charge.*
 
 The accounts payable coordinator at Contoso Entertainment Systems USA, wants to
@@ -582,7 +582,7 @@ You will have to do the following:
 Exercise \#8 Approve purchase orders prior to confirmation (Bonus)
 ------------------------------------------------------------------
 
-*Objective:  Set up change management so purchase orders are approved prior to
+*Objective:Â  Set up change management so purchase orders are approved prior to
 confirmation.*
 
 Contoso has decided that all office supply purchase orders from supplier 1001
@@ -649,49 +649,49 @@ What would you do?**
 ### Create a purchase agreement
 
 1.  Go to the **Procurement and sourcing** module, then to **Purchase
-    agreements**, and then to **Purchase agreements**. 
+    agreements**, and then to **Purchase agreements**.Â 
 
-2.  Click **New**. 
+2.  Click **New**.Â 
 
-3.  Vendor account: Select **US-104** (Fabrikam Supplier). 
+3.  Vendor account: Select **US-104** (Fabrikam Supplier).Â 
 
-4.  Purchase agreement classification: Select **General purchases**. 
+4.  Purchase agreement classification: Select **General purchases**.Â 
 
-5.  Open the **General** FastTab. 
+5.  Open the **General** FastTab.Â 
 
-6.  Document title: Enter **General Purchase**. 
+6.  Document title: Enter **General Purchase**.Â 
 
-7.  Default commitment: Select **Product quantity commitment**. 
+7.  Default commitment: Select **Product quantity commitment**.Â 
 
-8.  Click **OK**. 
+8.  Click **OK**.Â 
 
 ### Add an item to the purchase agreement
 
 1.  Click **Add line** in the **Purchase agreement lines** FastTab to create a
-    line. 
+    line.Â 
 
-2.  Item number: Select **D0002** (Cabinet). 
+2.  Item number: Select **D0002** (Cabinet).Â 
 
-3.  Site: Select **1** (Home speakers production). 
+3.  Site: Select **1** (Home speakers production).Â 
 
-4.  Warehouse: Select **13** (Finished Goods). 
+4.  Warehouse: Select **13** (Finished Goods).Â 
 
-5.  Quantity: Enter **100**. 
+5.  Quantity: Enter **100**.Â 
 
-6.  Unit price: Enter **145.50**. 
+6.  Unit price: Enter **145.50**.Â 
 
-7.  Expiration date: Select the end of the next month. 
+7.  Expiration date: Select the end of the next month.Â 
 
-8.  Click **Save**. 
+8.  Click **Save**.Â 
 
 ### Confirm the purchase agreement
 
 1.  Click **Purchase Agreement** at the top, and then select **Confirmation**
-    under the **Generate** section. 
+    under the **Generate** section.Â 
 
-2.  Select **Yes** in the **Print report** field. 
+2.  Select **Yes** in the **Print report** field.Â 
 
-3.  Click **OK**. 
+3.  Click **OK**.Â 
 
 4.  Close all pages
 
@@ -707,40 +707,40 @@ this purchase price using a trade agreement journal, so that whenever a purchase
 order is created for item A0001 and the vendor is from the domestic vendors, the
 price will default to \$8.26.
 
-### Create a Trade agreement for a vendor. 
+### Create a Trade agreement for a vendor.Â 
 
 1.  Go to **Procurement and sourcing**, then to **Prices and discounts**, and
-    then to **Trade agreement journals**. 
+    then to **Trade agreement journals**.Â 
 
-2.  Click **New**. 
+2.  Click **New**.Â 
 
 3.  Name: Select **S_Price** for Sales price adjustment
 
-4.  Click the **Lines** button to open the journal. 
+4.  Click the **Lines** button to open the journal.Â 
 
-5.  Relation: Select **Price (purch.)**. 
+5.  Relation: Select **Price (purch.)**.Â 
 
-6.  Account code or Party code type: Select **Group**. 
+6.  Account code or Party code type: Select **Group**.Â 
 
-7.  Account selection: Select **Domestic** vendors. 
+7.  Account selection: Select **Domestic** vendors.Â 
 
-8.  Item code/Product code type: Select **Table**. 
+8.  Item code/Product code type: Select **Table**.Â 
 
-9.  Item Relation: Select **A0001, HDMI 6' Cables**. 
+9.  Item Relation: Select **A0001, HDMI 6' Cables**.Â 
 
-10. Site: Enter **1**. 
+10. Site: Enter **1**.Â 
 
-11. Warehouse: Enter **13**. 
+11. Warehouse: Enter **13**.Â 
 
-12. From: Enter **1**. 
+12. From: Enter **1**.Â 
 
-13. Amount in currency: Enter **8.26**. 
+13. Amount in currency: Enter **8.26**.Â 
 
-14. Change to the **Details** tab. 
+14. Change to the **Details** tab.Â 
 
-15. From date: Select **February 15, 2017**.  
+15. From date: Select **February 15, 2017**.Â Â 
 
-16. Select **Validate** \> **Validate all lines**. 
+16. Select **Validate** \> **Validate all lines**.Â 
 
 17. Click **OK**.
 
@@ -751,7 +751,7 @@ price will default to \$8.26.
 Exercise \#11 Create a guest user for a supplier (Bonus)
 --------------------------------------------------------
 
-*Objective:  Create a guest user for a supplier so they can access the system.*
+*Objective:Â  Create a guest user for a supplier so they can access the system.*
 
 USMF is trying to improve the relation and supplier relation management using
 the vendor collaborations feature. This feature gives suppliers the ability to
@@ -766,32 +766,32 @@ You will have to do the following:
 
 -   Verify external roles.
 
-### Verify external roles 
+### Verify external rolesÂ 
 
 1.  In **USMF**, navigate to **System administration\>Security\>External
-    roles**. 
+    roles**.Â 
 
 2.  Verify that **Vendor (external)** and **Vendor admin (external)** roles are
-    listed.  
+    listed.Â Â 
 
 3.  Navigate to **Procurement and sourcing\>Vendors\>All vendors**.
 
-4.  Click the vendor 1001 link to open the details page. 
+4.  Click the vendor 1001 link to open the details page.Â 
 
 5.  In the **Collaboration activation** field, select **Active (PO is not
     auto-confirmed)**.
 
-6.  Select **Add contacts** from the action pane  
+6.  Select **Add contacts** from the action paneÂ Â 
 
 7.  In the first name field select **Alex Darrow**.
 
-8.  Click **Save**. 
+8.  Click **Save**.Â 
 
 9.  Click **Provision vendor user**.
 
-10. Setup the email alias such as someone\@microsoft.com. 
+10. Setup the email alias such as someone\@microsoft.com.Â 
 
-11.  Type Demo vendor collaboration in the **Business justification** field. 
+11. Â Type Demo vendor collaboration in the **Business justification** field.Â 
 
 12. Select **Vendor collaboration access allowed** check box under **Legal
-    entities the person is a contact for**. 
+    entities the person is a contact for**.Â 
