@@ -30,6 +30,8 @@ Objectives
 -   *Create a trade agreement for domestic vendors that specifies a fixed price
     for a certain item.*
 
+-   *Create a guest user for a supplier so they can access the system.*
+
 Exercise \#1 Create, submit, and approve a purchase requisition
 ---------------------------------------------------------------
 
