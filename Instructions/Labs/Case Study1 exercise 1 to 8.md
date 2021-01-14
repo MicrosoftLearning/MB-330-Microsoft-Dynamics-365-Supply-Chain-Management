@@ -1,5 +1,5 @@
 ---
-lab: 
+lab 
 title: 'Case study 1 Product information management and inventory management'
 module: 'Module 2 Implement inventory management '
 ---
