@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Case study 4 Quality control and quality management'
+    module: 'Module 5: Configure and manage quality Control and quality management '
+---
 Case study 4 Quality control and quality management
 ===================================================
 
@@ -10,7 +15,7 @@ Objectives
 2.  *Create a manual quality order with a specification.*
 
 3.  *Work with non-conformance issues like faulty items by defining several
-    required specifications. *
+    required specifications.Â *
 
 4.  *Create and process a non-conformance order to have an item repaired and to
     adjust a faulty machine.*
@@ -62,7 +67,7 @@ process the quality order.
 3.  Set the **Use quality management** option to **Yes**.
 
 4.  Click **Report setup**. In USMF, the report setup for quality management is
-    already defined. If this wasn’t done, you’d add new lines here for the
+    already defined. If this wasnâ€™t done, youâ€™d add new lines here for the
     different report types, and select the type of document to be used for each
     report.
 
@@ -137,7 +142,7 @@ process the quality order.
 5.  In the **Quantity** specification field select **Fixed quantity**.
 
 6.  In the **Value** field, enter **1**. This value relates to the Quantity
-    specification that’s selected in the adjacent field.
+    specification thatâ€™s selected in the adjacent field.
 
 7.  Expand or collapse the **Process** section.
 
@@ -266,7 +271,7 @@ process the quality order.
 11. Click **OK**.
 
 12. Read the error message generated preventing you from continuing the process
-    of picking and packing because you have now a quality order .
+    of picking and packing because you have now a quality orderÂ .
 
 13. Click **Quality orders**. Note the quality order automatically is generated.
 
@@ -375,7 +380,7 @@ Exercise \#3 Define conditions to work with non-conformance issues
 ------------------------------------------------------------------
 
 *Objective: Work with non-conformance issues like faulty items by defining
-several required specifications. *
+several required specifications.Â *
 
 Due to recent issues with customers returning faulty computers, you want to
 setup some processes to deal with faulty items in the system.
@@ -446,7 +451,7 @@ Add a quarantine zone.
 Exercise \#4 Use non-conformance order to repair an item and a faulty machine (Bonus)
 -------------------------------------------------------------------------------------
 
-*Objective: Create and process a non-conformance order to have an item repaired
+*Objective:Â Create and process a non-conformance order to have an item repaired
 and to adjust a faulty machine.*
 
 The company discovered a faulty computer in the inventory, and you will need to
