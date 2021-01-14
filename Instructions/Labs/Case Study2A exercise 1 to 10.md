@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Case study 2A Procurement and sourcing '
-    module: 'Module 3: Implement and manage Supply Chain processes '
+    module: 'Module 3: Implement and manage supply Chain processes '
 ---
 
 Case study 2A Procurement and sourcing
