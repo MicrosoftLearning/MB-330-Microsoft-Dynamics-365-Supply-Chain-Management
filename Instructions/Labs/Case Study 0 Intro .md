@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Case study instructions'
+    module: 'Module 0: Supply chain management case studies '
+---
 Case study instructions
 =======================
 
