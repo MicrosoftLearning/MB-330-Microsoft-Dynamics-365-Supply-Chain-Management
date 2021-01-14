@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Case study 4 Quality control and quality management'
-    module: 'Module 5: Configure and manage quality Control and quality management '
+    module: 'Module 5: Configure and manage quality control and quality management '
 ---
 Case study 4 Quality control and quality management
 ===================================================
