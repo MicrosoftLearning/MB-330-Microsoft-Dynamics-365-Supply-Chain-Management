@@ -1,7 +1,7 @@
 ---
 lab:
-title: 'Exercise 1: Configure a new legal entity'
-module: 'Module 2: Set up and configure financial management'
+    title: 'Case study 1 Product information management and inventory management'
+    module: 'Module 2: Implement inventory management '
 ---
 
 Case study 1 Product information management and inventory management
