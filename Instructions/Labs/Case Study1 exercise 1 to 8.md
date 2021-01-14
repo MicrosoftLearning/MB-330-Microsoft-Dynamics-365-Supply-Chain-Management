@@ -1,3 +1,8 @@
+---
+lab: 
+title: 'Case study 1 Product information management and inventory management'
+module: 'Module 2 Implement inventory management '
+---
 Case study 1 Product information management and inventory management
 ====================================================================
 
@@ -23,7 +28,7 @@ industries and has a diverse portfolio of products.
 **Business Challenges and Requirements**
 
 USMF recently implemented Dynamics 365 Supply Chain Management. They hired a new
-full-time team to manage the warehouse and inventory, the new staff doesn’t have
+full-time team to manage the warehouse and inventory, the new staff doesnâ€™t have
 Dynamics 365 Supply Chain management knowledge.
 
 **Your Role**
@@ -32,10 +37,10 @@ You are the Dynamics 365 Supply Chain Management functional consultant that
 implemented the solution. You are called to help the new staff in multiple
 areas.
 
-Exercise \#1 Adding products to a new warehouse using basic inventory management.
+Exercise \#1Â Adding products to a new warehouse using basic inventory management.
 ---------------------------------------------------------------------------------
 
-*Objective: Add products to a new warehouse using basic inventory management.* 
+*Objective: Add products to a new warehouse using basic inventory management.*Â 
 
 You are the supply chain management functional consultant on a project team
 advising your customer on best way to create new warehouse to store the overflow
@@ -131,11 +136,11 @@ to help them creating the new warehouse.
 
 15. Close all pages.
 
-Exercise \#2 Creating a standard cost version that uses a specific model group.
+Exercise \#2Â Creating a standard cost version that uses a specific model group.
 -------------------------------------------------------------------------------
 
 *Objective: Create a standard cost version to record certain model group
-products.* 
+products.*Â 
 
 The warehouse employee at USMF, need to create a standard cost version to record
 products that use the item model group with inventory model of Standard. The
@@ -252,10 +257,10 @@ items must be grouped based on FIFO inventory model.
 
 29. Close the page.
 
-Exercise \#3 Adding and releasing new products to a warehouse
+Exercise \#3Â Adding and releasing new products to a warehouse
 -------------------------------------------------------------
 
-*Objective: Add new products with and without variants.* 
+*Objective: Add new products with and without variants.*Â 
 
 Some new products are introduced by USMF and must be added to the new warehouse.
 As supply chain manager, you will have to create 2 new products:
@@ -382,10 +387,10 @@ As supply chain manager, you will have to create 2 new products:
 
 Close all pages.
 
-Exercise \#4 Using the inventory movement journal to initialize stock levels in a warehouse
+Exercise \#4Â Using the inventory movement journal to initialize stock levels in a warehouse
 -------------------------------------------------------------------------------------------
 
-*Objective: Initialize stock levels in a warehouse by using movement journals.* 
+*Objective: Initialize stock levels in a warehouse by using movement journals.*Â 
 
 USMF company has some inventory opening balance for one of its products and is
 it necessary to add to that stock. There are no specific purchase order
@@ -461,7 +466,7 @@ Exercise \#5 Using the inventory transfer journal to move items to a new locatio
 --------------------------------------------------------------------------------------------------
 
 *Objective: Move items from a plate-controlled location to a location that is
-not license plate controlled.* 
+not license plate controlled.*Â 
 
 ### Transfer physical inventory within the warehouse using transfer journals
 
@@ -512,7 +517,7 @@ Exercise \#6 Adjusting stock levels using the inventory adjustment journal
 --------------------------------------------------------------------------
 
 *Objective: Adjust stock levels after an error by using the inventory adjustment
-journal.* 
+journal.*Â 
 
 During the transfer journal processing a user recorded the wrong number of items
 moved to the new location.
@@ -573,7 +578,7 @@ Exercise \#7 Using the inventory counting journal to compare D365 inventory amou
 
 *Objective: Use the inventory counting journal to compare manually counted
 amounts to the on hand recorded amounts in D365 supply chain and post the
-transaction.* 
+transaction.*Â 
 
 A few days after you have adjusted stock levels, the warehouse manager decide to
 manually count the items in that specific area of the warehouse.
@@ -624,14 +629,14 @@ what to use.
 
 18. In the **Counted** field, enter a number.
 
-19. If you enter a counted number that’s different than the number shown in the
+19. If you enter a counted number thatâ€™s different than the number shown in the
     **On-hand** field, the **Quantity** field is updated to show the
     discrepancy.
 
 20. Click **Save**.
 
 21. Click **Post**. When you post an inventory counting journal, if the counted
-    amount differs from the amount that’s reported in the **On-hand** field, an
+    amount differs from the amount thatâ€™s reported in the **On-hand** field, an
     inventory receipt or issue is posted, the inventory level and value are
     changed, and ledger transactions are generated.
 
@@ -639,19 +644,19 @@ what to use.
 
 23. Close all pages.
 
-Exercise \#8 Creating a BOM in the BOM designer (Bonus)
+Exercise \#8Â Creating a BOM in the BOM designer (Bonus)
 -------------------------------------------------------
 
-*Objective:  Create a BOM in the BOM designer with a title, item group, site and
+*Objective:Â  CreateÂ a BOM in the BOM designer with a title, item group, site and
 quantities.*
 
-The designer at USMF has received a new specification for the enclosure
-side of a cabinet. and she has requested your assistance. You see that an item
-is not set up for this specification, so you only need to create a simple BOM
-with component lines. Use employee 000020, Julia Funderburk, to approve the BOM.
+TheÂ designerÂ atÂ USMFÂ hasÂ received a new specification for the enclosure
+sideÂ ofÂ aÂ cabinet. and she has requested your assistance.Â You see that an item
+is not set up for this specification,Â soÂ you only need to create a simple BOM
+with component lines.Â Use employee 000020, Julia Funderburk, to approve the BOM.
 
-Create a BOM titled “High Quality Speaker” and assign it to the Audio item group
-at site 1. Use the BOM designer to add items with warehouse 11 and the following
+Create a BOM titled â€œHigh Quality Speakerâ€Â andÂ assign it to the Audio item group
+at site 1. Use the BOM designer toÂ add items with warehouse 11 and the following
 quantities:
 
 -   1 qty of M0008 / High End Cabinet / Black
