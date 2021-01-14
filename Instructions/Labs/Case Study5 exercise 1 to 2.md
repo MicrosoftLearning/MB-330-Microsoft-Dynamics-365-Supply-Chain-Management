@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Case study 5 Master planning'
+    module: 'Module 6: Implement master planning '
+---
 Case study 5 Master planning
 ============================
 
@@ -69,7 +74,7 @@ You need to change the planned order type for an order.
 
 3.  Select the **Planned order** tab in the action pane.
 
-4.  Click the **Change to …** drop-down arrow in the **Maintain** area.
+4.  Click the **Change to â€¦** drop-down arrow in the **Maintain** area.
 
 5.  Select **Planned production order**.
 
@@ -135,7 +140,7 @@ Would you assist the planning manager in doing the following?
 
 9.  Click **New** on the tool bar for Intercompany planning group members tab.
 
-10. Select **Legal entity - DEMF**, **Scheduling sequence - 0, Master plan –
+10. Select **Legal entity - DEMF**, **Scheduling sequence - 0, Master plan â€“
     20.**
 
 11. Leave **Automatic Copy to Static Plan** and **Automatic Copy to Dynamic
