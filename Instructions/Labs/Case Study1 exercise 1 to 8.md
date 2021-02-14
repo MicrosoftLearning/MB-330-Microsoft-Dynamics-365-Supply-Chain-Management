@@ -50,7 +50,7 @@ of new products.
 Your customer is managing a small warehouse that does not require the full
 capabilities of warehouse management systems (WMS).
 
-you and the Solution architect are in favor of using basic inventory management
+You and the Solution architect are in favor of using basic inventory management
 to help them creating the new warehouse.
 
 **What would you do?**
@@ -62,11 +62,11 @@ to help them creating the new warehouse.
 
 2.  Click the **Locations** tab.
 
-3.  In the **Standard width** field, enter 450.
+3.  In the **Standard width** field, enter **450.00**.
 
-4.  In the **Standard depth** field, enter 250.
+4.  In the **Standard depth** field, enter **250.00**.
 
-5.  In the **Standard height** field, enter 200.
+5.  In the **Standard height** field, enter **200.00**.
 
 6.  Click **Save**.
 
@@ -79,13 +79,13 @@ to help them creating the new warehouse.
 
 2.  Click **New**.
 
-3.  In the **Warehouse** field, type 17.
+3.  In the **Warehouse** field, type **17**.
 
-4.  In the **Name** field, type Raw materials.
+4.  In the **Name** field, type **Raw materials**.
 
 5.  In the **Site** field, click the drop-down button to open the lookup.
 
-6.  In the list, find and select site 1.
+6.  In the list, find and select **site 1**.
 
 7.  Expand the **Location names** section. The options in this section define
     the default format for location names. In our example, we'll include the
@@ -95,11 +95,11 @@ to help them creating the new warehouse.
 
 9.  Set the **Include rack** option to **Yes**.
 
-10. In the **Format** field, for the rack, type -\#\#
+10. In the **Format** field, for the rack, type **-\#\#**
 
 11. Set the **Include shelf** option to **Yes**.
 
-12. In the **Format** field, for the shelf, type -\#\#
+12. In the **Format** field, for the shelf, type **-\#\#**
 
 13. Click **Save**.
 
@@ -133,7 +133,7 @@ to help them creating the new warehouse.
 
 13. On the **Edit and delete picking locations** screen, click **Next**.
 
-14. Click **Finish**.
+14. Review the elements to be created by the Location Wizard. Click **Finish** to create the elements.
 
 15. Close all pages.
 
@@ -228,8 +228,7 @@ items must be grouped based on FIFO inventory model.
 
 15. Select Yes in the **Number sequence No**. field.
 
-16. In the **Number sequence code** field, choose any number sequence of your
-    choice.
+16. In the **Number sequence code** field, accept the default number sequence.
 
 17. Select Yes in the **Only for inventory transactions** field.
 
@@ -249,8 +248,7 @@ items must be grouped based on FIFO inventory model.
 
 25. Select Yes in the **Number sequence No**. field.
 
-26. In the **Number sequence code** field, choose any number sequence of your
-    choice
+26. In the **Number sequence code** field, accept the default number sequence.
 
 27. Select Yes in the **Only for inventory transactions** field.
 
@@ -290,7 +288,7 @@ As supply chain manager, you will have to create 2 new products:
 
 7.  In the **Search name** field, type **VNeckTShirt**.
 
-8.  In the **Retail category** field, select **Apparel and Footwear**.
+8.  In the **Retail category** field, select **Apparel and Footwear** and click **OK**.
 
 9.  In the **Product dimension group** field, select **ColorSize**.
 
@@ -324,7 +322,7 @@ As supply chain manager, you will have to create 2 new products:
 
 23. Navigate to **Product information management\>Products\>Released products**.
 
-24. Using quick filter search by item number for **GTLS001**.
+24. Using quick filter search by item number, type **GTLS001**.
 
 25. Click item **GTLS001** to open the product master record.
 
@@ -393,12 +391,12 @@ Exercise \#4 Using the inventory movement journal to initialize stock levels in
 
 *Objective: Initialize stock levels in a warehouse by using movement journals.* 
 
-USMF company has some inventory opening balance for one of its products and is
+USMF company has some inventory opening balances for one of its products and is
 it necessary to add to that stock. There are no specific purchase order
 references for the items, so the opening balance will have to be forced into the
 system.
 
-The warehouse manager, will have to use the inventory movement journal to add
+The warehouse manager will have to use the inventory movement journal to add
 the opening balance and use an offset account to balance the transaction in the
 general ledger.
 
@@ -421,7 +419,7 @@ data entities.
 4.  Select **Imov**. It is a good practice to use different journal name
     templates for the different business purposes.
 
-5.  In the **Offset account** field, specify the values **140200.** This is the
+5.  In the **Offset account** field, type **140200**. This is the
     offset account that will be the default account on the journal lines. It is
     possible to override the default to assign different offset accounts per
     line.
@@ -434,34 +432,29 @@ data entities.
 
 9.  Select item **A0001**.
 
-10. Click the **Inventory dimensions** tab.
+10. In the **Line details section**, click the **General** tab. 
 
-11. In the **Site** field, click the drop-down button to open the lookup.
+11. In the **Quantity** field, type **10**.
 
-12. Select site **1**.
+12. Click the **Inventory dimensions** tab.
 
-13. In the **Warehouse** field, click the drop-down button to open the lookup.
+13. In the **Site** field, select site **1**.
 
-14. Select warehouse **13**.
+13. In the **Warehouse** field, select warehouse **13**.
 
-15. In the **Location** field, click the drop-down button to open the lookup.
+14. In the **Location** field, select location **13**.
 
-16. Select location **13**.
+15. Click **Save**.
 
-17. In the **Quantity** field, enter a number.
+16. Click **Post**.
 
-18. Click **Save**.
-
-19. Click **Post**.
-
-20. Check or uncheck the **Transfer all posting errors to a new journal** check
-    box. If you enable this option, any lines that fail to post will be copied
+17. Select **Transfer all posting errors to a new journal**. If you enable this option, any lines that fail to post will be copied
     to a new journal. You can use the information in the log to correct the
     issues and then re-post the lines.
 
-21. Click **OK**.
+18. Click **OK**.
 
-22. Close all pages.
+19. Close all pages.
 
 Exercise \#5 Using the inventory transfer journal to move items to a new location in the warehouse
 --------------------------------------------------------------------------------------------------
@@ -479,25 +472,25 @@ not license plate controlled.* 
 
 4.  Click **OK**.
 
-5.  Click **New** in the **Journal lines** fast tab.
+5.  Click **New** in the **Journal lines** fast tab. 
 
-6.  In the **Item number** field, enter or select **A0001**.
+6.  In the **Item number** field, enter or select **A0001**. Use the tab key to advance to the next field.
 
-7.  In the **From site** field, enter or select **2**.
+7.  In the **From site** field, enter or select **2**. Use the tab key to advance to the next field.
 
-8.  In the **To site** field, enter or select **2**.
+8.  In the **To site** field, enter or select **2**. Use the tab key to advance to the next field.
 
-9.  In the **From warehouse** field, enter or select **24**.
+9.  In the **From warehouse** field, enter or select **24**. Use the tab key to advance to the next field.
 
-10. In the **To warehouse** field, enter or select **24**.
+10. In the **To warehouse** field, enter or select **24**. Use the tab key to advance to the next field.
 
-11. In the **From location** field, enter or select **FL-001**.
+11. In the **From location** field, enter or select **FL-001**. Use the tab key to advance to the next field.
 
-12. In the **To location** field, enter or select **BULK-001**.
+12. In the **To location** field, enter or select **BULK-001**. Use the tab key to advance to the next field.
 
-13. In the **Quantity** field, enter a number.
+13. In the **Quantity** field, enter **-10**. Use the tab key to advance to the next field.
 
-14. Click the **Inventory dimensions** tab in the **Line details** fast tab.
+14. In the **Line details** section, click the **Inventory dimensions** tab 
 
 15. In the **License plate** field, in both the **From inventory dimensions**
     and **To inventory dimensions** groups, enter or select **24**.
