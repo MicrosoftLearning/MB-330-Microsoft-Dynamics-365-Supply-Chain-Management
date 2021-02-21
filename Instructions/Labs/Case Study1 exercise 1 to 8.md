@@ -701,16 +701,19 @@ You will:
 
 18. Click **OK**.
 
-19. Close the page.
+19. In the list of Bill of materials lines, the row for **M0002 / Mid-Range Speaker Unit** should be selected.
 
-20. Refresh the page.
+20. Click **BOM lines**.
 
-21. In the list of Bill of materials lines, find and select the row for **M0002
-    / Mid-Range Speaker Unit**.
+21. Click **Edit**.
 
-22. Set **Quantity** to **2.0000**.
+23. Set **Quantity** to **2.0000**.
 
-23. Click **Approval at the top**. Select **000020**, Julia Funderburk.
+24. Click **OK**.
+
+25. Close the page.
+
+23. Click **Approval**. Select **000020**, Julia Funderburk.
 
 24. Click **OK**.
 
