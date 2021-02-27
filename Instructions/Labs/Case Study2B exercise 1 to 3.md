@@ -47,9 +47,9 @@ She is not sure on the steps enter and confirm the sales order.
 
 5.  Click **OK**.
 
-6.  Click **Sales order line**.
+6.  In the **Sales order lines** FastTab, open the **Sales order line** drop-down.
 
-7.  Click **Dimensions**.
+7.  Select **Dimensions**.
 
 8.  For this example, select the Color, Site and Warehouse dimensions. The
     dimensions you select here will appear in the sales order grid. If you want
@@ -61,11 +61,11 @@ She is not sure on the steps enter and confirm the sales order.
 
 11. For this example, select item number **T0004**.
 
-12. In the **Color** field, click the drop-down button to open the lookup.
+12. In the **Quantity** field, enter **1**.
 
-13. In the list, find and select **Black**
+13. Use the tab key to move to the **Color** field. CBlacklick the drop-down button to open the lookup.
 
-14. In the **Quantity** field, enter **1**.
+14. In the list, find and select **Black**.
 
 ### Review the order totals
 
@@ -86,14 +86,18 @@ She is not sure on the steps enter and confirm the sales order.
 
 1.  On the Action Pane, click **Sell**.
 
-2.  Click **General\> confirm Sale Order**.
+2.  Click **Generate \> confirm Sale Order**.
 
-3.  This will prompt you with a screen where you will check the **Posting** flag
-    is set to Yes and **Print confirmation** is set to Yes.
+3.  Expand the Parameters **FastTab**. Confirm that the **Posting** flag
+    is set to **Yes**. Set the **Print confirmation** flag to Yes.
 
 4.  Click **OK**.
 
+5.  You will recieve a **Warning** message that will describe you print settings. Click **Yes** to continue posting.
+
 5.  This will print the Sale order Confirmation on the screen
+
+7.  Close the report and all pages.
 
 Exercise \#2 Create and review a sales order for commission
 -----------------------------------------------------------
@@ -123,7 +127,7 @@ You will have to do the following:
 
 2.  Click **Edit**.
 
-3.  In the To field select **12/31/2020**
+3.  In the To field select **12/31/2024**
 
 4.  Click **Save.**
 
@@ -140,15 +144,11 @@ You will have to do the following:
 
 10. Click **OK**.
 
-11. On the Action Pane, click **Options**.
+11. In the top right of the Sales order, click **Header**.
 
-12. Click **Change view**.
+12. Expand the **Setup** FastTab.
 
-13. Click **Header view**.
-
-14. Expand the **Setup** section.
-
-15. The value in the **Sales group** field represents a group with one or more
+13. The value in the **Sales group** field represents a group with one or more
     sales representatives assigned to it. The people in the group are the ones
     who will receive commissions when the order is invoiced, as per predefined
     rates and distribution. The value is copied from the Customer card, but you
@@ -156,85 +156,75 @@ You will have to do the following:
     line. You can change it so that it can differ from the one in the header
     and/or between lines.
 
-16. The value in the **Commission group** field represents a group that you have
+14. The value in the **Commission group** field represents a group that you have
     created for one or more customers with the purpose of tracking commissions.
     The value is copied from the Customer card, but you can change it if you
-    wish.
+    wish. 
 
-17. On the Action Pane, click **Options**.
+15. In the top right of the Sales order, click **Lines**.
 
-18. Click **Change view**.
+16. In the **Item number** field, click the drop-down button to open the lookup.
 
-19. Click **Line view**.
+17. In the list, select **D0001**.
 
-20. In the **Item number** field, click the drop-down button to open the lookup.
+18. In the Quantity field, enter **2**.
 
-21. In the list, select **D0001**.
+19. Use the **Tab** key to move to the **Net amount** field. It represents the sales revenue, which in this example is the basis for commission.
 
-22. In the Quantity field, enter **2**.
+20. Click **Save**.
 
-23. Take note of the net amount. It represents the sales revenue, which in this
-    example is the basis for commission.
+21. On the Action Pane, click **Sell**.
 
-24. Click **Save**.
+22. Click **Generate \> confirm sales order**.
 
-25. On the Action Pane, click **Sell**.
+23. Scroll to the top of the **Confirm sales order** window to view the **Parameters** section. Confirm the **Posting** flag is set to Yes and **Print confirmation** is set to Yes.
 
-26. Click **General\> confirm Sale Order**.
+24. Click **OK**. You will be presented with a **Warning** message displaying your print settings. Click **Yes** to continue.
 
-27. This will prompt you with a screen where you will check the **Posting** flag
-    is set to Yes and **Print confirmation** is set to Yes.
+25. This will print the Sale order Confirmation on the screen. Review and then close the Confirmation report.
 
-28. Click **OK**.
+26. On the Action Pane, click **Pick and Pack**.
 
-29. This will print the Sale order Confirmation on the screen
+27. Click **Generate \> Post packing Slip**.
 
-30. On the Action Pane, click **Pick and Pack**.
+28. Scroll to the top of the **Packing slip posting** page to view the **Parameters** section. Set the Parameter **Quantity** field to **ALL** and confirm the **Posting** flag is set to **Yes**.
 
-31. Click **General\> Post packing Slip**.
+29. Click **OK**. You will be presented with a **Warning** window displaying your print settings. Click **OK** to continue posting.
 
-32. This will prompt you with a screen where you will check that the Parameter
-    **Quantity** Field is set to **ALL** and the **Posting** flag is set to
-    **Yes**.
+30. On the Action Pane, click **Invoice**.
 
-33. Click **OK**.
+31. Under **Generate** field group, click **Invoice**.
 
-34. On the Action Pane, click **Invoice**.
+32. Scroll to the top of the **Posting invoice** window to view the **Parameters** section.
 
-35. Under **Generate** field group, click **Invoice**.
+33. In the **Quantity** field, select **All**.
 
-36. Expand the **Parameters** section.
+34. Select **Yes** in the **Posting** field.
 
-37. In the **Quantity** field, select **All**.
+35. Click **OK**. You will be presented with a **Warning** window displaying your print settings. Click **OK** to continue posting.
 
-38. Select **Yes** in the **Posting** field.
-
-39. Click **OK**.
-
-40. Click **OK**. It may take a minute or so to post the transaction. Allow the
-    processing to complete and don’t close the page until it’s done.
+36. Click **OK**. It may take a minute or so to post the transaction. Allow the
+    processing to complete and don’t close the page until the **Operation completed** notice appears.
 
 ### Review the registered sales commissions
 
 1.  On the Action Pane, click **Invoice**.
 
-2.  Under **Journals** field group, click **Invoice**.
+2.  Under the **Journals** field group, click **Invoice**. View the **Invoice amount**.
 
-3.  On the Action Pane, click **Invoice**.
+3.  Under the **Details** field group, click **Commission transactions**.
 
-4.  Click **Details \> Commission transactions**.
-
-5.  The **Overview** tab displays lines representing the commission amounts
+4.  The **Overview** tab displays lines representing the commission amounts
     payable to sales representatives who are associated with the invoiced sales
     order. Review the details.
 
-6.  Close the page.
+5.  Close the page.
 
-7.  Click **Voucher**. You can review the voucher transactions for the
+6.  Click **Voucher**. You can review the voucher transactions for the
     commission amounts that have been posted to the predefined commission
     expense and commission payable accounts.
 
-8.  Close all pages.
+7.  Close all pages.
 
 Exercise \#3 Create a customer trade agreement
 ----------------------------------------------
@@ -256,7 +246,7 @@ the customer is from the retail accounts group, the price will default to \$20.
 
 **What would you do to guide her thru this entry?**
 
-### Create a trade agreement named “Sales price adjustment 
+### Create a trade agreement
 
  
 
@@ -267,7 +257,7 @@ the customer is from the retail accounts group, the price will default to \$20.
 
 3.  Name: Select **S_Price**, **Sales price adjustment**. 
 
-4.  Click the **Lines** button to open the journal. 
+4.  In the Action Pane, click **Lines** to open the journal. 
 
 5.  Relation: Select **Price (sales)**. 
 
@@ -283,13 +273,13 @@ the customer is from the retail accounts group, the price will default to \$20.
 
 11. Amount in currency: Enter **20.00**. 
 
-12. Change to the **Details** tab. 
+12. View the **Details** tab. 
 
 13. From date: Select **February 15, 2017**.  
 
 14. Lead time: Enter **2**. 
 
-15. Select **Validate** \> **Validate all lines**. 
+15. In the Action Pane, select **Validate** \> **Validate all lines**. 
 
 16. Click **OK**.
 
@@ -343,7 +333,8 @@ You will have to do the following:
     this case, the product has item number T0020. 
 
 -   The customer's sales performance, against which the rebate amounts are
-    estimated, is to be accumulated on a weekly basis.  
+    estimated, is to be accumulated on a weekly basis.  Expand the section above Lines to view
+    the following settings:
 
     -   The setting for **Price taken from** is **Gross**, which means that
         line's sales amount on which basis the claim is estimated is not reduced
@@ -373,9 +364,9 @@ You will have to do the following:
 
 6.  Set **Quantity** to '40'. 
 
-7.  Click **Sales order line**. 
+7.  Click the **Sales order line** drop-down.
 
-8.  Click **Price details**. 
+8.  Select **Price details**. 
 
 9.  Expand the **Rebates** section. The Rebates tab lists all the rebate
     agreements that are applicable to the current order line and shows the
@@ -392,9 +383,9 @@ You will have to do the following:
 
 12. On the Action Pane, click **Invoice**. 
 
-13. Click **Invoice \> Generate \> Invoice**. 
+13. In the **Generate** section, click **Invoice**. 
 
-14. Expand the **Parameters** section. 
+14. Scroll up and expand the **Parameters** section. 
 
 15. In the Quantity field, select **'All'**. 
 
