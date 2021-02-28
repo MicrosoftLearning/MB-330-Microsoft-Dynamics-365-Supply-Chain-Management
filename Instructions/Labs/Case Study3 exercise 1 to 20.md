@@ -9,11 +9,11 @@ Case study 3 Warehouse management and transportation management
 Objectives
 ----------
 
-1.  Configure warehouse management
+Configure warehouse management
 
-2.  Perform warehouse management processes
+Perform warehouse management processes
 
-3.  Implement transportation management
+Implement transportation management
 
 Exercise \#1 Configure warehouse management
 -------------------------------------------
