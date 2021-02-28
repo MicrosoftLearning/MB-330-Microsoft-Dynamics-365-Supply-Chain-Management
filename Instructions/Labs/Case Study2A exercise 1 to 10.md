@@ -85,19 +85,17 @@ help her to use?**
 
 6.  Click **OK**.
 
-7.  Change to the **Line details** tab.
+7.  Update the line details on the **Details** tab.
 
-8.  Product name: enter **24-inch HDMI cable**.
+8.  Quantity: Enter **5**.
 
-9.  Quantity: Enter **5**.
+9. Unit price: Enter **41.49**.
 
-10. Unit price: Enter **41.49**.
+10. Vendor Account: Select **1001** (Acme Office Supplies).
 
-11. Vendor Account: Select **1001** (Acme Office Supplies).
+11. Click **OK**.
 
-12. Click **OK**.
-
-13. Click **Save**.
+12. Click **Save**.
 
 ### Submit the purchase requisition created in the previous practice for approval, and perform the approval process.
 
@@ -114,9 +112,9 @@ help her to use?**
 
 6.  Click **Workflow\>Workflow history**
 
-7.  Click **Refresh a** few times and wait until the work items shows records.
+7.  Wait until the work items section contains records (click **Refresh** to check status).
 
-8.  Click **Reassign** button.
+8.  Select the first item and click **Reassign**.
 
 9.  Select **Admin** in the **User field.**
 
@@ -133,6 +131,8 @@ help her to use?**
 2.  Comment: Enter **Approved.**
 
 3.  Click **Approve**
+
+4. Close all pages.
 
 Exercise \#2 Create, reply and accept a request for quotation (Bonus)
 ---------------------------------------------------------------------
@@ -183,14 +183,15 @@ You will have to do the following:
 
 3.  Item number: Select **A0001** (HDMI 6’ Cables).
 
-4.  Quantity: Enter **500**.
+4.  Tab over to the **Quantity** field. 
+  
+5.  Enter a quantity of **500**.
 
-5.  Click **Save**.
+6.  Click **Save**.
 
-6.  Send the request for quotation to the vendors.
+Send the request for quotation to the vendors.
 
-7.  Click **Options** at the top, click **Change view**, and then select
-    **Header view**.
+7.  In the top right corner of the form, select **Header**.
 
 8.  Open the **Vendor** FastTab.
 
@@ -216,51 +217,72 @@ You will have to do the following:
 Update the request for the quotation created in the previous practice with the
 vendor responses.
 
-### Process the quotation for US-103. Enter the vendors’ replies to the request for quotation. 
+### 1) Enabling RFQ reply by purchaser
 
-1.  Go to the **Procurement and sourcing** module, then to **Requests for
-    quotations**, and then to **All requests for quotations**.
+1.  Go to the **Procurement and sourcing** module, then to **Setup**, and then to **Procurement and sourcing parameters**.
 
-2.  Open the request for quotations created in the previous practice.
+2.  Select **Request for quotation**. In the **RFQ REPLY** section, set **Purchaser can edit vendors bid** to **Yes**.
 
-3.  Click **Options** at the top, click **Change view**, and then select
-    **Header view**.
+3.  Click **Save**.
 
-4.  Click the **Vendor** FastTab.
+### Process the quotation for US-103 and US-111. Enter the vendors’ replies to the request for quotation. 
 
-5.  Click the **Request for quotation** number for **US-111** (Contoso office
-    supply).
+1.  Go to the **Vendor collaboration** module, then to **Requests for quotations**, and then to **Request for quotation bid**.
 
-6.  Quantity: Enter **500**.
+2.  Select the **Request for quotation** item for **US-103** (Rain Projectors).
 
-7.  Unit: Enter **ea**.
+3.  In the upper-left corner you can now start the reply process by clicking **BID**.
 
-8.  Unit price: Enter **10.00**.
+4.  Select a line and open the **Line Details** FastTab.
 
-9.  Click **Save**.
+5.  Quantity: Enter **500**.
 
-10. Close the **Request for Quotation Reply** form.
+6.  Unit: Enter **ea**.
 
-11. Click the **Request for quotation** number for **US-103** (Rain Projectors).
+7.  Unit price: Enter **8.00**.
 
-12. Quantity: Enter **500**.
+8.  Click **Save**.
 
-13. Unit: Enter **ea**.
+9.  Click **Submit**. Close the **You have successfully submitted your bid** window.
 
-14. Unit price: Enter **8.00**.
+10. Select the **Request for quotation** item for **US-111** (Contoso office supply).
 
-15. Click **Save**.
+11. Start the reply process by clicking **BID**. 
 
-16. Close the **Request for Quotation Reply** form.
+12. Select a line and open the **Line Details** FastTab.
+
+13. Quantity: Enter **500**.
+
+14. Unit: Enter **ea**.
+
+15. Unit price: Enter **10.00**.
+
+16. Click **Save**.
+
+17. Click **Submit**. Close the **You have successfully submitted your bid** window.
+
+18. Close all pages.
 
 ### Accept a vendor’s reply.
 
-1.  Click the **Request for quotation** number for **US-103** (Rain Projectors).
+1.  Go to **Procurement and sourcing**, then to **Requests for quotations**, and
+    then to **All requests for quotations**.
+    
+2.  Select the **HDMI Cables** quotation.
 
-2.  Click **Reply** at the top, and then select **Accept** under the **Process**
-    section.
+3.  Click **Manage replies**.
 
-3.  Click **OK**.
+4.  Select the reply from **US-103**.
+
+5.  Click **Accept** under the **Process** section.
+
+6.  Click **OK**.
+
+7.  The **Rejecting request for quotation** window opens for **US-111**.
+
+8.  Click **OK** to reject the quotation for **US-111**.
+
+9.  Close all pages.
 
 Exercise \#3 Create purchase requisition and purchasing policies (Bonus)
 ------------------------------------------------------------------------
@@ -287,13 +309,13 @@ He reached out for help and you will have to do the following:
 
 2.  Select **Mike Danseglio** in the list of workers.
 
-3.  Change to the **Requester** FastTab.
+3.  In the **Requester** FastTab, click **Add**.
 
-4.  Click **Add**.
+4.  Name: Select **Susan Burk**.
 
-5.  Name: Select **Susan Burk**.
+5.  Click **Save**.
 
-6.  Click **Save**.
+6.  Close all pages.
 
 ### Create a purchasing policy
 
@@ -304,7 +326,7 @@ He reached out for help and you will have to do the following:
 
 3.  Click the **Policy rules** FastTab.
 
-4.  Click **New**, then **Policy**.
+4.  In the **New** menu group, click **Policy**.
 
 5.  Name: Enter **Office Supplies**.
 
@@ -321,6 +343,8 @@ He reached out for help and you will have to do the following:
 11. Click **OK**.
 
 12. Click **Save**.
+
+13. Close all pages.
 
 Exercise \#4 Create a purchase order for delivery to multiple sites
 -------------------------------------------------------------------
@@ -395,20 +419,24 @@ He is not clear how to perform this using the system and asking your help
 
     11. Click **OK**.
 
-8.  Click **Save**.
+8.  On the Action Pane, click **Save**.
 
-9.  On the Action Pane, click **Receive**.
+9.  On the Action Pane, click **Purchase**. 
 
-10. Click Generate \> **Product receipt**.
+10. In the **Actions** group, click **Confirm**.
 
-11. Change Quantity to Registered quantity.
+11.  On the Action Pane, click **Receive**.
 
-12. In the **Product receipt** field, enter the product receipt number. For
+12. Click Generate \> **Product receipt**.
+
+13. Change Quantity to Registered quantity.
+
+14. In the **Product receipt** field, enter the product receipt number. For
     example, enter **PR123**.
 
-13. Click **OK** to post the product receipt.
+15. Click **OK** to post the product receipt.
 
-14. Close all pages.
+16. Close all pages.
 
 Exercise \#5 Create a charges code
 ----------------------------------
@@ -511,15 +539,13 @@ You will have to do the following:
 
 8.  Open the vendor record for vendor **US-104** (Fabrikam Supplier).
 
-9.  Click **Edit**.
+9. Open the **Purchase order defaults** FastTab.
 
-10. Open the **Purchase order defaults** FastTab.
+10. Charges group: Select **06** (Freight 15%).
 
-11. Charges group: Select **06** (Freight 15%).
+11. Click **Save**.
 
-12. Click **Save**.
-
-13. Close the vendor record
+12. Close the vendor record
 
 Exercise \#7 Create an automatic charge (Bonus)
 -----------------------------------------------
@@ -561,7 +587,7 @@ You will have to do the following:
 1.  Go to the **Accounts payable** module, then to **Charges setup**, and then
     to **Automatic charges**.
 
-2.  Level: Select **Line**.
+    2.  Level: Select **Line**.
 
 3.  Click **New**.
 
@@ -575,7 +601,7 @@ You will have to do the following:
 
 8.  Click **Save**.
 
-9.  Click **Add** in the **Lines** FastTab.
+9.  Edit the new line in the **Lines** FastTab.
 
 10. Charges code: Select **TRANSTO** (Transportation Fee).
 
@@ -584,6 +610,8 @@ You will have to do the following:
 12. Charges value: Enter **15.00**.
 
 13. Click **Save**.
+
+14. Close all pages.
 
 Exercise \#8 Approve purchase orders prior to confirmation (Bonus)
 ------------------------------------------------------------------
@@ -608,11 +636,9 @@ You will have to do the following:
 
 2.  Select the **General** tab on the left.
 
-3.  Change to the **Change Management for Purchase Orders** section.
+3.  Set **Allow override of settings per vendor** to **Yes** in the **Change Management for Purchase Orders** section.
 
-4.  Allow override of settings per vendor: Select **Yes**.
-
-5.  Click **Save**.
+4.  Click **Save**.
 
 ### Configure change management for a vendor
 
@@ -621,9 +647,9 @@ You will have to do the following:
 
 2.  Open the vendor record for vendor **1001** (Acme Office Supplies).
 
-3.  Open the **Purchase order defaults** FastTab.
-
-4.  Click **Edit**.
+3.  Click **Edit**.
+ 
+4.  Open the **Purchase order defaults** FastTab. 
 
 5.  Go to the **Change Management for Purchase Orders** section.
 
@@ -674,7 +700,7 @@ price will default to \$8.26.
 
 13. Amount in currency: Enter **8.26**. 
 
-14. Change to the **Details** tab. 
+14. Go to the **Details** FastTab. 
 
 15. From date: Select **February 15, 2017**.  
 
