@@ -397,6 +397,10 @@ He is not clear how to perform this using the system and asking your help
 
 8.  Click **Save**.
 
+9.  On the Action pane, click **Purchase**
+
+10. Click **Actions > Confirm**.
+
 9.  On the Action Pane, click **Receive**.
 
 10. Click Generate \> **Product receipt**.
