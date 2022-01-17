@@ -243,7 +243,7 @@ format for Aisle-Rack-Shelf, Aisle-Shelf, and Bay door
 
 18. Type **RS** in the **Location format** field.
 
-19. Type **Rack - Shel**f in the Name field.
+19. Type **Rack - Shelf** in the Name field.
 
 20. Add segments to the second location format.
 
@@ -345,7 +345,7 @@ profiles for Picking, Staging, Receiving, Bulk, and Fresh.
 
 1.  Click **New** to create a new Location profile.
 
-2.  In the L**ocation profile ID** enter **STAGING.**
+2.  In the **Location profile ID** enter **STAGING.**
 
 3.  In the **Name** field, enter **Staging locations**.
 
