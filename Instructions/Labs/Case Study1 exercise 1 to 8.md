@@ -382,7 +382,7 @@ As supply chain manager, you will have to create 2 new products:
 
 52. Click **Variant suggestions** from the **Product Variant** action pane.
 
-53. Click **Select all**.
+53. Click **Suggest all**.
 
 54. Click **Create**.
 
@@ -683,7 +683,7 @@ You will:
 
 6.  Click **Designer**.
 
-7.  Click **BOM lines**.
+7.  Click **Formula lines**.
 
 8.  Click **Add to component BOM**.
 
@@ -692,7 +692,7 @@ You will:
 
 10. Click **OK**.
 
-11. Click **BOM lines**.
+11. Click **Formula lines**.
 
 12. Click **Add after line.**
 
@@ -700,7 +700,7 @@ You will:
 
 14. Click **OK**.
 
-15. Click **BOM lines**.
+15. Click **Formula lines**.
 
 16. Click **Add before line**.
 
@@ -717,7 +717,7 @@ You will:
 
 22. Set **Quantity** to **2.0000**.
 
-23. Click **Approval at the top**. Select **000020**, Julia Funderburk.
+23. In the Maintain action group, click **Approval**. Select **000020**, Julia Funderburk.
 
 24. Click **OK**.
 
