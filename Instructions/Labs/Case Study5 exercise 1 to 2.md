@@ -44,7 +44,7 @@ You will need to use the following:
 
 1.  Open **Master planning \> Master planning \> Planned orders**.
 
-2.  On the **Planned orders** page, select the line for order number **004261**.
+2.  On the **Planned orders** page, select the line for order number **004126**.
 
 3.  Click the **Firm** button in the action pane.
 
@@ -70,7 +70,7 @@ You need to change the planned order type for an order.
 
 1.  Open **Master planning \> Master planning \> Planned orders**.
 
-2.  On the **Planned orders** page, select the line for order number **004262**.
+2.  On the **Planned orders** page, select the line for order number **004137**.
 
 3.  Select the **Planned order** tab in the action pane.
 
