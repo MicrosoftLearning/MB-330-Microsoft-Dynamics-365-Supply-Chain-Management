@@ -856,16 +856,18 @@ work class that is associated with the menu item determines which work is valid.
 Exercise \#5 Configure purchase orders
 --------------------------------------
 
+Exercise \#5 Configure purchase orders
+
 *Objective: Create and process a purchase order.*
 
-The warehouse manager for Contoso Orange Juice wants to process a purchase order
-receipt using a mobile device.
+The warehouse manager for USMF wants to process a purchase order receipt using a
+mobile device.
 
-He ordered 1 box of the Grapefruit juice.
+He ordered 10 Pcs of HDMI 6’ Cables.
 
-These will be from Vendor US-112 and shipped to Warehouse 62.
+These will be from Vendor US-111 and shipped to Warehouse 11.
 
-The unit price will be \$2.50 per box.
+The unit price will be \$20 per Piece.
 
 He is not sure how to record this and asked you to help.
 
@@ -875,79 +877,118 @@ You will need to do the following:
 
 -   Create a purchase order receipt using the mobile device.
 
-### Create a purchase order
+Create a purchase order
 
-1.  In **USP2**, open **Accounts payable \> Purchase orders \> All purchase
-    orders.**
+1.  In **USP2,** Navigate to **Accounts payable \> Purchase orders \> All
+    purchase orders.**
 
 2.  Click **New** in the action pane.
 
-3.  Select **Vendor US-112**.
+-   Select **Vendor US-112**.
 
-4.  On the **General** FastTab, enter storage dimensions of Site **3** and
+-   On the **General** FastTab, enter storage dimensions of Site **3** and
     Warehouse **30**.
 
-5.  Click **OK**.
+-   Click **OK**.
 
-6.  On the **Purchase order lines** FastTab, select item **P9500**. Ignore any
-    warnings.
+1.  On the **Purchase order lines** FastTab, select **Item number P9500**.
 
-7.  Enter a quantity of **10**.
+*Note*
 
-8.  Enter a unit price of **\$2.50**.
+*You will get a message that the vendor is not authorized for this product. This
+is a warning only. You may continue after closing the message.*
 
-9.  On the Purchase tab of the action pane, in the **Actions** group, click
-    **Confirm**.
+-   Enter a **Quantity** of **1**.
 
-10. Note your purchase order number.
+-   Enter a **Unit price** of **2.50**.
 
-11. Close the form.
+-   Expand the **Line details** fast tab.
 
-### Create a purchase order receipt using the mobile device
+-   Select the **Financial dimensions** tab.
 
-1.  Log in to the mobile device with the user you have enabled.
+-   In the **Financial dimensions**, the **Product Group** field, select **OJ
+    B2B**.
 
-2.  Click **Inbound**.
+1.  Under **Purchase Tab** in Action Pane. In the **Actions** group,
+    select **Confirm** and note your purchase order number.
 
-3.  Click **Purchase receive**.
+2.  Note your purchase order number.
 
-4.  Enter the purchase order number in the **PONUM** field.
+3.  Close the form.
 
-5.  Click the green checkmark.
+4.  Navigate to **Warehourse Management \> Setup \> Worker.**
 
-6.  Enter Item number **P9500**.
+5.  Click on **New.**
 
-7.  Click the green checkmark.
+    1.  Select **Ted Howard** under **Worker**
 
-8.  Enter a quantity of **1** in the **Qty** field.
+    2.  Click on **New** User ID under **Users** fast Tab. Enter **toward**
+        under **User ID** and **User name.**
 
-9.  Click the green checkmark.
+    3.  **Default Warehouse – 30**
 
-10. Click the green checkmark again.
+    4.  **Menu name – Main**
 
-11. Enter LP number **LP951**.
+    5.  Click on **Save.**
 
-12. Click the green checkmark.
+6.  Set the **Password – 12345, Confirm Password – 12345.** Click on **Set
+    Password.**
 
-13. Enter today’s date as the vendor batch date.
+7.  Close the Page.
 
-14. Click the green checkmark.
+Create a purchase order receipt using the mobile device
 
-15. Enter a date six months from the current date as the Expiry date.
+**Create a purchase order receipt by using the mobile device - Prerequisite**
 
-16. Select the green check mark.
+*To practice using the mobile device, you must enable a mobile device emulator
+in the Virtual machine. You may need to expand the right bar in the lab
+environment to see all content in the instructions. Perform the following
+steps.*
 
-17. Select the **Use as expiration date** arrow.
+1.  Right-click on the tab of your normal system default dashboard and
+    select **Duplicate tab**.
 
-18. Select **No** and select the green check mark.
+2.  The URL on your new tab will be:
+    <https://usnconeboxax1aos.cloud.onebox.dynamics.com/?cmp=USP2&mi=defaultdashboard>
 
-19. For **Country/Region of Origin 1**, enter **USA**.
+3.  Delete all characters on the new tab after dynamics.com (i.e. delete
+    /?cmp=USP2&mi=defaultdashboard)
 
-20. Select the green check mark.
+4.  Replace those characters with **/?mi=action%3awhsWorkExecute&cmp=USP2**
 
-21. Select the green check mark again to bypass the second Country/region entry.
+**Sign into the Mobile Emulator**
 
-22. Note the work completed notification.
+1.  The emulator will now launch, and you can sign in to the mobile device
+    emulator.
+
+2.  Log in to the mobile device with the user you have enabled.
+
+3.  Click **Inbound**.
+
+4.  Click **Purchase receive**.
+
+5.  Enter the purchase order number in the **PONUM** field. Click on **OK**.
+
+6.  Enter Item number **P9500**. Click on **OK**.
+
+7.  Enter a quantity of **1** in the **Qty** field. Click **OK** Twice.
+
+8.  Enter LP number **LP951**. Select **OK**
+
+9.  Enter **today’s date** as the vendor batch date. Click **OK**.
+
+-   Enter a date six months from the current date as the Expiry date. Click
+    **OK.**
+
+-   Select the **Use as expiration date** arrow. Select **No** and select
+    **OK**.
+
+-   For **Country/Region of Origin 1**, enter **USA**. Select **OK.**
+
+1.  Select the green check mark again to bypass the second Country/region entry.
+
+2.  Note the work completed notification.
+
 
 Exercise \#6 Configure wave processing (Bonus)
 ----------------------------------------------
