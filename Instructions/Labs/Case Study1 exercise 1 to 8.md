@@ -57,20 +57,24 @@ to help them creating the new warehouse.
 
 ### Set the default location capacity.
 
-1.  Go to **Inventory management \> Setup \> Inventory and warehouse management
+1.  Access the **Microsoft Dynamics 365 Supply Chain Managment** website and log in with your user credentials.
+
+2.  On the **Finance and Operations** dashboard page, expand the left navigation pane and select the **Inventory management** under the **Modules**. 
+
+3.  On the **Inventory management** Navigate to  **Setup \> Inventory and warehouse management
     parameters**.
 
-2.  Click the **Locations** tab.
+4.  Click the **Locations** tab.
 
-3.  In the **Standard width** field, enter 450.
+5.  In the **Standard width** field, enter 450.
 
-4.  In the **Standard depth** field, enter 250.
+6.  In the **Standard depth** field, enter 250.
 
-5.  In the **Standard height** field, enter 200.
+7.  In the **Standard height** field, enter 200.
 
-6.  Click **Save**.
+8.  Click **Save**.
 
-7.  Close the page.
+9.  Close the page.
 
 ### Define the location name format.
 
