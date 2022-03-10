@@ -290,7 +290,7 @@ As supply chain manager, you will have to create 2 new products:
 
 7.  In the **Search name** field, type **VNeckTShirt**.
 
-8.  In the **Retail category** field, select **Apparel and Footwear**.
+8.  In the **Retail category** field, select **Apparel and Footwear** and select **OK**.
 
 9.  In the **Product dimension group** field, select **ColorSize**.
 
