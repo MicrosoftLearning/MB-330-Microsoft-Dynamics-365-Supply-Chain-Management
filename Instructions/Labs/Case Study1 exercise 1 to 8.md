@@ -59,9 +59,9 @@ to help them creating the new warehouse.
 
 1.  Access the **Microsoft Dynamics 365 Supply Chain Managment** website and log in with your user credentials.
 
-2.  On the **Finance and Operations** dashboard page, expand the left navigation pane and select the **Inventory management** under the **Modules**. 
+2.  On the **Finance and Operations** dashboard page, expand the left navigation pane and select the **Inventory management** under the **Modules** tab. 
 
-3.  On the **Inventory management** Navigate to  **Setup \> Inventory and warehouse management
+3.  On the **Inventory management** page select the  **Setup \> Inventory and warehouse management
     parameters**.
 
 4.  Click the **Locations** tab.
