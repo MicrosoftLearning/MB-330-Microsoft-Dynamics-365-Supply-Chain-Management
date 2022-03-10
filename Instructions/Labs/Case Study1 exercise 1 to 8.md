@@ -74,8 +74,7 @@ to help them creating the new warehouse.
 
 ### Define the location name format.
 
-1.  Go to **Inventory management \> Setup \> Inventory breakdown \>
-    Warehouses**.
+1.  On the **Finance and Operations** dashboard page, expand the left navigation pane and select the **Inventory management** under the **Modules**. On the **Inventory management** page navigate to  **Setup \> Inventory breakdown \> Warehouses**.
 
 2.  Click **New**.
 
