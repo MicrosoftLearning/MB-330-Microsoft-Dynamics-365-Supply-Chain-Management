@@ -255,12 +255,25 @@ vendor responses.
 
 ### Accept a vendor’s reply.
 
-1.  Click the **Request for quotation** number for **US-103** (Rain Projectors).
+1.  Go to the **Procurement and sourcing** module, then to **Requests for
+    quotations**, and then to **All requests for quotations**.
 
-2.  Click **Reply** at the top, and then select **Accept** under the **Process**
-    section.
+2.  Open the request for quotations created in the previous practice.
 
-3.  Click **OK**.
+3.  Click **Options** at the top, click **Change view**, and then select
+    **Header view**.
+
+4.  Click the **Vendor** FastTab.
+
+5.  Click the **Request for quotation** number for **US-103** (Rain Projectors). 
+
+6.  Select the **Edit** at the top, from the drop-down menu select **Edit RFQ reply**
+
+7.  Select **Submit** form the top menu.
+
+8.  Select **Accept** under the **Process** section.
+
+9.  Click **OK**.
 
 Exercise \#3 Create purchase requisition and purchasing policies (Bonus)
 ------------------------------------------------------------------------
