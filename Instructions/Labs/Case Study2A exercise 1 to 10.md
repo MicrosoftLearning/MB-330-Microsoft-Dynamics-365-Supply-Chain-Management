@@ -241,7 +241,7 @@ vendor responses.
 
 10. Close the **Request for Quotation Reply** form.
 
-11. Click the **Request for quotation** number for **US-103** (Rain Projectors).
+11. Navigate back to **Vendor** FastTab. Click the **Request for quotation** number for **US-103** (Rain Projectors). Select the **Edit** at the top, from the drop-down menu select **Edit RFQ reply**
 
 12. Quantity: Enter **500**.
 
