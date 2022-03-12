@@ -230,28 +230,30 @@ vendor responses.
 
 5.  Click the **Request for quotation** number for **US-111** (Contoso office
     supply).
+    
+6. Select the **Edit** at the top, from the drop-down menu select **Edit RFQ reply**  
 
-6.  Quantity: Enter **500**.
+7.  Quantity: Enter **500**.
 
-7.  Unit: Enter **ea**.
+8.  Unit: Enter **ea**.
 
-8.  Unit price: Enter **10.00**.
+9.  Unit price: Enter **10.00**.
 
-9.  Click **Save**.
+10.  Click **Save**.
 
-10. Close the **Request for Quotation Reply** form.
+11. Close the **Request for Quotation Reply** form.
 
-11. Click the **Request for quotation** number for **US-103** (Rain Projectors).
+12. Click the **Request for quotation** number for **US-103** (Rain Projectors).
 
-12. Quantity: Enter **500**.
+13. Quantity: Enter **500**.
 
-13. Unit: Enter **ea**.
+14. Unit: Enter **ea**.
 
-14. Unit price: Enter **8.00**.
+15. Unit price: Enter **8.00**.
 
-15. Click **Save**.
+16. Click **Save**.
 
-16. Close the **Request for Quotation Reply** form.
+17. Close the **Request for Quotation Reply** form.
 
 ### Accept a vendor’s reply.
 
