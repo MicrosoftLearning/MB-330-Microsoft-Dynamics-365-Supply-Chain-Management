@@ -255,8 +255,7 @@ vendor responses.
 
 ### Accept a vendor’s reply.
 
-1.  Go to the **Procurement and sourcing** module, then to **Requests for
-    quotations**, and then to **All requests for quotations**.
+1.  Go to the **Procurement and sourcing** module, then to **Requests for quotations**, and then to **All requests for quotations**.
 
 2.  Open the request for quotations created in the previous practice.
 
