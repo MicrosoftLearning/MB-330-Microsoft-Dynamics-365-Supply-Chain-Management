@@ -150,7 +150,7 @@ Would you assist the planning manager in doing the following?
 
 ### Assign item allocation key
 
-1.  Select **Master Planning \> Demand Forecasting \> Item Allocation Keys.**
+1.  Select **Master Planning \> Setup \> Demand Forecasting \> Item Allocation Keys.**
 
 2.  Select **Wizard**.
 
