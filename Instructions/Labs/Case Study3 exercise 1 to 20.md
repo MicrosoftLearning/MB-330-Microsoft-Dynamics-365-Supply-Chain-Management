@@ -2196,7 +2196,7 @@ You will need to do the following:
 
 2.  Click **New** in the action pane.
 
-3.  In the **Cluster profile ID** field, enter **Picking Cluster Profile.**
+3.  In the **Cluster profile ID** field, enter **Picking Cluster Prof.**
 
 4.  In the **Name** field, enter **Picking Cluster Profile**.
 
