@@ -502,8 +502,7 @@ not license plate controlled.* 
 
 14. Click the **Inventory dimensions** tab in the **Line details** fast tab.
 
-15. In the **License plate** field, in both the **From inventory dimensions**
-    and **To inventory dimensions** groups, enter or select **24**.
+15. In the **License plate** field, in **From inventory dimensions**, enter or select **24**.
 
 16. Click **Save**.
 
