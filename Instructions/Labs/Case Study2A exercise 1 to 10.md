@@ -293,7 +293,7 @@ He reached out for help and you will have to do the following:
 
 4.  Click **Add**.
 
-5.  Name: Select **Susan Burk**.
+5.  Name: Search for **Susan Burk** and then **Select**.
 
 6.  Click **Save**.
 
