@@ -138,15 +138,12 @@ Would you assist the planning manager in doing the following?
 
 8.  Enter 0 in the **Scheduling sequence** field.
 
-9.  Click **New** on the tool bar for Intercompany planning group members tab.
+9.  Select **20** for the **Master plan** field.
 
-10. Select **Legal entity - DEMF**, **Scheduling sequence - 0, Master plan –
-    20.**
-
-11. Leave **Automatic Copy to Static Plan** and **Automatic Copy to Dynamic
+10. Leave **Automatic Copy to Static Plan** and **Automatic Copy to Dynamic
     Plan** checkboxes blank.
 
-12. Click **Save**.
+11. Click **Save**.
 
 ### Assign item allocation key
 
