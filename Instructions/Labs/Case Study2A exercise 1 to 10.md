@@ -216,6 +216,8 @@ You will have to do the following:
 Update the request for the quotation created in the previous practice with the
 vendor responses.
 
+1. Make sure that the permission to edit vendor bids is setup. Go to the **Procurement and sourcing** module, then to **Setup**, and then to **Procurement and sourcing parameters**. On the **Request for quotations** tab, set the **Purchaser can edit vendors bid** option to **Yes**. Select **Save** 
+
 ### Process the quotation for US-103. Enter the vendors’ replies to the request for quotation. 
 
 1.  Go to the **Procurement and sourcing** module, then to **Requests for
