@@ -128,7 +128,7 @@ Would you assist the planning manager in doing the following?
 
 3.  Click **New** on the Action pane.
 
-4.  Enter Intercompany Extended Group in the **Name** field.
+4.  Enter **Intercompa** in the **Name** field and **Intercompany Extended Group** in the description.
 
 5.  Click **Save**.
 
