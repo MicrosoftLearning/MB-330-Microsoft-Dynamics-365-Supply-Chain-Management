@@ -3253,7 +3253,7 @@ tab. 
 
 ### Confirm the consolidated load shipment. 
 
-1.  On the **Loan planning workbench**, in the **Loads** tab, select the
+1.  On the **Load planning workbench**, in the **Loads** tab, select the
     consolidated load line. 
 
 2.  Select **Outbound load** in the **Ship and receive** drop-down menu. 
