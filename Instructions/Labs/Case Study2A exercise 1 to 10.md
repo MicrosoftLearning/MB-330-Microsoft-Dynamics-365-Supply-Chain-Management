@@ -349,8 +349,8 @@ He is not clear how to perform this using the system and asking your help
 
 3.  Vendor account: Select **1001** (Acme Office Supplies).
 
-4.  Delivery date: Verify the current date in the **Delivery date** field (this
-    should be the default value).
+4.  Delivery date: Expand the **General** tab, verify the current date in the **Delivery date** field (this
+    should be the default value). 
 
 5.  Click **OK**.
 
