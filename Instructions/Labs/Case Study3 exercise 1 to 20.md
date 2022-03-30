@@ -2384,45 +2384,45 @@ You will need to do the following:
 
 ### Set up a new carrier
 
-Open **Transportation management** \> **Setup** \> **Carriers** \> **Shipping
+1. In USMF, Open **Transportation management** \> **Setup** \> **Carriers** \> **Shipping
 carriers**.  
 
-1.  In the action pane, click **New** to create a new shipping carrier.  
+2.  In the action pane, click **New** to create a new shipping carrier.  
 
-2.  In the **Shipping carrier** field, type **Ocean Carrier 2**. 
+3.  In the **Shipping carrier** field, type **Ocean Carrier 2**. 
 
-3.  In the **Name** field, type **Secondary ocean carrier**. 
+4.  In the **Name** field, type **Secondary ocean carrier**. 
 
-4.  In the **Mode** field, select **Ocean**.  
+5.  In the **Mode** field, select **Ocean**.  
 
-5.  Expand the **Overview** FastTab.   
+6.  Expand the **Overview** FastTab.   
 
-6.  Set the **Activate shipping carrier** slider to **Yes**. 
+7.  Set the **Activate shipping carrier** slider to **Yes**. 
 
-7.  Select vendor account **1002** from the **Vendor** drop-down menu.  
+8.  Select vendor account **1002** from the **Vendor** drop-down menu.  
 
-8.  In the **SCAC** field, type **2005.** 
+9.  In the **SCAC** field, type **2005.** 
 
-9.  Set the **Activate carrier rating** slider to **Yes.** 
+10.  Set the **Activate carrier rating** slider to **Yes.** 
 
-10. On the **Addresses** FastTab, click **New**. 
+11. On the **Addresses** FastTab, click **New**. 
 
-11. In the **New address** form, type **Ocean carrier location** in the **Name**
+12. In the **New address** form, type **Ocean carrier location** in the **Name**
     field. 
 
-12. Select **Business** from the **Purpose** drop-down list. 
+13. Select **Business** from the **Purpose** drop-down list. 
 
-13. Select USA in the Country/region drop-down list. 
+14. Select USA in the Country/region drop-down list. 
 
-14. In the **ZIP/postal code** field, type **11251**. 
+15. In the **ZIP/postal code** field, type **11251**. 
 
-15. In the **Street** field, type **1577 Madison Blvd**. 
+16. In the **Street** field, type **1577 Madison Blvd**. 
 
-16. Set the **Primary** slider to **Yes**. 
+17. Set the **Primary** slider to **Yes**. 
 
-17. Click **OK.** 
+18. Click **OK.** 
 
-18. Close the **Shipping carriers** form. 
+19. Close the **Shipping carriers** form. 
 
 ### Add a carrier service to the carrier
 
