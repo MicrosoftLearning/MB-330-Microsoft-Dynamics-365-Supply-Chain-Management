@@ -216,6 +216,8 @@ You will have to do the following:
 Update the request for the quotation created in the previous practice with the
 vendor responses.
 
+1. Make sure that the permission to edit vendor bids is setup. Go to the **Procurement and sourcing** module, then to **Setup**, and then to **Procurement and sourcing parameters**. On the **Request for quotations** tab, set the **Purchaser can edit vendors bid** option to **Yes**. Select **Save** 
+
 ### Process the quotation for US-103. Enter the vendors’ replies to the request for quotation. 
 
 1.  Go to the **Procurement and sourcing** module, then to **Requests for
@@ -245,24 +247,38 @@ vendor responses.
 
 12. Click the **Request for quotation** number for **US-103** (Rain Projectors).
 
-13. Quantity: Enter **500**.
+13. Navigate back to **Vendor** FastTab. Click the **Request for quotation** number for **US-103** (Rain Projectors). Select the **Edit** at the top, from the drop-down menu select **Edit RFQ reply**
 
-14. Unit: Enter **ea**.
+14. Quantity: Enter **500**.
 
-15. Unit price: Enter **8.00**.
+15. Unit: Enter **ea**.
 
-16. Click **Save**.
+16. Unit price: Enter **8.00**.
 
-17. Close the **Request for Quotation Reply** form.
+17. Click **Save**.
+
+18. Close the **Request for Quotation Reply** form.
 
 ### Accept a vendor’s reply.
 
-1.  Click the **Request for quotation** number for **US-103** (Rain Projectors).
+1.  Go to the **Procurement and sourcing** module, then to **Requests for quotations**, and then to **All requests for quotations**.
 
-2.  Click **Reply** at the top, and then select **Accept** under the **Process**
-    section.
+2.  Open the request for quotations created in the previous practice.
 
-3.  Click **OK**.
+3.  Click **Options** at the top, click **Change view**, and then select
+    **Header view**.
+
+4.  Click the **Vendor** FastTab.
+
+5.  Click the **Request for quotation** number for **US-103** (Rain Projectors). 
+
+6.  Select the **Edit** at the top, from the drop-down menu select **Edit RFQ reply**
+
+7.  Select **Submit** form the top menu.
+
+8.  Select **Accept** under the **Process** section.
+
+9.  Click **OK**.
 
 Exercise \#3 Create purchase requisition and purchasing policies (Bonus)
 ------------------------------------------------------------------------
@@ -293,7 +309,7 @@ He reached out for help and you will have to do the following:
 
 4.  Click **Add**.
 
-5.  Name: Select **Susan Burk**.
+5.  Name: Search for **Susan Burk** and then **Select**.
 
 6.  Click **Save**.
 
@@ -349,8 +365,8 @@ He is not clear how to perform this using the system and asking your help
 
 3.  Vendor account: Select **1001** (Acme Office Supplies).
 
-4.  Delivery date: Verify the current date in the **Delivery date** field (this
-    should be the default value).
+4.  Delivery date: Expand the **General** tab, verify the current date in the **Delivery date** field (this
+    should be the default value). 
 
 5.  Click **OK**.
 

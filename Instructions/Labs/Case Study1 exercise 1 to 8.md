@@ -57,25 +57,28 @@ to help them creating the new warehouse.
 
 ### Set the default location capacity.
 
-1.  Go to **Inventory management \> Setup \> Inventory and warehouse management
+1.  Access the **Microsoft Dynamics 365 Supply Chain Managment** website and log in with your user credentials.
+
+2.  On the **Finance and Operations** dashboard page, expand the left navigation pane and select the **Inventory management** under the **Modules** tab. 
+
+3.  On the **Inventory management** page select the  **Setup \> Inventory and warehouse management
     parameters**.
 
-2.  Click the **Locations** tab.
+4.  Click the **Locations** tab.
 
-3.  In the **Standard width** field, enter 450.
+5.  In the **Standard width** field, enter 450.
 
-4.  In the **Standard depth** field, enter 250.
+6.  In the **Standard depth** field, enter 250.
 
-5.  In the **Standard height** field, enter 200.
+7.  In the **Standard height** field, enter 200.
 
-6.  Click **Save**.
+8.  Click **Save**.
 
-7.  Close the page.
+9.  Close the page.
 
 ### Define the location name format.
 
-1.  Go to **Inventory management \> Setup \> Inventory breakdown \>
-    Warehouses**.
+1.  On the **Finance and Operations** dashboard page, expand the left navigation pane and select the **Inventory management** under the **Modules** tab. On the **Inventory management** page select  **Setup \> Inventory breakdown \> Warehouses**.
 
 2.  Click **New**.
 
@@ -290,7 +293,7 @@ As supply chain manager, you will have to create 2 new products:
 
 7.  In the **Search name** field, type **VNeckTShirt**.
 
-8.  In the **Retail category** field, select **Apparel and Footwear**.
+8.  In the **Retail category** field, select **Apparel and Footwear** and select **OK**.
 
 9.  In the **Product dimension group** field, select **ColorSize**.
 
@@ -499,8 +502,7 @@ not license plate controlled.* 
 
 14. Click the **Inventory dimensions** tab in the **Line details** fast tab.
 
-15. In the **License plate** field, in both the **From inventory dimensions**
-    and **To inventory dimensions** groups, enter or select **24**.
+15. In the **License plate** field, in **From inventory dimensions**, enter or select **24**.
 
 16. Click **Save**.
 
