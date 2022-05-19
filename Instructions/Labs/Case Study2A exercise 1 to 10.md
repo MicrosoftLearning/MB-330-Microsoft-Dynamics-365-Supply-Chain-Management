@@ -225,8 +225,7 @@ vendor responses.
 
 2.  Open the request for quotations created in the previous practice.
 
-3.  Click **Options** at the top, click **Change view**, and then select
-    **Header view**.
+3.  Click **Header**.
 
 4.  Click the **Vendor** FastTab.
 
