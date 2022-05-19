@@ -348,7 +348,7 @@ You will need to do the following:
 
 4.  Select **Item number A0002.**
 
-5.  Select **APPAREL** eBookTG as the **Test group.**
+5.  Select **eBookTG** as the **Test group.**
 
 6.  Type "1.00" in the **Quantity** field.
 
