@@ -233,7 +233,7 @@ vendor responses.
 5.  Click the **Request for quotation** number for **US-111** (Contoso office
     supply).
     
-6. Select the **Edit** at the top, from the drop-down menu select **Edit RFQ reply**  
+6.  Click **Manage reply*. Select the **Edit** at the top, from the drop-down menu select **Edit RFQ reply**  
 
 7.  Quantity: Enter **500**.
 
