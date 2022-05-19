@@ -151,7 +151,7 @@ Would you assist the planning manager in doing the following?
 
 2.  Select **Wizard**.
 
-3.  Select **Apples** from **Item Group** drop-down menu.
+3.  Select **Audio** from **Item Group** drop-down menu.
 
 4.  Type **Apples Group** in **Name** box.
 
