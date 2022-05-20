@@ -169,9 +169,9 @@ Would you assist the planning manager in doing the following?
 
 10.  Select **Demand Forecasting \> Intercompany Planning Groups.**
 
-12.  Select **Item Allocation Keys.**
+11.  Select **Item Allocation Keys.**
 
-13. Select **Apples** under the **Unassigned Item Allocation Keys** box, then
+12. Select **Apples** under the **Unassigned Item Allocation Keys** box, then
     select **\>** to move it to the **Assigned Allocation Keys** box.
 
 ### Run an intercompany master plan
