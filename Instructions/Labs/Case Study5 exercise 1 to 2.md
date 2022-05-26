@@ -180,7 +180,7 @@ Would you assist the planning manager in doing the following?
 
 3.  Open **Master planning** \> **Run** \> **Intercompany master planning**.
 
-4.  Select **60** for **Intercompany planning group**.
+4.  Select **Intercompa** for **Intercompany planning group**.
 
 5.  Select **2** for **Number of intercompany planning iterations**.
 
