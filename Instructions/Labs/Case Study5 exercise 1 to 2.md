@@ -162,13 +162,20 @@ Would you assist the planning manager in doing the following?
 
 7.  Click **Finish** on the **Completed** page after verifying information is
     correct.
+    
+8.  Switch to the **DEMF** company. Repeat steps 1 - 7.
 
-8.  Select **Demand Forecasting \> Intercompany Planning Groups.**
+9.  Switch to the **USMF** company.
 
-9.  Select **Item Allocation Keys.**
+10.  Select **Demand Forecasting \> Intercompany Planning Groups.**
 
-10. Select **Audio** under the **Unassigned Item Allocation Keys** box, then
-    select **\>** to move it to the **Assigned Allocation Keys** box.
+11.  Select **Item Allocation Keys.**
+
+12. Select **Apples** under the **Unassigned Item Allocation Keys** box, then
+
+13. Select **Audio** under the **Unassigned Item Allocation Keys** box, then
+ 
+14. Select **\>** to move it to the **Assigned Allocation Keys** box.
 
 ### Run an intercompany master plan
 
