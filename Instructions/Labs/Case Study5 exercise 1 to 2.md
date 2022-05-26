@@ -172,7 +172,10 @@ Would you assist the planning manager in doing the following?
 11.  Select **Item Allocation Keys.**
 
 12. Select **Apples** under the **Unassigned Item Allocation Keys** box, then
-    select **\>** to move it to the **Assigned Allocation Keys** box.
+
+13. Select **Audio** under the **Unassigned Item Allocation Keys** box, then
+ 
+14. Select **\>** to move it to the **Assigned Allocation Keys** box.
 
 ### Run an intercompany master plan
 
@@ -184,7 +187,7 @@ Would you assist the planning manager in doing the following?
 
 3.  Open **Master planning** \> **Run** \> **Intercompany master planning**.
 
-4.  Select **60** for **Intercompany planning group**.
+4.  Select **Intercompa** for **Intercompany planning group**.
 
 5.  Select **2** for **Number of intercompany planning iterations**.
 
