@@ -1567,7 +1567,7 @@ You will need to do the following:
 
 21. In the **Site** field, select **3**.
 
-22. In the **Warehouse** field, select **31**.
+22. In the **Warehouse** field, select **31**. Click **Save**.
 
 23. Select **New** on the **Lines** FastTab.
 
