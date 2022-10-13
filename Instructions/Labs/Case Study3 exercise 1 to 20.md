@@ -1575,7 +1575,7 @@ You will need to do the following:
 
 25. Enter **1000** in the **To quantity** field.
 
-26. Select **None** in the **Locate quantity** field.
+26. Select **None** in the **Locate quantity** field. Click **Save**. 
 
 27. Expand the **Location Directive Actions** FastTab.
 
