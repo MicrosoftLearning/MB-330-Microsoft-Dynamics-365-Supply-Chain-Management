@@ -169,7 +169,7 @@ Would you assist the planning manager in doing the following?
 
 10.  Select **Demand Forecasting \> Intercompany Planning Groups.**
 
-11.  Select **Item Allocation Keys.**
+11.  Select **Intercompa** from the Intercompany planning Groups list (record created from the previous task) and select the **Item Allocation Keys.** related to the **DEMF** from the Intercompany planning group members area.
 
 12. Select **Apples** under the **Unassigned Item Allocation Keys** box, then
 
