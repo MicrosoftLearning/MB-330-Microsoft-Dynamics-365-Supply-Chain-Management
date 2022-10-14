@@ -83,7 +83,7 @@ You need to change the planned order type for an order.
 ### Review the planned order and verify the change
 
 1.  On the **Planned orders** list page, verify that the **Reference** field has
-    been updated to **Planned production orders** for order number **004262**.
+    been updated to **Planned production orders** for order number **004137**.
 
 2.  Close the pages.
 
