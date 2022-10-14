@@ -171,11 +171,9 @@ Would you assist the planning manager in doing the following?
 
 11.  Select **Item Allocation Keys.**
 
-12. Select **Apples** under the **Unassigned Item Allocation Keys** box, then
+12. Select **Audio** under the **Unassigned Item Allocation Keys** box, then
 
-13. Select **Audio** under the **Unassigned Item Allocation Keys** box, then
- 
-14. Select **\>** to move it to the **Assigned Allocation Keys** box.
+13. Select **\>** to move it to the **Assigned Allocation Keys** box.
 
 ### Run an intercompany master plan
 
