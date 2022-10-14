@@ -149,7 +149,7 @@ Would you assist the planning manager in doing the following?
 
 1.  Select **Master Planning \> Setup \> Demand Forecasting \> Item Allocation Keys.**
 
-2.  Select **Wizard** and click **NEXT**.
+2.  Select **Wizard** and click **Next**.
 
 3.  Select **Audio** from **Item Group** drop-down menu.
 
