@@ -443,7 +443,7 @@ product that uses the new hierarchy.
 2.  Click the left directional button to move the dimensions to the Available
     pane.
 
-3.  Repeat steps a-b for **Owner.**
+3.  Repeat steps 1-2 for **Owner.**
 
 4.  Click **OK**.
 
