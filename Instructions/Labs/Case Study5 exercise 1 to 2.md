@@ -183,7 +183,7 @@ Would you assist the planning manager in doing the following?
 
 2.  In the USMF company, click **Show navigation pane**.
 
-3.  Open **Master planning** \> **Run** \> **Intercompany master planning**.
+3.  Open **Master Planning** \> **Master planning** \> **Run** \> **Intercompany master planning**.
 
 4.  Select **Intercompa** for **Intercompany planning group**.
 
