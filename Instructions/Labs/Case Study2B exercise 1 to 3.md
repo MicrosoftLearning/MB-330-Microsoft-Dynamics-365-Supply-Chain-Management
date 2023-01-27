@@ -89,7 +89,7 @@ She is not sure on the steps enter and confirm the sales order.
 2.  Click **Generate\> confirm Sale Order**.
 
 3.  This will prompt you with a screen where you will check the **Posting** flag
-    is set to Yes and **Print confirmation** is set to Yes.
+    is set to Yes and **Print confirmation** is set to Yes. To access the **Posting** and **Print confirmation** select the All under the **Parameters** tab.
 
 4.  Click **OK**.
 
