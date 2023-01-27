@@ -180,7 +180,7 @@ You will have to do the following:
 
 25. On the Action Pane, click **Sell**.
 
-26. Click **General\> confirm Sale Order**.
+26. Click **Generate\> confirm Sale Order**.
 
 27. This will prompt you with a screen where you will check the **Posting** flag
     is set to Yes and **Print confirmation** is set to Yes.
