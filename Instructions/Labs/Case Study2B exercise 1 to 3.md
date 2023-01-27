@@ -86,7 +86,7 @@ She is not sure on the steps enter and confirm the sales order.
 
 1.  On the Action Pane, click **Sell**.
 
-2.  Click **General\> confirm Sale Order**.
+2.  Click **Generate\> confirm Sale Order**.
 
 3.  This will prompt you with a screen where you will check the **Posting** flag
     is set to Yes and **Print confirmation** is set to Yes.
