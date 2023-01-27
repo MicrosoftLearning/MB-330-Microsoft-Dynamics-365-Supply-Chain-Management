@@ -191,7 +191,7 @@ You will have to do the following:
 
 30. On the Action Pane, click **Pick and Pack**.
 
-31. Click **General\> Post packing Slip**.
+31. Click **Generate\> Post packing Slip**.
 
 32. This will prompt you with a screen where you will check that the Parameter
     **Quantity** Field is set to **ALL** and the **Posting** flag is set to
