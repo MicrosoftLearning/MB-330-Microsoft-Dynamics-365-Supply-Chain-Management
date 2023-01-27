@@ -167,7 +167,7 @@ Would you assist the planning manager in doing the following?
 
 9.  Switch to the **USMF** company.
 
-10.  Select **Demand Forecasting \> Intercompany Planning Groups.**
+10.  Select **Master Planning \> Setup \> Demand Forecasting \> Intercompany Planning Groups.**
 
 11.  Select **Item Allocation Keys.**
 
