@@ -331,7 +331,7 @@ As supply chain manager, you will have to create 2 new products:
 
 25. Click item **GTLS001** to open the product master record.
 
-26. Click the **Product dimensions** button from the **Product** action pane.
+26. In the **Product** action pane, click the **Product dimensions** button listed under the **Product master** section.
 
 27. Select the **Sizes** tab.
 
