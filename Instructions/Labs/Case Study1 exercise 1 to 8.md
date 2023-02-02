@@ -683,7 +683,7 @@ You will:
 
 5.  In the **Item group** field, enter or select **Audio**.
 
-6.  Click **Designer**.
+6.  In the **Maintain** action group, click **Designer**.
 
 7.  Click **Formula lines**.
 
