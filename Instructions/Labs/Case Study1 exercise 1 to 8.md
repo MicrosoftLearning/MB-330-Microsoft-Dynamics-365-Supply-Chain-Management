@@ -383,7 +383,7 @@ As supply chain manager, you will have to create 2 new products:
 
 51. Click **Released Product variants** button from the **Product** action pane.
 
-52. Click **Variant suggestions** from the **Product Variant** action pane.
+52. In the **Product Variant** action pane, click **Variant suggestions** listed under the **Released product Variants** section.
 
 53. Click **Suggest all**.
 
