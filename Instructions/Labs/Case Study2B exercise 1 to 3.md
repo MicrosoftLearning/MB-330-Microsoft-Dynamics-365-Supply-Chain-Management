@@ -47,7 +47,7 @@ She is not sure on the steps enter and confirm the sales order.
 
 5.  Click **OK**.
 
-6.  Click **Sales order line**.
+6.  Click the **Sales order line** fast tab then click the chevron icon next to the **Sales order line**.
 
 7.  Click **Dimensions**.
 
