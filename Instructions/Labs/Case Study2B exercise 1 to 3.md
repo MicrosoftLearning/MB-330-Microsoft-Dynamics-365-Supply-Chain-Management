@@ -51,9 +51,7 @@ She is not sure on the steps enter and confirm the sales order.
 
 7.  Click **Dimensions**.
 
-8.  For this example, select the Color, Site and Warehouse dimensions. The
-    dimensions you select here will appear in the sales order grid. If you want
-    your selections to persist, set the **Save setup** option to **Yes**.
+8.  For this example, on the **Dimensions Display** pane, select the **Color** from the **PRODUCT DIMENSIONS**, **Site** and **Warehouse** from the **STORAGE DIMENSIONS**. The dimensions you select here will appear in the sales order grid. If you want your selections to persist, set the **Save setup** option to **Yes**.
 
 9.  Click **OK**.
 
