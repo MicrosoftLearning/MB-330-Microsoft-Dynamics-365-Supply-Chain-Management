@@ -242,7 +242,7 @@ vendor responses.
 
 10.  Click **Save**.
 
-11. Close the **Request for Quotation Reply** form.
+11. Close the **Request for Quotation bid** form.
 
 12. Click the **Request for quotation** number for **US-103** (Rain Projectors).
 
