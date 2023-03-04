@@ -187,7 +187,7 @@ You will have to do the following:
 
 5.  Click **Save**.
 
-6.  Send the request for quotation to the vendors.
+6.  Next to send the request for quotation to the vendors follow the below steps.
 
 7.  Click **Options** at the top, click **Change view**, and then select
     **Header view**.
