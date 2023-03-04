@@ -256,7 +256,7 @@ vendor responses.
 
 17. Click **Save**.
 
-18. Close the **Request for Quotation Reply** form.
+18. Close all the pages.
 
 ### Accept a vendor’s reply.
 
