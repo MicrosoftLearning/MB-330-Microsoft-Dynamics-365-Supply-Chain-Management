@@ -326,7 +326,7 @@ He reached out for help and you will have to do the following:
 
 6.  Description: Enter **Office supplies policies**.
 
-7.  Policy rule type: Select **Category access policy rule**.
+7.  Policy rule type: Select **Category access policy rule(3)**.
 
 8.  Click **Create policy rule** in the **Policy rules** section on the right.
 
