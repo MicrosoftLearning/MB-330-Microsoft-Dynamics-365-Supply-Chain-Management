@@ -320,7 +320,7 @@ He reached out for help and you will have to do the following:
 
 3.  Click the **Policy rules** FastTab.
 
-4.  Click **New**, then **Policy**.
+4.  In the **New** action pane, click **Policy**.
 
 5.  Name: Enter **Office Supplies**.
 
