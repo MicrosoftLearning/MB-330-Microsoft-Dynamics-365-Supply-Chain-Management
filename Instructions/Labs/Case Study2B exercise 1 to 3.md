@@ -47,13 +47,11 @@ She is not sure on the steps enter and confirm the sales order.
 
 5.  Click **OK**.
 
-6.  Click **Sales order line**.
+6.  Click the **Sales order line** fast tab then click the chevron icon next to the **Sales order line**.
 
 7.  Click **Dimensions**.
 
-8.  For this example, select the Color, Site and Warehouse dimensions. The
-    dimensions you select here will appear in the sales order grid. If you want
-    your selections to persist, set the **Save setup** option to **Yes**.
+8.  For this example, on the **Dimensions Display** pane, select the **Color** from the **PRODUCT DIMENSIONS**, **Site** and **Warehouse** from the **STORAGE DIMENSIONS**. The dimensions you select here will appear in the sales order grid. If you want your selections to persist, set the **Save setup** option to **Yes**.
 
 9.  Click **OK**.
 
@@ -86,10 +84,10 @@ She is not sure on the steps enter and confirm the sales order.
 
 1.  On the Action Pane, click **Sell**.
 
-2.  Click **General\> confirm Sale Order**.
+2.  Click **Generate\> confirm Sale Order**.
 
 3.  This will prompt you with a screen where you will check the **Posting** flag
-    is set to Yes and **Print confirmation** is set to Yes.
+    is set to Yes and **Print confirmation** is set to Yes. To access the **Posting** and **Print confirmation** select the All under the **Parameters** tab.
 
 4.  Click **OK**.
 
@@ -180,7 +178,7 @@ You will have to do the following:
 
 25. On the Action Pane, click **Sell**.
 
-26. Click **General\> confirm Sale Order**.
+26. Click **Generate\> confirm Sale Order**.
 
 27. This will prompt you with a screen where you will check the **Posting** flag
     is set to Yes and **Print confirmation** is set to Yes.
@@ -191,7 +189,7 @@ You will have to do the following:
 
 30. On the Action Pane, click **Pick and Pack**.
 
-31. Click **General\> Post packing Slip**.
+31. Click **Generate\> Post packing Slip**.
 
 32. This will prompt you with a screen where you will check that the Parameter
     **Quantity** Field is set to **ALL** and the **Posting** flag is set to

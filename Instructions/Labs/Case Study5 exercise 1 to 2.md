@@ -83,7 +83,7 @@ You need to change the planned order type for an order.
 ### Review the planned order and verify the change
 
 1.  On the **Planned orders** list page, verify that the **Reference** field has
-    been updated to **Planned production orders** for order number **004262**.
+    been updated to **Planned production orders** for order number **004137**.
 
 2.  Close the pages.
 
@@ -149,7 +149,7 @@ Would you assist the planning manager in doing the following?
 
 1.  Select **Master Planning \> Setup \> Demand Forecasting \> Item Allocation Keys.**
 
-2.  Select **Wizard**.
+2.  Select **Wizard** and click **Next**.
 
 3.  Select **Audio** from **Item Group** drop-down menu.
 
@@ -167,15 +167,13 @@ Would you assist the planning manager in doing the following?
 
 9.  Switch to the **USMF** company.
 
-10.  Select **Demand Forecasting \> Intercompany Planning Groups.**
+10.  Select **Master Planning \> Setup \> Demand Forecasting \> Intercompany Planning Groups.**
 
-11.  Select **Item Allocation Keys.**
+11.  Select **Intercompa** from the Intercompany planning Groups list (record created from the previous task) and select the **Item Allocation Keys.** related to the **DEMF** from the Intercompany planning group members area.
 
-12. Select **Apples** under the **Unassigned Item Allocation Keys** box, then
+12. Select **Audio** under the **Unassigned Item Allocation Keys** box, then
 
-13. Select **Audio** under the **Unassigned Item Allocation Keys** box, then
- 
-14. Select **\>** to move it to the **Assigned Allocation Keys** box.
+13. Select **\>** to move it to the **Assigned Allocation Keys** box.
 
 ### Run an intercompany master plan
 
@@ -185,7 +183,7 @@ Would you assist the planning manager in doing the following?
 
 2.  In the USMF company, click **Show navigation pane**.
 
-3.  Open **Master planning** \> **Run** \> **Intercompany master planning**.
+3.  Open **Master Planning** \> **Master planning** \> **Run** \> **Intercompany master planning**.
 
 4.  Select **Intercompa** for **Intercompany planning group**.
 

@@ -331,7 +331,7 @@ As supply chain manager, you will have to create 2 new products:
 
 25. Click item **GTLS001** to open the product master record.
 
-26. Click the **Product dimensions** button from the **Product** action pane.
+26. In the **Product** action pane, click the **Product dimensions** button listed under the **Product master** section.
 
 27. Select the **Sizes** tab.
 
@@ -381,11 +381,11 @@ As supply chain manager, you will have to create 2 new products:
 
 50. Close the form.
 
-51. Click **Released Product variants** button from the **Product** action pane.
+51. In the **Product** action pane, click the **Released product variants** button listed under the **Product master** section.
 
-52. Click **Variant suggestions** from the **Product Variant** action pane.
+52. In the **Product Variant** action pane, click **Variant suggestions** listed under the **Released product Variants** section.
 
-53. Click **Suggest all**.
+53. Click **Suggest all** from the **Variant suggestions** and then click **Suggest all** from the **Suggested variants**.
 
 54. Click **Create**.
 
@@ -683,7 +683,7 @@ You will:
 
 5.  In the **Item group** field, enter or select **Audio**.
 
-6.  Click **Designer**.
+6.  In the **Maintain** action group, click **Designer**.
 
 7.  Click **Formula lines**.
 

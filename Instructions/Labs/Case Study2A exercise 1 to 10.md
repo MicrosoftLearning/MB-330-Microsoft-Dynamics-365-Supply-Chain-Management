@@ -187,7 +187,7 @@ You will have to do the following:
 
 5.  Click **Save**.
 
-6.  Send the request for quotation to the vendors.
+6.  Next to send the request for quotation to the vendors follow the below steps.
 
 7.  Click **Options** at the top, click **Change view**, and then select
     **Header view**.
@@ -242,11 +242,11 @@ vendor responses.
 
 10.  Click **Save**.
 
-11. Close the **Request for Quotation Reply** form.
+11. Close the **Request for Quotation bid** form.
 
 12. Click the **Request for quotation** number for **US-103** (Rain Projectors).
 
-13. Navigate back to **Vendor** FastTab. Click the **Request for quotation** number for **US-103** (Rain Projectors). Select the **Edit** at the top, from the drop-down menu select **Edit RFQ reply**
+13. Navigate back to **Vendor** FastTab. Click the **Request for quotation** number for **US-103** (Rain Projectors). Click **Manage reply**. Select the **Edit** at the top, from the drop-down menu select **Edit RFQ reply**
 
 14. Quantity: Enter **500**.
 
@@ -256,7 +256,7 @@ vendor responses.
 
 17. Click **Save**.
 
-18. Close the **Request for Quotation Reply** form.
+18. Close all the pages.
 
 ### Accept a vendor’s reply.
 
@@ -320,13 +320,13 @@ He reached out for help and you will have to do the following:
 
 3.  Click the **Policy rules** FastTab.
 
-4.  Click **New**, then **Policy**.
+4.  In the **New** action pane, click **Policy**.
 
 5.  Name: Enter **Office Supplies**.
 
 6.  Description: Enter **Office supplies policies**.
 
-7.  Policy rule type: Select **Category access policy rule**.
+7.  Policy rule type: Select **Category access policy rule(3)**.
 
 8.  Click **Create policy rule** in the **Policy rules** section on the right.
 

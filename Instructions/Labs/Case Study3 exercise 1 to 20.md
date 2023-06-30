@@ -443,7 +443,11 @@ product that uses the new hierarchy.
 2. Click the left directional button to move the dimensions to the Available
     pane.
 
+<<<<<<< HEAD
 3. Repeat steps a-b for **Owner.**
+=======
+3.  Repeat steps 1-2 for **Owner.**
+>>>>>>> e303f0910f91f7334917fd77609bbd33dbe7f8e7
 
 4. Click **OK**.
 
@@ -837,7 +841,12 @@ work class that is associated with the menu item determines which work is valid.
 
 ### Add the menu item to a mobile device menu
 
+<<<<<<< HEAD
 1. Go to the **Mobile device** menu.
+=======
+1. **Go** to **Warehouse management \> Setup \> Mobile device \> Mobile device
+    menu**.
+>>>>>>> e303f0910f91f7334917fd77609bbd33dbe7f8e7
 
 2. Click **Edit**.
 
@@ -1566,7 +1575,7 @@ You will need to do the following:
 
 21. In the **Site** field, select **3**.
 
-22. In the **Warehouse** field, select **31**.
+22. In the **Warehouse** field, select **31**. Click **Save**.
 
 23. Select **New** on the **Lines** FastTab.
 
@@ -1574,7 +1583,7 @@ You will need to do the following:
 
 25. Enter **1000** in the **To quantity** field.
 
-26. Select **None** in the **Locate quantity** field.
+26. Select **None** in the **Locate quantity** field. Click **Save**. 
 
 27. Expand the **Location Directive Actions** FastTab.
 
