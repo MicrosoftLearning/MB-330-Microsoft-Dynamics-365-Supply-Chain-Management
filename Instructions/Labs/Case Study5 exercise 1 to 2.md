@@ -9,10 +9,10 @@ Case study 5 Master planning
 Objectives
 ----------
 
--   *Firm and review a planned purchase order, change it to production, and
+- *Firm and review a planned purchase order, change it to production, and
     verify the change.*
 
--   *Create a planning group, assign an item allocation key, and run the
+- *Create a planning group, assign an item allocation key, and run the
     intercompany master plan.*
 
 Exercise \#1 Process and view planned orders
@@ -32,60 +32,60 @@ You were called to help the planning manager to perform the above tasks
 
 You will need to use the following:
 
--   Firm a planned purchase order.
+- Firm a planned purchase order.
 
--   Review the purchase order.
+- Review the purchase order.
 
--   Change the planned purchase order type.
+- Change the planned purchase order type.
 
--   Review the planned order and verify the change
+- Review the planned order and verify the change
 
 ### Firm a planned order
 
-1.  Open **Master planning \> Master planning \> Planned orders**.
+1. Open **Master planning \> Master planning \> Planned orders**.
 
-2.  On the **Planned orders** page, select the line for order number **004126**.
+2. On the **Planned orders** page, select the line for order number **004126**.
 
-3.  Click the **Firm** button in the action pane.
+3. Select the **Firm** button in the action pane.
 
-4.  On the **Firming** page, in the **Update marking** field, select
+4. On the **Firming** page, in the **Update marking** field, select
     **Standard**.
 
-5.  Click **OK**.
+5. Select **OK**.
 
 ### Review the purchase order
 
-1.  Open **Procurement and sourcing \> Purchase orders \> All purchase orders**.
+1. Open **Procurement and sourcing \> Purchase orders \> All purchase orders**.
 
-2.  On the **All purchase orders** page, sort the list by the **Delivery date**
+2. On the **All purchase orders** page, sort the list by the **Delivery date**
     field.
 
-3.  Verify the firmed order is now listed with a status of **Open order**.
+3. Verify the firmed order is now listed with a status of **Open order**.
 
-4.  Close the pages.
+4. Close the pages.
 
 ### Change a planned order type
 
 You need to change the planned order type for an order.
 
-1.  Open **Master planning \> Master planning \> Planned orders**.
+1. Open **Master planning \> Master planning \> Planned orders**.
 
-2.  On the **Planned orders** page, select the line for order number **004137**.
+2. On the **Planned orders** page, select the line for order number **004137**.
 
-3.  Select the **Planned order** tab in the action pane.
+3. Select the **Planned order** tab in the action pane.
 
-4.  Click the **Change to …** drop-down arrow in the **Maintain** area.
+4. Select the **Change to …** drop-down arrow in the **Maintain** area.
 
-5.  Select **Planned production order**.
+5. Select **Planned production order**.
 
-6.  On the **Change to planned production order** page, click **OK**.
+6. On the **Change to planned production order** page, select **OK**.
 
 ### Review the planned order and verify the change
 
-1.  On the **Planned orders** list page, verify that the **Reference** field has
+1. On the **Planned orders** list page, verify that the **Reference** field has
     been updated to **Planned production orders** for order number **004137**.
 
-2.  Close the pages.
+2. Close the pages.
 
 Exercise \#2 Create and run intercompany master plans
 -----------------------------------------------------
@@ -114,62 +114,62 @@ supply and demand form.
 
 Would you assist the planning manager in doing the following?
 
--   Create an intercompany planning group.
+- Create an intercompany planning group.
 
--   Assign an item allocation key.
+- Assign an item allocation key.
 
--   Run an intercompany master plan.
+- Run an intercompany master plan.
 
 ### Create an intercompany planning group
 
-1.  In the USMF Company, click **Show navigation pane**.
+1. In the USMF Company, select **Show navigation pane**.
 
-2.  Open **Master planning \> Setup \> Intercompany planning groups.**
+2. Open **Master planning \> Setup \> Intercompany planning groups.**
 
-3.  Click **New** on the Action pane.
+3. Select **New** on the Action pane.
 
-4.  Enter **Intercompa** in the **Name** field and **Intercompany Extended Group** in the description.
+4. Enter **Intercompa** in the **Name** field and **Intercompany Extended Group** in the description.
 
-5.  Click **Save**.
+5. Select **Save**.
 
-6.  Click **New** on the tool bar for Intercompany planning group members tab.
+6. Select **New** on the tool bar for Intercompany planning group members tab.
 
-7.  Select DEMF in the **Legal entity** field.
+7. Select DEMF in the **Legal entity** field.
 
-8.  Enter 0 in the **Scheduling sequence** field.
+8. Enter 0 in the **Scheduling sequence** field.
 
-9.  Select **20** for the **Master plan** field.
+9. Select **20** for the **Master plan** field.
 
 10. Leave **Automatic Copy to Static Plan** and **Automatic Copy to Dynamic
     Plan** checkboxes blank.
 
-11. Click **Save**.
+11. Select **Save**.
 
 ### Assign item allocation key
 
-1.  Select **Master Planning \> Setup \> Demand Forecasting \> Item Allocation Keys.**
+1. Select **Master Planning \> Setup \> Demand Forecasting \> Item Allocation Keys.**
 
-2.  Select **Wizard** and click **Next**.
+2. Select **Wizard** and select **Next**.
 
-3.  Select **Audio** from **Item Group** drop-down menu.
+3. Select **Audio** from **Item Group** drop-down menu.
 
-4.  Type **Audio Group** in **Name** box.
+4. Type **Audio Group** in **Name** box.
 
-5.  Click **Next**.
+5. Select **Next**.
 
-6.  Click **Next** on the **Overview** page after verifying information is
+6. Select **Next** on the **Overview** page after verifying information is
     correct.
 
-7.  Click **Finish** on the **Completed** page after verifying information is
+7. Select **Finish** on the **Completed** page after verifying information is
     correct.
     
-8.  Switch to the **DEMF** company. Repeat steps 1 - 7.
+8. Switch to the **DEMF** company. Repeat steps 1 - 7.
 
-9.  Switch to the **USMF** company.
+9. Switch to the **USMF** company.
 
-10.  Select **Master Planning \> Setup \> Demand Forecasting \> Intercompany Planning Groups.**
+10. Select **Master Planning \> Setup \> Demand Forecasting \> Intercompany Planning Groups.**
 
-11.  Select **Intercompa** from the Intercompany planning Groups list (record created from the previous task) and select the **Item Allocation Keys.** related to the **DEMF** from the Intercompany planning group members area.
+11. Select **Intercompa** from the Intercompany planning Groups list (record created from the previous task) and select the **Item Allocation Keys.** related to the **DEMF** from the Intercompany planning group members area.
 
 12. Select **Audio** under the **Unassigned Item Allocation Keys** box, then
 
@@ -177,29 +177,29 @@ Would you assist the planning manager in doing the following?
 
 ### Run an intercompany master plan
 
-1.  As the materials and production manager, you will need run the intercompany
+1. As the materials and production manager, you will need run the intercompany
     plan utilizing the intercompany planning group that you created earlier.
     View the results in the intercompany supply and demand form.
 
-2.  In the USMF company, click **Show navigation pane**.
+2. In the USMF company, select **Show navigation pane**.
 
-3.  Open **Master Planning** \> **Master planning** \> **Run** \> **Intercompany master planning**.
+3. Open **Master Planning** \> **Master planning** \> **Run** \> **Intercompany master planning**.
 
-4.  Select **Intercompa** for **Intercompany planning group**.
+4. Select **Intercompa** for **Intercompany planning group**.
 
-5.  Select **2** for **Number of intercompany planning iterations**.
+5. Select **2** for **Number of intercompany planning iterations**.
 
-6.  Select **Regeneration** for **First iteration**.
+6. Select **Regeneration** for **First iteration**.
 
-7.  Select **Net change** for **Subsequent iteration**.
+7. Select **Net change** for **Subsequent iteration**.
 
-8.  Select **Track processing time** setting slider to **No**.
+8. Select **Track processing time** setting slider to **No**.
 
-9.  Set **Number of threads** to **0**.
+9. Set **Number of threads** to **0**.
 
-10. Click **Run in the background.**
+10. Select **Run in the background.**
 
-11. Click **OK**.
+11. Select **OK**.
 
 12. Open **Master planning \> Inquiries and reports \> Intercompany master
     planning \> Intercompany supply and demand.**
