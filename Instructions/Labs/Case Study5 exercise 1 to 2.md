@@ -122,7 +122,7 @@ Would you assist the planning manager in doing the following?
 
 ### Create an intercompany planning group
 
-1. In the USMF Company, select **Show navigation pane**.
+1. In the **USMF**, select **Show navigation pane**.
 
 2. Open **Master planning \> Setup \> Intercompany planning groups.**
 
@@ -132,11 +132,11 @@ Would you assist the planning manager in doing the following?
 
 5. Select **Save**.
 
-6. Select **New** on the tool bar for Intercompany planning group members tab.
+6. Select **New** on the tool bar for **Intercompany planning group members** tab.
 
-7. Select DEMF in the **Legal entity** field.
+7. Select **DEMF** in the **Legal entity** field.
 
-8. Enter 0 in the **Scheduling sequence** field.
+8. Enter **0** in the **Scheduling sequence** field.
 
 9. Select **20** for the **Master plan** field.
 
@@ -181,7 +181,7 @@ Would you assist the planning manager in doing the following?
     plan utilizing the intercompany planning group that you created earlier.
     View the results in the intercompany supply and demand form.
 
-2. In the USMF company, select **Show navigation pane**.
+2. In the **USMF** company, select **Show navigation pane**.
 
 3. Open **Master Planning** \> **Master planning** \> **Run** \> **Intercompany master planning**.
 
