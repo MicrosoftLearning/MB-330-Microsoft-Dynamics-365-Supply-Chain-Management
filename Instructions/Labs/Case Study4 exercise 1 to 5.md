@@ -269,10 +269,13 @@ process the quality order.
 
 11. Select **OK**.
 
-12. Read the error message generated preventing you from continuing the process
-    of picking and packing because you have now a quality order .
+    >**Note** A message may appear stating "You are about to post the document without printing it. Select OK to continue." Read the error message details generated preventing you from continuing the process of picking and packing because you now have a quality order.
 
-13. Select **Quality orders**. Note the quality order automatically is generated.
+12. Select **OK**.
+
+13. Select **Quality orders**.
+
+    >**Note** A quality order has been automatically generated.
 
 14. Review the tests.
 
@@ -280,19 +283,21 @@ process the quality order.
 
 16. Set Result quantity to **1**.
 
-17. Set **Test result** to **ON**.
+17. Set **Outcome** to **ON**.
 
-18. Select **Validate**.
+18. Select **Validate** to validate the quality order line results for the test.
 
 19. Close the page.
 
-20. Select **Validate**.
+20. Select **Validate** to validate the quality order.
+
+    >**Note** The process operation has removed the error as the the test results of the quality order test passed.
 
 21. Select **OK**.
 
 22. Close the quality order page.
 
-23. Select **Generate picking list**.
+23. Select **Generate picking list** to post picking list.
 
 24. Select **OK**.
 
@@ -300,23 +305,21 @@ process the quality order.
 
 26. Once back on the **Sales order** page, clear the messages via the X.
 
-27. Note that there is no error because you have passed the quality order test.
+27. Select **Picking list registration**.
 
-28. Select **Picking list registration**.
+28. Select **Updates**.
 
-29. Select **Updates**.
+29. Select **Update all**.
 
-30. Select **Update all**.
+30. Close the form.
 
-31. Close the form.
+31. Select **Post packing slip**.
 
-32. Select **Post packing slip**.
+32. Select **OK**.
 
 33. Select **OK**.
 
-34. Select **OK**.
-
-35. Close all pages.
+34. Close all pages.
 
 Exercise \#2 Create a manual quality order with a specification
 ---------------------------------------------------------------
@@ -336,7 +339,7 @@ sales employee. What features you will be using to perform the above tasks?
 
 You will need to do the following:
 
-### Create a manual quality order.
+### Create a manual quality order
 
 1. Open **Inventory management \> Periodic tasks \> Quality management \>
     Quality orders**.
@@ -379,7 +382,7 @@ Exercise \#3 Define conditions to work with non-conformance issues
 ------------------------------------------------------------------
 
 *Objective: Work with non-conformance issues like faulty items by defining
-several required specifications. *
+several required specifications.*
 
 Due to recent issues with customers returning faulty computers, you want to
 setup some processes to deal with faulty items in the system.
@@ -463,7 +466,7 @@ items to be faulty.
 
 You will need to do the following:
 
-### Create and process a non-conformance order.
+### Create and process a non-conformance order
 
 1. Open **Inventory management \> Periodic tasks \> Quality management \> Non
     Conformances**.
