@@ -57,7 +57,7 @@ Create a new storage dimension group.
 1. Open **Product information management \> Setup \> Dimension and variant
     groups \> Storage dimension groups**.
 
-2. Click **New** to create a new storage dimension group.
+2. Select **New** to create a new storage dimension group.
 
 3. Type **LASD** in the **Name** field.
 
@@ -66,7 +66,7 @@ Create a new storage dimension group.
 5. Enable the **Use warehouse management processes** option to enable Warehouse
     management.
 
-6. Click **Save** in the action pane and verify that the Site, Warehouse,
+6. Select **Save** in the action pane and verify that the Site, Warehouse,
     Location, Inventory status, and License plate dimensions are active.
 
 7. Close the form.
@@ -81,7 +81,7 @@ Create a new tracking dimension group.
 1. Open **Product information management \> Setup \> Dimension and variant
     groups \> Tracking dimension groups**.
 
-2. Click **New** to create a new Tracking dimension group.
+2. Select **New** to create a new Tracking dimension group.
 
 3. Type **LANT** in the **Name** field.
 
@@ -89,7 +89,7 @@ Create a new tracking dimension group.
 
 5. Select **None** in the **Capture serial** field.
 
-6. Click **Save.**
+6. Select **Save.**
 
 7. Make sure the **Active** check box is not selected for any dimensions.
 
@@ -105,7 +105,7 @@ Create a new unit sequence group.
 
 1. Open **Warehouse management \> Setup \> Warehouse \> Unit sequence groups**.
 
-2. Click **New** to create a unit sequence group.
+2. Select **New** to create a unit sequence group.
 
 3. Type **EBP** in the **Unit sequence group ID** field.
 
@@ -117,19 +117,19 @@ Create a new unit sequence group.
 
 7. Select the **Default unit for purchase and transfer** check box.
 
-8. Click **New** on the **Line details** FastTab to add a line.
+8. Select **New** on the **Line details** FastTab to add a line.
 
 9. In the **Unit** field, select **Box**.
 
 10. Select the **License plate grouping** check box.
 
-11. Click **New** on the **Line details** FastTab to add a line.
+11. Select **New** on the **Line details** FastTab to add a line.
 
 12. In the **Unit** field, select **PL**.
 
 13. Select the **License plate grouping** check box.
 
-14. Click **Save** and close the form.
+14. Select **Save** and close the form.
 
 ### Create a Warehouse
 
@@ -140,7 +140,7 @@ Create a new warehouse and assign a name and site.
 
 1. Open **Warehouse management \> Setup \> Warehouse \> Warehouses**.
 
-2. Click **New** to create a new warehouse.
+2. Select **New** to create a new warehouse.
 
 3. Type **MAINDC** for the warehouse and Name.
 
@@ -170,19 +170,19 @@ Create three new location types.
 
 1. Open **Warehouse management \> Setup \> Warehouse \> Location types**.
 
-2. Click **New** to create a new location type.
+2. Select **New** to create a new location type.
 
 3. Type **PICKING** as the identifier in the **Location type** field.
 
 4. Type **Picking** in the **Description** field.
 
-5. Click **New** to create another new location type.
+5. Select **New** to create another new location type.
 
 6. Type **RCV** as the identifier in the **Location type** field.
 
 7. Type **Receiving** in the **Description** field.
 
-8. Click **New** to create another new location type.
+8. Select **New** to create another new location type.
 
 9. Type **FRESH** as the identifier in the **Location type** field.
 
@@ -199,7 +199,7 @@ format for Aisle-Rack-Shelf, Aisle-Shelf, and Bay door
 
 1. Open **Warehouse management \> Setup \> Warehouse \> Location formats**.
 
-2. Click **New** to create a new location format.
+2. Select **New** to create a new location format.
 
 3. Type **ARS** in the **Location format** field.
 
@@ -207,31 +207,31 @@ format for Aisle-Rack-Shelf, Aisle-Shelf, and Bay door
 
 ### Add segments to the location format
 
-1. On the **Details** FastTab, click **New** to create a new line.
+1. On the **Details** FastTab, select **New** to create a new line.
 
 2. In the **Segment description** field, type **Aisle Prefix**.
 
 3. Type **1** in the **Length** field.
 
-4. On the **Details** FastTab, click **New** to create a new line.
+4. On the **Details** FastTab, select **New** to create a new line.
 
 5. In the **Segment description** field, type **Aisle Number**.
 
 6. Type **2** in the **Length** field.
 
-7. On the **Details** FastTab, click **New** to create a new line.
+7. On the **Details** FastTab, select **New** to create a new line.
 
 8. In the **Segment description** field, type **Rack Number**.
 
 9. Type **2** in the **Length** field.
 
-10. On the **Details** FastTab, click **New** to create a new line.
+10. On the **Details** FastTab, select **New** to create a new line.
 
 11. In the **Segment description** field, type **Shelf Prefix**.
 
 12. Type **1** in the **Length** field.
 
-13. On the **Details** FastTab, click **New** to create a new line.
+13. On the **Details** FastTab, select **New** to create a new line.
 
 14. In the **Segment description** field, type **Shelf Number**.
 
@@ -239,7 +239,7 @@ format for Aisle-Rack-Shelf, Aisle-Shelf, and Bay door
 
 16. Create another location format.
 
-17. Click **New** at the top to create a new location format.
+17. Select **New** at the top to create a new location format.
 
 18. Type **RS** in the **Location format** field.
 
@@ -247,25 +247,25 @@ format for Aisle-Rack-Shelf, Aisle-Shelf, and Bay door
 
 20. Add segments to the second location format.
 
-21. On the **Details** FastTab, click **New** to create a new line.
+21. On the **Details** FastTab, select **New** to create a new line.
 
 22. In the **Segment description** field, type **Rack Prefix**.
 
 23. Type **1** in the **Length** field.
 
-24. On the **Details** FastTab, click **New** to create a new line.
+24. On the **Details** FastTab, select **New** to create a new line.
 
 25. In the **Segment description** field, type **Rack Number**.
 
 26. Type **2** in the **Length** field.
 
-27. On the **Details** FastTab, click **New** to create a new line.
+27. On the **Details** FastTab, select **New** to create a new line.
 
 28. In the **Segment description** field, type **Shelf Prefix**.
 
 29. Type **1** in the **Length** field.
 
-30. On the **Details** FastTab, click **New** to create a new line.
+30. On the **Details** FastTab, select **New** to create a new line.
 
 31. In the **Segment description** field, type **Shelf Number**.
 
@@ -273,7 +273,7 @@ format for Aisle-Rack-Shelf, Aisle-Shelf, and Bay door
 
 33. Create a third location format:
 
-34. Click **New** at the top to create a new location format.
+34. Select **New** at the top to create a new location format.
 
 35. Type **BaydoorOnly** in the **Location format** field.
 
@@ -281,13 +281,13 @@ format for Aisle-Rack-Shelf, Aisle-Shelf, and Bay door
 
 37. Add segments to the third location format.
 
-38. On the **Details** FastTab, click **New** to create a new line.
+38. On the **Details** FastTab, select **New** to create a new line.
 
 39. In the **Segment description** field, type **Baydoor Prefix**.
 
 40. Type **1** in the **Length** field.
 
-41. On the **Details** FastTab, click **New** to create a new line.
+41. On the **Details** FastTab, select **New** to create a new line.
 
 42. In the **Segment description** field, type **Baydoor Number**.
 
@@ -303,7 +303,7 @@ management profile.
 1. Open **Warehouse management \> Setup \> Warehouse \> Dock management
     profiles**.
 
-2. Click **New** to create a dock management profile.
+2. Select **New** to create a dock management profile.
 
 3. Type **SHIPSTAGE** in the **Dock management profile ID** field.
 
@@ -324,7 +324,7 @@ profiles for Picking, Staging, Receiving, Bulk, and Fresh.
 
 1. Open **Warehouse management \> Setup \> Warehouse \> Location profiles**.
 
-2. Click **New** to create a new Location profile.
+2. Select **New** to create a new Location profile.
 
 3. In the **Location profile ID**, enter **PICKING.**
 
@@ -343,7 +343,7 @@ profiles for Picking, Staging, Receiving, Bulk, and Fresh.
 
 ### Create a new location profile for Staging
 
-1. Click **New** to create a new Location profile.
+1. Select **New** to create a new Location profile.
 
 2. In the **Location profile ID** enter **STAGING.**
 
@@ -361,7 +361,7 @@ profiles for Picking, Staging, Receiving, Bulk, and Fresh.
 
 ### Create a new location profile for Receiving
 
-1. Click **New** to create a new Location profile.
+1. Select **New** to create a new Location profile.
 
 2. In the **Location profile ID** field, enter **RECEIVING.**
 
@@ -378,7 +378,7 @@ profiles for Picking, Staging, Receiving, Bulk, and Fresh.
 
 ### Create a new location profile for Bulk
 
-1. Click **New** to create a new Location profile.
+1. Select **New** to create a new Location profile.
 
 2. In the **Location profile ID** field enter **BULKLOCATIONS**.
 
@@ -392,7 +392,7 @@ profiles for Picking, Staging, Receiving, Bulk, and Fresh.
 
 ### Create a new location profile for Fresh
 
-1. Click **New** to create a new Location profile.
+1. Select **New** to create a new Location profile.
 
 2. In the **Location profile ID** field, enter **FRESH**.
 
@@ -430,7 +430,7 @@ product that uses the new hierarchy.
 1. In **USP2**, Open **Warehouse management** \> **Setup** \> **Inventory** \>
     **Reservation hierarchy**.
 
-2. Click **New** to create a new reservation hierarchy.
+2. Select **New** to create a new reservation hierarchy.
 
 3. Enter **Oranges** in the **Name** field.
 
@@ -440,7 +440,7 @@ product that uses the new hierarchy.
 
 1. In the **Selected** pane, select the **Serial number** check box.
 
-2. Click the left directional button to move the dimensions to the Available
+2. Select the left directional button to move the dimensions to the Available
     pane.
 
 <<<<<<< HEAD
@@ -449,7 +449,7 @@ product that uses the new hierarchy.
 3.  Repeat steps 1-2 for **Owner.**
 >>>>>>> e303f0910f91f7334917fd77609bbd33dbe7f8e7
 
-4. Click **OK**.
+4. Select **OK**.
 
 5. Close the forms.
 
@@ -467,7 +467,7 @@ postings. Use the information provided to create a new item.
 1. In **USP2**, Open **Product information management \> Products \> Released
     products.**
 
-2. Click **New** to create a new product.
+2. Select **New** to create a new product.
 
 3. Enter the following information in the entry fields:
 
@@ -485,7 +485,7 @@ postings. Use the information provided to create a new item.
 
     - **Reservation hierarchy** – Oranges
 
-4. Click **OK**.
+4. Select **OK**.
 
 ### Configure advanced warehousing settings
 
@@ -493,7 +493,7 @@ postings. Use the information provided to create a new item.
 
 2. Select **GAL** in the **Unit sequence group ID** field.
 
-3. Click **Validate** in the **Maintain** group of the action pane.
+3. Select **Validate** in the **Maintain** group of the action pane.
 
 4. Close the forms.
 
@@ -522,13 +522,13 @@ You will need to do the following:
 1. In USP2, Open **Warehouse management \> Setup \> Mobile device \>
     Disposition codes**.
 
-2. Click **New** to create a disposition code.
+2. Select **New** to create a disposition code.
 
 3. In the **Disposition code** field, enter **Ready**.
 
 4. In the **Inventory status** field, select **Available**.
 
-5. Click **New** to create a disposition code.
+5. Select **New** to create a disposition code.
 
 6. In the **Disposition code** field, enter **Not Ready**.
 
@@ -555,7 +555,7 @@ Notes:
 
 2. Select **Purchase orders** in the **Work order type** field.
 
-3. Click **New** in the action pane to create a new location directive.
+3. Select **New** in the action pane to create a new location directive.
 
 4. Type **MAIN DC** in the **Name** field.
 
@@ -568,11 +568,11 @@ Notes:
 
 8. Select **Stage** in the **Directive code** field.
 
-9. Click **Save**.
+9. Select **Save**.
 
 ### Add lines to the location directive
 
-1. Click **New** in the **Lines** FastTab.
+1. Select **New** in the **Lines** FastTab.
 
 2. Verify the Sequence number is 1.
 
@@ -582,19 +582,19 @@ Notes:
 
 5. Select **None** in the **Locate quantity** field.
 
-6. Click **Save** in the action pane.
+6. Select **Save** in the action pane.
 
-7. Click **New** in the **Location directive actions** FastTab.
+7. Select **New** in the **Location directive actions** FastTab.
 
 8. Type **Fresh** in the **Name** field.
 
-9. Click **Save** in the action pane.
+9. Select **Save** in the action pane.
 
 ### Add location directive actions to the location directive
 
-1. Click **Edit query** in the action pane.
+1. Select **Edit query** in the action pane.
 
-2. Click **Add** on the Query form.
+2. Select **Add** on the Query form.
 
 3. Select **Purchase Orders** in the **Table** column.
 
@@ -602,7 +602,7 @@ Notes:
 
 5. Select **30** in the **Criteria** column.
 
-6. Click **OK**.
+6. Select **OK**.
 
 7. Close the Location directives form.
 
@@ -636,7 +636,7 @@ have the put location types of Bay-door, Bulk, and Pick.
 1. In company **USMF**, open **Warehouse management \> Setup \> Work \> Work
     classes**.
 
-2. Click **New** to create a work class.
+2. Select **New** to create a work class.
 
 3. In the **Work class ID** field, enter **P-Orders.**
 
@@ -644,15 +644,15 @@ have the put location types of Bay-door, Bulk, and Pick.
 
 5. For **Work order type**, select **Purchase orders.**
 
-6. On the **Valid put location types** FastTab, click **New.**
+6. On the **Valid put location types** FastTab, select **New.**
 
 7. Enter **Baydoor.**
 
-8. Click **New** again.
+8. Select **New** again.
 
 9. Enter **Bulk**.
 
-10. Click **New** again.
+10. Select **New** again.
 
 11. Enter **Pack**.
 
@@ -666,7 +666,7 @@ put away. You will then add them to your mobile device menu.
 1. Open **Warehouse management \> Setup \> Mobile device \> Mobile device menu
     items**.
 
-2. Click on **New.**
+2. Select on **New.**
 
 3. For **Menu item name**, enter **PO Receive.**
 
@@ -686,9 +686,9 @@ put away. You will then add them to your mobile device menu.
 
 10. Set all other sliders to No.
 
-11. Click **Save** in the action pane.
+11. Select **Save** in the action pane.
 
-12. Click **New** in the action pane.
+12. Select **New** in the action pane.
 
 13. For **Menu item name**, enter **PO Putaway.**
 
@@ -704,11 +704,11 @@ put away. You will then add them to your mobile device menu.
 
 19. Set all remaining sliders to **No**.
 
-20. On **Work classes** FastTab, click **New.**
+20. On **Work classes** FastTab, select **New.**
 
 21. For **Work class ID**, select **P-Orders.**
 
-22. Click **Save** in the action pane.
+22. Select **Save** in the action pane.
 
 23. Close the page.
 
@@ -717,16 +717,16 @@ put away. You will then add them to your mobile device menu.
 1. Open **Warehouse management \> Setup \> Mobile device \> Mobile device
     menu**.
 
-2. Select **Inbound** in the left menu bar and click **Edit** in the action
+2. Select **Inbound** in the left menu bar and select **Edit** in the action
     pane.
 
 3. In the **AVAILABLE MENU AND MENU ITEMS** pane, select **PO Receive** and
-    click the right directional arrow.
+    select the right directional arrow.
 
-4. In the **AVAILABLE MENU AND MENU ITEMS**, select **PO Putaway** and click
+4. In the **AVAILABLE MENU AND MENU ITEMS**, select **PO Putaway** and select
     the right directional arrow.
 
-5. Click **Save** in the action pane.
+5. Select **Save** in the action pane.
 
 6. Close the form.
 
@@ -734,11 +734,11 @@ put away. You will then add them to your mobile device menu.
 
 1. Open **Warehouse management \> Setup \> Worker**.
 
-2. Click **New**.
+2. Select **New**.
 
 3. In the **Worker** field, select **Ted Howard**.
 
-4. On the **Users** FastTab, click **New**.
+4. On the **Users** FastTab, select **New**.
 
 5. For **User ID**, enter **thoward**.
 
@@ -748,13 +748,13 @@ put away. You will then add them to your mobile device menu.
 
 8. For **Menu name**, select **Main**.
 
-9. Click **Save** in the action pane.
+9. Select **Save** in the action pane.
 
 10. For **Password**, enter **1234**.
 
 11. For **Confirm password**, enter **1234**.
 
-12. Click **Set password**.
+12. Select **Set password**.
 
 13. Close the form.
 
@@ -768,7 +768,7 @@ work class that is associated with the menu item determines which work is valid.
 1. **Go** to **Warehouse management \> Setup \> Mobile device \> Mobile device
     menu items.**
 
-2. Click **New**.
+2. Select **New**.
 
 3. In the **Menu item name** field, enter a unique value. For example, you
     could type POMove. Remember the value; you'll need it later.
@@ -807,17 +807,17 @@ work class that is associated with the menu item determines which work is valid.
 
 13. Expand the **Work classes** section.
 
-14. Click **New**.
+14. Select **New**.
 
 15. In the **Work class ID** field, type 'Purchase' and tab off. The work pool
     restricts the work that the menu item can be used for. In this case it will
     be used for open work order lines that have the Purchase work class ID.
 
-16. Click **Save**.
+16. Select **Save**.
 
 ### Set up work confirmation
 
-1. Click **Work confirmation setup** in the action pane.
+1. Select **Work confirmation setup** in the action pane.
 
 2. In the **Work type** field, select 'Pick'.
 
@@ -825,7 +825,7 @@ work class that is associated with the menu item determines which work is valid.
     Pick will be auto-confirmed. This instruction will not be presented to the
     user.
 
-4. Click **New**.
+4. Select **New**.
 
 5. In the **Work type** field, select 'Put'.
 
@@ -833,7 +833,7 @@ work class that is associated with the menu item determines which work is valid.
     asked to perform a confirmation scan of the location when the item is put
     down.
 
-7. Click **Save**.
+7. Select **Save**.
 
 8. Close the work confirmation page.
 
@@ -848,7 +848,7 @@ work class that is associated with the menu item determines which work is valid.
     menu**.
 >>>>>>> e303f0910f91f7334917fd77609bbd33dbe7f8e7
 
-2. Click **Edit**.
+2. Select **Edit**.
 
 3. Use the Quick Filter to find records. For example, filter on the Name field
     with a value of 'inbound'. You want to find the menu you use for inbound
@@ -856,9 +856,9 @@ work class that is associated with the menu item determines which work is valid.
 
 4. In the tree, select 'a value' POMove.
 
-5. Click on the arrow that points to the right.
+5. Select on the arrow that points to the right.
 
-6. Click **Save**.
+6. Select **Save**.
 
 7. Close the mobile device menu page.
 
@@ -891,14 +891,14 @@ Create a purchase order
 1. In **USP2,** Navigate to **Accounts payable \> Purchase orders \> All
     purchase orders.**
 
-2. Click **New** in the action pane.
+2. Select **New** in the action pane.
 
 - Select **Vendor US-112**.
 
 - On the **General** FastTab, enter storage dimensions of Site **3** and
     Warehouse **30**.
 
-- Click **OK**.
+- Select **OK**.
 
 1. On the **Purchase order lines** FastTab, select **Item number P9500**.
 
@@ -927,20 +927,20 @@ is a warning only. You may continue after closing the message.*
 
 4. Navigate to **Warehourse Management \> Setup \> Worker.**
 
-5. Click on **New.**
+5. Select on **New.**
 
     1. Select **Ted Howard** under **Worker**
 
-    2. Click on **New** User ID under **Users** fast Tab. Enter **toward**
+    2. Select on **New** User ID under **Users** fast Tab. Enter **toward**
         under **User ID** and **User name.**
 
     3. **Default Warehouse – 30**
 
     4. **Menu name – Main**
 
-    5. Click on **Save.**
+    5. Select on **Save.**
 
-6. Set the **Password – 12345, Confirm Password – 12345.** Click on **Set
+6. Set the **Password – 12345, Confirm Password – 12345.** Select on **Set
     Password.**
 
 7. Close the Page.
@@ -954,7 +954,7 @@ in the Virtual machine. You may need to expand the right bar in the lab
 environment to see all content in the instructions. Perform the following
 steps.*
 
-1. Right-click on the tab of your normal system default dashboard and
+1. Right-select on the tab of your normal system default dashboard and
     select **Duplicate tab**.
 
 2. The URL on your new tab will be:
@@ -972,21 +972,21 @@ steps.*
 
 2. Log in to the mobile device with the user you have enabled.
 
-3. Click **Inbound**.
+3. Select **Inbound**.
 
-4. Click **Purchase receive**.
+4. Select **Purchase receive**.
 
-5. Enter the purchase order number in the **PONUM** field. Click on **OK**.
+5. Enter the purchase order number in the **PONUM** field. Select on **OK**.
 
-6. Enter Item number **P9500**. Click on **OK**.
+6. Enter Item number **P9500**. Select on **OK**.
 
-7. Enter a quantity of **1** in the **Qty** field. Click **OK** Twice.
+7. Enter a quantity of **1** in the **Qty** field. Select **OK** Twice.
 
 8. Enter LP number **LP951**. Select **OK**
 
-9. Enter **today’s date** as the vendor batch date. Click **OK**.
+9. Enter **today’s date** as the vendor batch date. Select **OK**.
 
-- Enter a date six months from the current date as the Expiry date. Click
+- Enter a date six months from the current date as the Expiry date. Select
     **OK.**
 
 - Select the **Use as expiration date** arrow. Select **No** and select
@@ -1032,7 +1032,7 @@ Configure wave processing.
 1. In **USMF**, go to **Warehouse management \> Setup \> Waves \> Wave
     templates**.
 
-2. Click **New**.
+2. Select **New**.
 
 3. In the **Wave template name** field, type **GTL-Wave**.
 
@@ -1077,7 +1077,7 @@ Configure wave processing.
     attributes act as filters, to restrict the kind of items that can use the
     wave. For example, you could specify an item group.
 
-14. Click **Save**.
+14. Select **Save**.
 
 15. Close the wave templates page.
 
@@ -1094,7 +1094,7 @@ Configure wave processing.
     allocation step. When this time is exceeded, the wave is not processed and
     an error message is displayed.
 
-21. Click **Save**.
+21. Select **Save**.
 
 22. Close the parameters page.
 
@@ -1135,7 +1135,7 @@ You will need to do the following:
 1. In USP2, open **Warehouse management \> Setup \> Inventory \> Adjustment
     types**.
 
-2. Click **New** on the action pane.
+2. Select **New** on the action pane.
 
 3. In the **Inventory adjustment type** field, enter **New Cycle Count**.
 
@@ -1149,7 +1149,7 @@ You will need to do the following:
 
 1. Open **Warehouse management \> Setup \> Warehouse management parameters**.
 
-2. Click the **Cycle counting** tab on the left pane.
+2. Select the **Cycle counting** tab on the left pane.
 
 3. In the **Default cycle counting adjustment type code** field, select **New
     Cycle Count**.
@@ -1163,7 +1163,7 @@ You will need to do the following:
 1. Open **Warehouse management \> Setup \> Mobile device \> Mobile device menu
     items**.
 
-2. Click **New** in the action pane.
+2. Select **New** in the action pane.
 
 3. In the **Menu item name** field, enter **Spot Cycle Count**.
 
@@ -1173,7 +1173,7 @@ You will need to do the following:
 
 6. Set the **Use existing work** slider to **Yes**.
 
-7. Click **Save** in the action pane.
+7. Select **Save** in the action pane.
 
 8. Set the **Display inventory status** slider to **Yes**.
 
@@ -1181,18 +1181,18 @@ You will need to do the following:
 
 10. Expand the **Work classes** FastTab.
 
-11. Click **New** in the FastTab.
+11. Select **New** in the FastTab.
 
 12. Make a selection in the **Work class ID** field.
 
-13. Click **Cycle Counting** in the action pane.
+13. Select **Cycle Counting** in the action pane.
 
 14. On the **Mobile device cycle counting** form, enter **2** in the **Number of
     attempts** field.
 
-15. Click **OK** to close the form.
+15. Select **OK** to close the form.
 
-16. Click **Save** in the action pane.
+16. Select **Save** in the action pane.
 
 ### Add the spot count menu item to the mobile device menu
 
@@ -1201,15 +1201,15 @@ You will need to do the following:
 
 2. Select **Inbound** in the left-hand pane.
 
-3. Click **Edit** in the action pane.
+3. Select **Edit** in the action pane.
 
 4. In the **Mobile device menus** section, select **Spot Cycle Count** from the
     **Available menus and menu items** list.
 
-5. Click the right directional arrow to add the menu item to the **Menu
+5. Select the right directional arrow to add the menu item to the **Menu
     structure** list.
 
-6. Click **Save** in the action pane.
+6. Select **Save** in the action pane.
 
 Exercise \#8 Define cycle counting (Bonus)
 ------------------------------------------
@@ -1235,14 +1235,14 @@ You will need to do the following:
 
 1. Go to **Warehouse management \> Setup \> Warehouse management parameters**.
 
-2. Click the **Cycle counting** tab.
+2. Select the **Cycle counting** tab.
 
 3. In the **Default cycle count work priority** field, enter a number. This
     step changes the priority of cycle counting work compared to other types of
     work in the warehouse. By entering a number that is lower than the number
     for other types of work, you raise the priority of the cycle counting work.
 
-4. Click **Save**.
+4. Select **Save**.
 
 5. Close the page.
 
@@ -1251,7 +1251,7 @@ You will need to do the following:
 1. Go to **Warehouse management \> Setup \> Mobile device \> Mobile device menu
     items**.
 
-2. Click **New**.
+2. Select **New**.
 
 3. In the **Menu item name** field, type a value.
 
@@ -1273,15 +1273,15 @@ Next, you will create two work classes that will be used with this mobile device
 menu item. When the menu item is used, these work classes will be queried, and
 the work that has the highest priority will be shown to the user.
 
-1. Click **New**.
+1. Select **New**.
 
 2. In the **Work class ID** field, select a value.
 
-3. Click **New**.
+3. Select **New**.
 
 4. In the **Work class ID** field, select a value.
 
-5. Click **Save**.
+5. Select **Save**.
 
 6. Close the page.
 
@@ -1290,18 +1290,18 @@ the work that has the highest priority will be shown to the user.
 
 8. In the tree, select the menu item that you just created.
 
-9. Click **Edit**.
+9. Select **Edit**.
 
-10. Click the arrow to add the menu item to the menu.
+10. Select the arrow to add the menu item to the menu.
 
-11. Click **Save**.
+11. Select **Save**.
 
 ### Create a counting threshold
 
 1. Go to **Warehouse management \> Setup \> Cycle counting \> Cycle count
     thresholds**.
 
-2. Click **New**.
+2. Select **New**.
 
 3. In the **Cycle counting threshold ID** field, type a value.
 
@@ -1309,13 +1309,13 @@ the work that has the highest priority will be shown to the user.
 
 5. In the **Description** field, type a value.
 
-6. Click **Save**.
+6. Select **Save**.
 
-7. Click **Select locations**.
+7. Select **Select locations**.
 
 8. In the **Criteria** field, select a value.
 
-9. Click **OK**.
+9. Select **OK**.
 
 10. Close the page.
 
@@ -1324,7 +1324,7 @@ the work that has the highest priority will be shown to the user.
 1. Go to **Warehouse management \> Setup \> Cycle counting \> Cycle count
     plans**.
 
-2. Click **New**.
+2. Select **New**.
 
 3. In the **Cycle counting plan ID** field, type a value.
 
@@ -1332,13 +1332,13 @@ the work that has the highest priority will be shown to the user.
 
 5. In the **Maximum number of cycle counts** field, enter a number.
 
-6. Click **Save**.
+6. Select **Save**.
 
-7. Click **Select locations**.
+7. Select **Select locations**.
 
 8. In the **Criteria** field, select a value.
 
-9. Click **OK**.
+9. Select **OK**.
 
 10. In the **Days between cycle counting** field, enter a number. For example,
     if the Days between cycle counting field is set to 5, cycle counting work
@@ -1346,22 +1346,22 @@ the work that has the highest priority will be shown to the user.
     processed on day three, the next cycle counting work will be created five
     days after the last cycle counting was processed, on day 8.
 
-11. Click **Save**.
+11. Select **Save**.
 
-12. In the Cycle count plan product selections area, click **New**.
+12. In the Cycle count plan product selections area, select **New**.
 
 13. In the **Sequence number** field, enter a number. The sort is from the
     smallest number to the largest number. The value must be more than 0 (zero).
 
 14. In the **Description** field, type a value.
 
-15. Click **Save**.
+15. Select **Save**.
 
-16. Click **Define product query**.
+16. Select **Define product query**.
 
 17. In the **Criteria** field, enter or select a value.
 
-18. Click **OK**.
+18. Select **OK**.
 
 19. Close the page.
 
@@ -1393,13 +1393,13 @@ You will need to do the following:
 
 1. In USP2, Go to **Warehouse Management \> Setup \> Work \> Work pools**.
 
-2. Click **New**.
+2. Select **New**.
 
 3. For Work Pool ID, enter **WP001.**
 
 4. For description, enter **Work pool 001.**
 
-5. Click **Save**.
+5. Select **Save**.
 
 ###  Create a cycle counting work template
 
@@ -1407,7 +1407,7 @@ You will need to do the following:
 
 2. In the **Work order type** field, select 'Cycle counting'.
 
-3. Click **New**.
+3. Select **New**.
 
 4. In the **Sequence number** field, enter a number. The sort order is from the
     smallest number to the largest number. The value must be more than 0 (zero).
@@ -1420,24 +1420,24 @@ You will need to do the following:
 
 8. In the **Work priority** field, enter a number.
 
-9. Click **Save**. Ignore any warnings.
+9. Select **Save**. Ignore any warnings.
 
-10. Under Work Template Details, click **New**.
+10. Under Work Template Details, select **New**.
 
 11. In the **Work type** field, select 'Counting'.
 
 12. In the **Work class ID** field, enter or select a value.
 
-13. Click **Save**.
+13. Select **Save**.
 
-14. Click **Work line breaks**.
+14. Select **Work line breaks**.
 
-15. Click **New**.
+15. Select **New**.
 
 16. In the **Sequence number** field, enter a number. The sort order is from the
     smallest number to the largest number. The value must be more than 0 (zero).
 
-17. Click **Save**.
+17. Select **Save**.
 
 18. Close all pages.
 
@@ -1446,7 +1446,7 @@ You will need to do the following:
 1. Go to **Warehouse management \> Setup \> Cycle counting \> Cycle count
     plans**.
 
-2. Click **New**.
+2. Select **New**.
 
 3. In the **Cycle counting plan ID** field, type a value.
 
@@ -1456,20 +1456,20 @@ You will need to do the following:
 
 6. In the **Work template** field, enter or select a value.
 
-7. In the Cycle count plan product selections area, click **New**.
+7. In the Cycle count plan product selections area, select **New**.
 
 8. In the **Sequence number** field, enter a number. The sort order is from the
     smallest number to the largest number. The value must be more than 0 (zero).
 
 9. In the **Description** field, type a value.
 
-10. Click **Save**.
+10. Select **Save**.
 
-11. Click **Define product query**.
+11. Select **Define product query**.
 
 12. In the **Criteria** field, enter or select a value.
 
-13. Click **OK**.
+13. Select **OK**.
 
 14. Close the page.
 
@@ -1547,7 +1547,7 @@ You will need to do the following:
 
 7. In the **Warehouse** field, select **30**.
 
-8. Click **Save**.
+8. Select **Save**.
 
 9. Select **New** on the **Lines** FastTab.
 
@@ -1557,7 +1557,7 @@ You will need to do the following:
 
 12. Select **None** in the **Locate quantity** field.
 
-13. Click **Save**.
+13. Select **Save**.
 
 14. Expand the **Location Directive Actions** FastTab.
 
@@ -1575,7 +1575,7 @@ You will need to do the following:
 
 21. In the **Site** field, select **3**.
 
-22. In the **Warehouse** field, select **31**. Click **Save**.
+22. In the **Warehouse** field, select **31**. Select **Save**.
 
 23. Select **New** on the **Lines** FastTab.
 
@@ -1583,7 +1583,7 @@ You will need to do the following:
 
 25. Enter **1000** in the **To quantity** field.
 
-26. Select **None** in the **Locate quantity** field. Click **Save**. 
+26. Select **None** in the **Locate quantity** field. Select **Save**. 
 
 27. Expand the **Location Directive Actions** FastTab.
 
@@ -1606,7 +1606,7 @@ You will need to do the following:
 
 36. In the **Warehouse** field, select **31**.
 
-37. Click **Save**.
+37. Select **Save**.
 
 38. Select **New** on the **Lines** FastTab.
 
@@ -1616,7 +1616,7 @@ You will need to do the following:
 
 41. Select **None** in the **Locate quantity** field.
 
-42. Click **Save**.
+42. Select **Save**.
 
 43. Expand the **Location Directive Actions** FastTab.
 
@@ -1636,7 +1636,7 @@ You will need to do the following:
 
 51. In the **Warehouse** field, select **32**.
 
-52. Click **Save**.
+52. Select **Save**.
 
 53. Select **New** in the **Lines** FastTab.
 
@@ -1646,7 +1646,7 @@ You will need to do the following:
 
 56. Select **None** in the **Locate quantity** field.
 
-57. Click **Save**.
+57. Select **Save**.
 
 58. Expand the **Location Directive Actions** FastTab.
 
@@ -1660,7 +1660,7 @@ You will need to do the following:
 
 1. Open **Warehouse management \> Setup \> Work \> Work classes**.
 
-2. Click **New**.
+2. Select **New**.
 
 3. In the **Work** class ID field, type **'Transfer2'**.
 
@@ -1668,7 +1668,7 @@ You will need to do the following:
 
 5. In the Work order type field, select **'Transfer issue'**.
 
-6. Click **Save**.
+6. Select **Save**.
 
 7. Close the page.
 
@@ -1809,7 +1809,7 @@ You will need to do the following:
 
 5. Type **Replenish** in the **Work template description** field.
 
-6. Click **Save**.
+6. Select **Save**.
 
 7. Select **New** in the **Work Template Details** section.
 
@@ -1818,7 +1818,7 @@ You will need to do the following:
 9. Select the **Mandatory** check box.
 
 10. Select **Replenish** in the **Work class ID** field. (If it doesn’t exist,
-    create it by right clicking and choose view details.)
+    create it by right selecting and choose view details.)
 
 11. Select **New** in the **Work Template Details** section.
 
@@ -1846,7 +1846,7 @@ You will need to do the following:
 
 7. Select **32** in the **Warehouse** field.
 
-8. Click **Save**.
+8. Select **Save**.
 
 9. Select **New** on the **Lines** FastTab.
 
@@ -1886,7 +1886,7 @@ You will need to do the following:
 
 27. Select **32** in the **Warehouse** field.
 
-28. Click **Save**.
+28. Select **Save**.
 
 29. Select **New** on the **Lines** FastTab.
 
@@ -1981,9 +1981,9 @@ You will need to do the following:
 
 14. On the **Product query** page, enter **P9500** in the **Criteria** field.
 
-15. Click **OK**.
+15. Select **OK**.
 
-16. Click **Save**.
+16. Select **Save**.
 
 17. Open **Warehouse management \> Setup \> Waves \> Wave template**.
 
@@ -2054,7 +2054,7 @@ You will need to do the following:
 
 2. In the **Work order type** field, select **Sales orders**.
 
-3. Click **New.**
+3. Select **New.**
 
 4. Enter **30 Pick2** in the **Name** field.
 
@@ -2064,9 +2064,9 @@ You will need to do the following:
 
 7. Select **30** in the **Warehouse** field.
 
-8. Click **Save** on the action pane.
+8. Select **Save** on the action pane.
 
-9. In the **Lines** FastTab, click **New**.
+9. In the **Lines** FastTab, select **New**.
 
 10. In the **From quantity** field, enter **0**.
 
@@ -2076,16 +2076,16 @@ You will need to do the following:
 
 13. Select **None** in the **Locate quantity** field.
 
-14. Click **Save** in the action pane.
+14. Select **Save** in the action pane.
 
-15. In the **Location directive actions** FastTab, click **New**.
+15. In the **Location directive actions** FastTab, select **New**.
 
 16. In the **Name** field, enter **Pick**.
 
 17. In the **Fixed location usage** field, select **Fixed and non-fixed
     locations.**
 
-18. Click **Save** on the action pane.
+18. Select **Save** on the action pane.
 
 ### Create an Outbound Work Template
 
@@ -2097,15 +2097,15 @@ Set up a work template for a sales order.
 
 2. Select **Sales order** in the **Work template type** field.
 
-3. Click **New** in the action pane.
+3. Select **New** in the action pane.
 
 4. Enter **SO Pick** 2 in the **Work template** field.
 
 5. Enter **SO Pick** 2 in the **Work template description** field.
 
-6. Click **Save.**
+6. Select **Save.**
 
-7. In the **Work Template Details** section, click **New**.
+7. In the **Work Template Details** section, select **New**.
 
 8. Select **Pick** in the **Work type** field.
 
@@ -2113,7 +2113,7 @@ Set up a work template for a sales order.
 
 10. In the **Work class ID** field, select **SO Pick**.
 
-11. In the **Work Template Details** section, click **New** again.
+11. In the **Work Template Details** section, select **New** again.
 
 12. Select **Put** in the **Work type** field.
 
@@ -2121,7 +2121,7 @@ Set up a work template for a sales order.
 
 14. In the **Work class ID** field, select **SO Pick**.
 
-15. Click **Save** in the action pane.
+15. Select **Save** in the action pane.
 
 ### Create a Sales Order and Release it to the Warehouse
 
@@ -2132,7 +2132,7 @@ it to the warehouse.
 
 1. Open **Sales and marketing \> Sales orders \> All sales orders**.
 
-2. Click the **New** button to create a new sales order.
+2. Select the **New** button to create a new sales order.
 
 3. In the **Customer account** drop-down list, select **US-027**.
 
@@ -2142,7 +2142,7 @@ it to the warehouse.
 
 6. Select **30** in the **Warehouse** drop-down list.
 
-7. Click **OK**.
+7. Select **OK**.
 
 8. In the **Item number** field, select **P9500**.
 
@@ -2150,7 +2150,7 @@ it to the warehouse.
 
 10. Expand the **Line Details** FastTab.
 
-11. Click the **Setup** tab.
+11. Select the **Setup** tab.
 
 12. Select **Manual** in the **Reservation** drop-down list.
 
@@ -2161,7 +2161,7 @@ it to the warehouse.
 
 15. Select the **Inventory status** check box.
 
-16. Click **Reserve lot**.
+16. Select **Reserve lot**.
 
 17. Close the reservation form.
 
@@ -2169,7 +2169,7 @@ it to the warehouse.
 
 1. Select the **Warehouse** tab on the action pane.
 
-2. Click **Release to warehouse** in the **Actions** group.
+2. Select **Release to warehouse** in the **Actions** group.
 
 3. An information bar confirms that the shipment is created (or not).
 
@@ -2202,7 +2202,7 @@ You will need to do the following:
 
 1. Open **Warehouse management \> Setup \> Mobile device \> Cluster profiles**.
 
-2. Click **New** in the action pane.
+2. Select **New** in the action pane.
 
 3. In the **Cluster profile ID** field, enter **Picking Cluster Prof.**
 
@@ -2216,14 +2216,14 @@ You will need to do the following:
 
 8. Enter **2** in the **Number of positions** field.
 
-9. Click **Save** in the action pane.
+9. Select **Save** in the action pane.
 
 ### Create the Cluster Picking menu item
 
 1. Open **Warehouse management \> Setup \> Mobile device \> Mobile device menu
     items**.
 
-2. Click **New** in the action pane.
+2. Select **New** in the action pane.
 
 3. Enter **Cluster Picking** in the **Menu item name** field.
 
@@ -2237,19 +2237,19 @@ You will need to do the following:
 
 8. In the **Cluster profile ID** field, select **Picking Cluster Prof**
 
-9. Click **New** in the **Work classes** FastTab.
+9. Select **New** in the **Work classes** FastTab.
 
 10. Select **Sales** in the **Work class ID** field.
 
-11. Click **New** in the **Work classes** FastTab again.
+11. Select **New** in the **Work classes** FastTab again.
 
 12. Select **SO Load** in the **Work class ID** field.
 
-13. Click **New** in the **Work classes** FastTab again.
+13. Select **New** in the **Work classes** FastTab again.
 
 14. Select **SO Pick** in the **Work class ID** field.
 
-15. Click **Save** in the action pane.
+15. Select **Save** in the action pane.
 
 ### Add the menu item to the mobile device
 
@@ -2258,14 +2258,14 @@ You will need to do the following:
 
 2. Select **Main** in the left-hand pane.
 
-3. Click **Edit**.
+3. Select **Edit**.
 
 4. Select **Cluster Picking** from the **Available menus and menu items** pane.
 
-5. Click the directional arrow to move the selection to the **Menu structure**
+5. Select the directional arrow to move the selection to the **Menu structure**
     pane.
 
-6. Click **Save** in the action pane.
+6. Select **Save** in the action pane.
 
 Exercise \#14 Setup manual packing (Bonus)
 ------------------------------------------
@@ -2293,7 +2293,7 @@ You will need to do the following:
 
 1. Open **Warehouse management \> Setup \> Containers \> Container types**.
 
-2. Click **New** in the action pane.
+2. Select **New** in the action pane.
 
 3. In the **Container type code** field, enter **PackingBox**.
 
@@ -2309,13 +2309,13 @@ You will need to do the following:
 
 9. In the **Container height** field, enter **10.00**.
 
-10. Click **Save** in the action pane.
+10. Select **Save** in the action pane.
 
 ### Create a packing profile
 
 1. Open **Warehouse management \> Setup \> Packing \> Packing profiles**.
 
-2. Click **New** to create a new profile.
+2. Select **New** to create a new profile.
 
 3. Type **PACK2** in the **Packing profile ID** field.
 
@@ -2329,7 +2329,7 @@ You will need to do the following:
 
 8. Select the **Autocreate container at container close** check box.
 
-9. Click **Save** in the action pane.
+9. Select **Save** in the action pane.
 
 ### Link the profile to a work user
 
@@ -2337,17 +2337,17 @@ You will need to do the following:
 
 2. Select **Julia Funderburk** from the left-hand pane.
 
-3. Click **Edit** in the action pane.
+3. Select **Edit** in the action pane.
 
 4. Update the **Packing profile ID** field to **PACK2**.
 
-5. Click **Save** in the action pane.
+5. Select **Save** in the action pane.
 
 ### Set up a wave template
 
 1. Go to **Warehouse management \> Setup \> Waves \> Wave templates**.
 
-2. Click **New**.
+2. Select **New**.
 
 3. In the **Wave template** name field, type a value.
 
@@ -2357,7 +2357,7 @@ You will need to do the following:
 
 6. In the **Warehouse** field, enter or select a value.
 
-7. Click **Save**.
+7. Select **Save**.
 
 8. Expand the **Methods** section. The **Selected methods** pane lists the
     methods for the selected wave template type. The wave template must include
@@ -2370,7 +2370,7 @@ You will need to do the following:
     more than once and assign different wave step codes. To do this, select
     **Repeatable** for this method in the **Wave process methods** page.
 
-11. Click **Save**.
+11. Select **Save**.
 
 12. Close the page.
 
@@ -2395,7 +2395,7 @@ You will need to do the following:
 1. In USMF, Open **Transportation management** \> **Setup** \> **Carriers** \> **Shipping
 carriers**.  
 
-2. In the action pane, click **New** to create a new shipping carrier.  
+2. In the action pane, select **New** to create a new shipping carrier.  
 
 3. In the **Shipping carrier** field, type **Ocean Carrier 2**.
 
@@ -2413,7 +2413,7 @@ carriers**.  
 
 10. Set the **Activate carrier rating** slider to **Yes.**
 
-11. On the **Addresses** FastTab, click **New**.
+11. On the **Addresses** FastTab, select **New**.
 
 12. In the **New address** form, type **Ocean carrier location** in the **Name**
     field.
@@ -2428,7 +2428,7 @@ carriers**.  
 
 17. Set the **Primary** slider to **Yes**.
 
-18. Click **OK.**
+18. Select **OK.**
 
 19. Close the **Shipping carriers** form.
 
@@ -2441,7 +2441,7 @@ carriers**.  
 
 3. Expand the **Services** FastTab.
 
-4. Click **New.**
+4. Select **New.**
 
 5. In the **Carrier service** field, type **Ocean**.  
 
@@ -2476,13 +2476,13 @@ You will need to do the following:
 
 1. Go to **Transportation management \> Setup \> Rating \> Rate master.**
 
-2. Click **New**.
+2. Select **New**.
 
 3. In the Rate master field, type **AtlantaMaster**.
 
 4. In the Name field, type **Atlanta rate master**.
 
-5. In the Rating metadata ID field, click the drop-down button to open the
+5. In the Rating metadata ID field, select the drop-down button to open the
     lookup.
 
     - The rating metadata ID will determine the data needed for the rate
@@ -2491,23 +2491,23 @@ You will need to do the following:
 
 6. For this example, select the **P2P** option.
 
-7. Click Save.
+7. Select Save.
 
 ### Set up rate base
 
-1. Click **Rate base**.
+1. Select **Rate base**.
 
     - The rate base determines the rate of the carrier and can be used to set
         up a tariff structure as it structures the rates in the breakpoints
         defined in the break master.
 
-2. Click **New**.
+2. Select **New**.
 
 3. In the **Rate base** field, type **AtlantaBase**.
 
 4. In the **Name field**, type **Atlanta rate base**.
 
-5. In the **Break master** field, click the drop-down button to open the
+5. In the **Break master** field, select the drop-down button to open the
     lookup.
 
     - Break masters are used to define the pricing structure and its
@@ -2518,7 +2518,7 @@ For this example, use **weight.**
 
 1. Toggle the expansion of the **Details** section.
 
-2. Click **New**.
+2. Select **New**.
 
 3. In the **Drop-off Postal Code From** field, type **30301**.
 
@@ -2551,7 +2551,7 @@ For this example, use **weight.**
     - Insert the rate per lbs if the total weight of the load is less than
         1000 pounds.
 
-11. Click **Save**.
+11. Select **Save**.
 
 12. Close the page.
 
@@ -2559,7 +2559,7 @@ For this example, use **weight.**
 
 1. Toggle the expansion of the **Rate base assignments** section.
 
-2. Click **New**.
+2. Select **New**.
 
     - You can have several rate base assignments for each rate master. This
         makes it possible to create several different price points for each
@@ -2568,11 +2568,11 @@ For this example, use **weight.**
 
 3. In the Name field, type **AtlantaRateAssignment**.
 
-4. In the Rate base field, click the drop-down button to open the lookup.
+4. In the Rate base field, select the drop-down button to open the lookup.
 
 5. In the list, select **AtlantaBase**.
 
-6. In the Service field, click the drop-down button to open the lookup.
+6. In the Service field, select the drop-down button to open the lookup.
 
 7. In the list, find and select **Truck**.
 
@@ -2583,7 +2583,7 @@ For this example, use **weight.**
 
 9. In the **Pick-up Country Region** field, type **USA**.
 
-10. Click **Save**.
+10. Select **Save**.
 
 Exercise \#17 Setup route plans and route guides (Bonus)
 --------------------------------------------------------
@@ -2608,7 +2608,7 @@ You will need to do the following:
 1. Open **USMF \> Transportation management \> Setup \> Routing \> Route
     plans.**  
 
-2. Click **New**.
+2. Select **New**.
 
 3. In the **Route plan** field, enter **GA to LA**.
 
@@ -2620,7 +2620,7 @@ You will need to do the following:
 
 1. Open **Transportation management \> Setup \> Routing \> Hub masters**.  
 
-2. Click **New**.  
+2. Select **New**.  
 
 3. In the **Hub** field, enter **Georgia 3**.
 
@@ -2640,7 +2640,7 @@ You will need to do the following:
 
 11. Expand the **Address** FastTab.
 
-12. Click **Add**.
+12. Select **Add**.
 
 13. In the **Name or description** field, enter **Georgia 3**.
 
@@ -2648,9 +2648,9 @@ You will need to do the following:
 
 15. In the **Street** field, enter **123 ABC Street**.
 
-16. Click **OK**.
+16. Select **OK**.
 
-17. Click **New**.  
+17. Select **New**.  
 
 18. In the **Hub** field, enter **Los Angeles 2**.
 
@@ -2670,7 +2670,7 @@ You will need to do the following:
 
 26. Expand the **Address** FastTab.
 
-27. Click **Add**.
+27. Select **Add**.
 
 28. In the **Name or description** field, enter **Los Angeles 2**.
 
@@ -2678,7 +2678,7 @@ You will need to do the following:
 
 30. In the **Street** field, enter **987 XYZ Avenue**.
 
-31. Click **OK**.
+31. Select **OK**.
 
 32. Close the form.
 
@@ -2688,7 +2688,7 @@ You will need to do the following:
 
 2. Select the **GA to LA** route plan.
 
-3. On the **Details** FastTab, click **New**.  
+3. On the **Details** FastTab, select **New**.  
 
 4. In the **Origin hub** field, select **Georgia 3**.
 
@@ -2711,7 +2711,7 @@ service Truck.  
 1. Open **USMF \> Transportation management \> Setup \> Routing \> Route
     guides.**  
 
-2. Click **New**.
+2. Select **New**.
 
 3. In the **Routing guide** field, enter **GA to LA**.
 
@@ -2753,7 +2753,7 @@ service Truck.  
 
 17. In the **Carrier service** field, select **Truck**.
 
-18. Click **Save**.
+18. Select **Save**.
 
 Exercise \#18 Process inbound shipments (Bonus)
 -----------------------------------------------
@@ -2781,9 +2781,9 @@ You will need to do the following:
 
 2. Select vendor **1003** from the list of vendors.
 
-3. In the action pane, click **Edit**.
+3. In the action pane, select **Edit**.
 
-4. In the **Addresses** FastTab, click **Add**.
+4. In the **Addresses** FastTab, select **Add**.
 
 5. In the **Name or description** field, type **Ade Supply Main Location**.
 
@@ -2793,7 +2793,7 @@ You will need to do the following:
 
 8. Set the **Primary** slider to **Yes**.
 
-9. Click **OK**.
+9. Select **OK**.
 
 10. In the **Invoice and delivery** FastTab, in the **Mode of delivery** field,
     select **Parce-STD**.
@@ -2806,7 +2806,7 @@ You will need to do the following:
 
 2. Select **CFR** from the left-hand panel.
 
-3. Click **Edit** in the action pane.
+3. Select **Edit** in the action pane.
 
 4. In the **Transportation** FastTab, set the **Add transportation charges to
     retail sales orders** slider to **Yes**.
@@ -2822,7 +2822,7 @@ route plan and guide between the Ade Supply Company and USMF’s Warehouse 61.
 
 1. Open **Transportation management \> Setup \> Routing \> Hub masters**.
 
-2. Click **New** in the action pane.
+2. Select **New** in the action pane.
 
 3. In the **Hub** field, enter **Ade Supply.**
 
@@ -2832,7 +2832,7 @@ route plan and guide between the Ade Supply Company and USMF’s Warehouse 61.
 
 6. In the **Rate master** field, select **ParcelRateMaster**.
 
-7. In the **Address** FastTab, click **Add**.
+7. In the **Address** FastTab, select **Add**.
 
 8. In the **New address** form, in the **Name or description** field, enter
     **Ade Supply NH**.
@@ -2841,7 +2841,7 @@ route plan and guide between the Ade Supply Company and USMF’s Warehouse 61.
 
 10. In the **Street** field, enter **123 Main Street**.
 
-11. Click **OK**.
+11. Select **OK**.
 
 12. Close the form.
 
@@ -2849,13 +2849,13 @@ route plan and guide between the Ade Supply Company and USMF’s Warehouse 61.
 
 1. Open **Transportation management \> Setup \> routing \> Route plans**.
 
-2. Click **New** in the action pane.
+2. Select **New** in the action pane.
 
 3. In the **Route plan** field, enter **NH to WA**.
 
 4. In the **Name** field, enter **New Hampshire to Washington**.
 
-5. In the **Details** FastTab, click **New**.
+5. In the **Details** FastTab, select **New**.
 
 6. In the **Origin hub** field, select **Ade Supply**.
 
@@ -2873,7 +2873,7 @@ route plan and guide between the Ade Supply Company and USMF’s Warehouse 61.
 
 1. Open **Transportation management \> Setup \> Routing \> Route guides**.
 
-2. Click **New** in the action pane.
+2. Select **New** in the action pane.
 
 3. In the **Routing guide** field, enter **NH to WA**.
 
@@ -2901,7 +2901,7 @@ transportation rate.
 
 1. Open **Accounts payable \> Purchase orders \> All purchase orders**.
 
-2. Click **New** in the action pane.
+2. Select **New** in the action pane.
 
 3. On the **Create purchase order** form, in the **Vendor account** field,
     select **1003**.
@@ -2910,7 +2910,7 @@ transportation rate.
 
 5. In the **Warehouse** field, select **61**.
 
-6. Click **OK**.
+6. Select **OK**.
 
 7. In the **Purchase order lines** FastTab, in the **Item number** field, enter
     **L0101**.
@@ -2919,34 +2919,34 @@ transportation rate.
 
 9. In the **Unit price** field, enter **50**.
 
-10. In the **Purchase** tab on the action pane, click **Confirm**.
+10. In the **Purchase** tab on the action pane, select **Confirm**.
 
 ### Create an inbound shipment
 
-1. In the **Warehouse** tab on the action pane, click **Load planning
+1. In the **Warehouse** tab on the action pane, select **Load planning
     workbench**.
 
 2. Select the check mark column for the purchase order line.
 
-3. In the **Supply and demand** tab on the action pane, click **To new load**.
+3. In the **Supply and demand** tab on the action pane, select **To new load**.
 
 4. In the **Load template assignment** form, in the **Load template ID** field,
     select **Stnd Load template**.
 
-5. Click **OK**.
+5. Select **OK**.
 
 ### Rate shop for the inbound load
 
 1. In the **Loads** tab of the Load planning workbench, select **Rate route
     workbench** from the **Rating and routing** drop-down menu.
 
-2. In the action pane of the Rate route workbench, click **Rate shop**.
+2. In the action pane of the Rate route workbench, select **Rate shop**.
 
 3. In the Route results FastTab, clear the **Hide exceptions** check box.
 
 4. Select the **Route result** line for the route guide.
 
-5. Click **Assign**.
+5. Select **Assign**.
 
 ### Process an Inbound Shipment
 
@@ -2964,19 +2964,19 @@ driver Tim Smith in and out of the appointment.
 3. Select **Appointment scheduling** from the **Transportation** drop-down
     menu.
 
-4. In the **Appointment scheduling** form, click **New** in the action pane.
+4. In the **Appointment scheduling** form, select **New** in the action pane.
 
 5. In the **Appointment details** FastTab, in the **Appointment rule** field,
     select **Inbound docks 61**.
 
-6. Click **Save**.
+6. Select **Save**.
 
-7. In the action pane, click the **Update status** drop-down arrow and select
+7. In the action pane, select the **Update status** drop-down arrow and select
     **Firm**.
 
 ### Check the driver in
 
-1. In the action pane, click the **Update status** drop-down arrow and select
+1. In the action pane, select the **Update status** drop-down arrow and select
     **Driver check-in**.
 
 2. In the **Driver check-in details** form, in the **Driver name** field, enter
@@ -2984,7 +2984,7 @@ driver Tim Smith in and out of the appointment.
 
 3. In the **Driver license** field, enter **123**.
 
-4. Click **OK**.
+4. Select **OK**.
 
 5. Close the **Appointment scheduling** form.
 
@@ -2992,10 +2992,10 @@ driver Tim Smith in and out of the appointment.
 
 1. Select **Appointment scheduling** in the **Transportation** drop-down menu.
 
-2. In the **Appointment scheduling** form, in the action pane, click the
+2. In the **Appointment scheduling** form, in the action pane, select the
     **Update status** drop-down arrow and select **Driver check-out**.
 
-3. In the **The driver’s information** form, click **OK** to accept the default
+3. In the **The driver’s information** form, select **OK** to accept the default
     information.
 
 4. Close the form.
@@ -3010,9 +3010,9 @@ You now need to confirm the inbound load.
 
 2. In the **Loads** tab, clear the **Hide shipped and received** check box.
 
-3. Click the load ID.
+3. Select the load ID.
 
-4. In the **Load details** form, click the **Ship and receive** tab in the
+4. In the **Load details** form, select the **Ship and receive** tab in the
     action pane, and then select **Inbound shipment** in the **Confirm** area.
 
 5. Close the form.
@@ -3052,9 +3052,9 @@ stock for the order, and create an outbound transportation load.
 
 2. In the list of customers, select the line for account **US-007**.
 
-3. In the action pane, click the **Sell** tab.
+3. In the action pane, select the **Sell** tab.
 
-4. In the **New** group, click **Sales order**.
+4. In the **New** group, select **Sales order**.
 
 5. In the **Sales order** form, expand the **Sales order lines** FastTab, if
     not expanded already.
@@ -3070,49 +3070,49 @@ stock for the order, and create an outbound transportation load.
 
 10. In the **Unit price** field, enter **15**.  
 
-11. In the action pane, click **Save**.
+11. In the action pane, select **Save**.
 
-12. In the action pane, click the **Sell** tab.
+12. In the action pane, select the **Sell** tab.
 
-13. In the **Generate** area, click **Confirm sales order**.
+13. In the **Generate** area, select **Confirm sales order**.
 
-14. Confirm the information on the **Confirm sales order** form and click
+14. Confirm the information on the **Confirm sales order** form and select
     **OK**.
 
-15. Click **OK** to post without printing.
+15. Select **OK** to post without printing.
 
 ### Reserve stock for the order
 
 1. In the **Sales order details** form, select the order line in the **Sales
     order lines** FastTab.
 
-2. Click the **Inventory** drop-down arrow and select **Reservation**.
+2. Select the **Inventory** drop-down arrow and select **Reservation**.
 
 3. In the **Reservation** form, in the **Reservation** field, enter **5**.
 
-4. In the action pane, click **Reserve lot**.
+4. In the action pane, select **Reserve lot**.
 
 5. Close the form.
 
 ### Create an outbound transportation load
 
-1. In the **Sales order details** form, click the **Warehouse** tab in the
+1. In the **Sales order details** form, select the **Warehouse** tab in the
     action pane.
 
-2. In the **Loads** area, click **Load planning workbench**.
+2. In the **Loads** area, select **Load planning workbench**.
 
 3. In the **Sales lines** tab, select the line for your current sales order.
 
-4. In the action pane, click **Supply and demand**.
+4. In the action pane, select **Supply and demand**.
 
-5. In the **Add** area, click **To new load**.
+5. In the **Add** area, select **To new load**.
 
 6. In the **Load template assignment** form, select **Stnd Load Template** from
     the **Load template ID** drop-down menu.
 
-7. Click **OK**.
+7. Select **OK**.
 
-8. Click **OK** to confirm exceeding capacity.
+8. Select **OK** to confirm exceeding capacity.
 
 ### Creating a Consolidated Shipment
 
@@ -3125,7 +3125,7 @@ tasked with creating the consolidated load and confirming it.
 1. Open **Transportation management \> Setup \> Transportation management
     parameters**.
 
-2. Click the **General** tab.
+2. Select the **General** tab.
 
 3. In the **In transit planning** FastTab, set the **In transit planning**
     slider to **Yes**.
@@ -3139,7 +3139,7 @@ tasked with creating the consolidated load and confirming it.
 2. Select the current sales order for Desert Wholesales.
 
 3. In the **Sales order details** form, in the **Sales order lines** FastTab,
-    click **Add line**.
+    select **Add line**.
 
 4. In the **Item number** field, enter **A0002**.
 
@@ -3147,46 +3147,46 @@ tasked with creating the consolidated load and confirming it.
 
 6. For **Site**, select **5**.
 
-7. In the action pane, click the **Sell** tab.
+7. In the action pane, select the **Sell** tab.
 
-8. In the **Generate** area, click **Confirm sales order**.
+8. In the **Generate** area, select **Confirm sales order**.
 
-9. Confirm the information on the Confirm sales order form and click **OK**.
+9. Confirm the information on the Confirm sales order form and select **OK**.
 
-10. Click **OK** to post without printing.
+10. Select **OK** to post without printing.
 
 ### Reserve stock for the order
 
 1. In the **Sales order details** form, select one of the order lines in the
     **Sales order lines** FastTab.
 
-2. Click the **Inventory** drop-down arrow and select **Reservation**.
+2. Select the **Inventory** drop-down arrow and select **Reservation**.
 
 3. In the **Reservation** form, in the **Reservation** field, enter **5**.
 
-4. In the action pane, click **Reserve lot**.
+4. In the action pane, select **Reserve lot**.
 
 5. Close the form.
 
 ### Create and confirm a new outbound load
 
-1. In the **Sales order details** form, click the **Warehouse** tab in the
+1. In the **Sales order details** form, select the **Warehouse** tab in the
     action pane.
 
-2. In the **Loads** area, click **Load planning workbench**.
+2. In the **Loads** area, select **Load planning workbench**.
 
 3. In the **Sales lines** tab, select a line for your current sales order.
 
-4. In the action pane, click **Supply and demand**.
+4. In the action pane, select **Supply and demand**.
 
-5. In the **Add** area, click **To new load**.
+5. In the **Add** area, select **To new load**.
 
 6. In the **Load template assignment** form, select **Stnd Load Template** from
     the **Load template ID** drop-down menu.
 
-7. Click **OK**.
+7. Select **OK**.
 
-8. Click **OK** to confirm exceeding capacity.
+8. Select **OK** to confirm exceeding capacity.
 
 ### Add hub consolidation and rate both loads
 
@@ -3195,23 +3195,23 @@ tasked with creating the consolidated load and confirming it.
 
 2. Select **Hub consolidation** in the **Transportation** drop-down menu.
 
-3. In the **Override location** form, click the **Hub** drop-down arrow and
+3. In the **Override location** form, select the **Hub** drop-down arrow and
     select **Los Angeles**.
 
-4. Click **OK**.
+4. Select **OK**.
 
 5. Select the load line in the **Loads** tab.
 
 6. Select **Rate route workbench** from the **Rating and routing** drop-down
     menu.
 
-7. In the **Rate route workbench**, click **Route with rate** in the action
+7. In the **Rate route workbench**, select **Route with rate** in the action
     pane.
 
 8. In the **Route Results** FastTab, select route guide **Wh 61 to Cust 003 004
     019**.
 
-9. Click **Assign**.
+9. Select **Assign**.
 
 10. Close the **Routes** form and the **Rate route workbench**.
 
@@ -3221,16 +3221,16 @@ tasked with creating the consolidated load and confirming it.
 
 1. In the **Transportation request lines** tab, select both lines.
 
-2. In the action pane, click the **Supply and demand** tab.
+2. In the action pane, select the **Supply and demand** tab.
 
-3. In the **Add** area, click **To new load**.
+3. In the **Add** area, select **To new load**.
 
 4. In the **Load template assignment** form, select **Stnd Load Template** from
     the **Load template ID** drop-down menu.
 
-5. Click **OK**.
+5. Select **OK**.
 
-6. Click **OK** to confirm exceeding capacity.
+6. Select **OK** to confirm exceeding capacity.
 
 *Note:* The consolidated load may take several minutes to appear in the Loads
 tab.
@@ -3242,13 +3242,13 @@ tab.
 2. Select **Rate route workbench** from the **Rating and routing** drop-down
     menu.
 
-3. In the **Rate route workbench**, click **Route with rate** in the action
+3. In the **Rate route workbench**, select **Route with rate** in the action
     pane.
 
 4. In the **Route Results** FastTab, select route guide **Wh 61 to Cust 003 004
     019**.
 
-5. Click **Assign**.
+5. Select **Assign**.
 
 6. Close the **Routes** form and the **Rate route workbench**.
 
@@ -3284,7 +3284,7 @@ You will need to do the following:
 1. Open **Transportation management \> Setup \> Freight reconciliation \>
     Reconciliation reasons**.
 
-2. Click **New**.
+2. Select **New**.
 
 3. Type **OT** in the **Reconciliation reason code** field.
 
@@ -3315,7 +3315,7 @@ You will need to do the following:
 1. Open **Transportation management \> Setup \> Freight reconciliation \>
     Freight bill type assignments**.
 
-2. Click **New**.
+2. Select **New**.
 
 3. Select **None** in the **Direction** field.
 
@@ -3332,7 +3332,7 @@ You will need to do the following:
 1. Open **Transportation management \> Setup \> Freight reconciliation \>
     Billing Group**.
 
-2. Click **New**.
+2. Select **New**.
 
 3. Type **Duties** in the **Billing group** field.
 
@@ -3345,7 +3345,7 @@ You will need to do the following:
 1. Open **Transportation management \> Setup \> Freight reconciliation \> Audit
     master**.
 
-2. Click **New**.
+2. Select **New**.
 
 3. Enter **Overtime** in the **Audit master ID** field.
 
