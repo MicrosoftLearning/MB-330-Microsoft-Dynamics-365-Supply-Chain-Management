@@ -362,7 +362,7 @@ You will need to do the following:
 
 10. Select **OK**.
 
-11. Select the line where Sequence is 1 (Length) for **Item numnber A0002**, and then select **Results**.
+11. Select the line where Sequence is 1 (Length) for **Item number A0002**, and then select **Results**.
 
 12. In the **Result quantity** field, type 1.00.
 
