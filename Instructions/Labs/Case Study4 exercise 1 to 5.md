@@ -362,15 +362,15 @@ You will need to do the following:
 
 10. Select **OK**.
 
-11. Select the line where Sequence is 1 (Length) for **Item numnber A0002**, and then select **Results**.
+11. Select the line where Sequence is 1 (Length) for **Item number A0002**, and then select **Results**.
 
-12. In the **Result quantity** field, type 1.00.
+12. In the **Result quantity** field, type **1.00**.
 
 13. Select **Validate** and close the form.
 
 14. Select the line where Sequence is 20 (Rub and Scratch), and then select **Results**.
 
-15. In the **Result quantity** field, type "1.00".
+15. In the **Result quantity** field, type **1.00**.
 
 16. Select **Validate** and close the form.
 
