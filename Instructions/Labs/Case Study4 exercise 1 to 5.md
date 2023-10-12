@@ -140,14 +140,13 @@ process the quality order.
 
 5. In the **Quantity specification** field select **Fixed quantity**.
 
-6. In the **Value** field, enter **1**. This value relates to the Quantity
-    specification that’s selected in the adjacent field.
+6. In the **Value** field, enter **1**.
+     >**Note** This value relates to the Quantity specification that’s selected in the adjacent field.
 
 7. Expand or collapse the **Process** section.
 
-8. Select or clear the **Full blocking** option. If you select this option, the
-    whole lot or order line quantity is blocked if a test is failed. If you
-    don't select it, only the items in the quality order are blocked.
+8. Select or clear the **Full blocking** option.
+     >**Note** If you select this option, the whole lot or order line quantity is blocked if a test is failed. If you don't select it, only the items in the quality order are blocked.
 
 9. Select **Save**.
 
@@ -160,9 +159,7 @@ process the quality order.
 
 2. Select **New**.
 
-3. In the **Quality group** field, type **eBookQG**. Use a descriptive name to
-    help you identify which kind of items the group will contain (your sampling
-    criteria).
+3. In the **Quality group** field, type **eBookQG**.
 
 4. In the **Description** field, type **Quality group for TVs**.
 
@@ -170,8 +167,7 @@ process the quality order.
 
 6. Select **Add items**.
 
-7. Select the **Item number** row. In this example the filtering will be run
-    based on the item number.
+7. Select the row for **Items** in the **Tables** column.
 
 8. In the **Criteria** field, type **T\*** to filter on the item numbers that
     start with T.
@@ -189,9 +185,7 @@ process the quality order.
 
 2. Select **New**.
 
-3. In the **Test group** field, type **eBookTG**. Give the test group a name
-    that will help you remember what kind of tests are being run, and which
-    quality group it should be associated with.
+3. In the **Test group** field, type **eBookTG**.
 
 4. In the **Description** field, type **Test group for TVs**.
 
@@ -199,7 +193,7 @@ process the quality order.
 
 6. Under the **Overview** tab, select **Add**.
 
-7. In the **Sequence** number field, enter **1**.
+7. In the **Sequence number** field, enter **1**.
 
 8. In the **Test** field, select **eBookTest**.
 
@@ -207,14 +201,11 @@ process the quality order.
 
 10. In the **Variable** field, select **Power**.
 
-11. In the **Default outcome** field, select the drop-down button to open the
-    lookup.
+11. In the **Default outcome** field, select **ON**.
 
-12. Select **ON**.
+12. Select **Save**.
 
-13. Select **Save**.
-
-14. Close all pages.
+13. Close all pages.
 
 ### Define when quality orders will be created
 
@@ -225,19 +216,19 @@ process the quality order.
 
 3. In the **Reference** type field, select **Sales**.
 
-4. In the Item code field, select **Group**.
+4. In the **Item code** field, select **Group**.
 
-5. In the Item field, enter or select **eBookQG**.
+5. In the **Item** field, enter or select **eBookQG**.
 
-6. Expand the **Process** section.
+6. Expand the **Process** FastTab.
 
 7. In the **Event** type field, select **Picking process is scheduled**.
 
-8. Expand the **Quality order process** section.
+8. Expand the **Quality order process** FastTab.
 
 9. In the **Event blocking** field, enter or select **Picking process**.
 
-10. Expand the **Specifications** section.
+10. Expand the **Specifications** FastTab.
 
 11. In the **Test group** field, enter or select **eBookTG**.
 
@@ -246,6 +237,10 @@ process the quality order.
 13. Close all pages.
 
 ### Process quality orders
+
+Before you begin this exercise, blocking rules would need to be enabled for processing quality orders.
+
+>**NOTE** There's an exclusion on sales orders lesser than $10,000 for all customers. The sales order may provide an informational message that the order amount may be less than or equal to the sales order exclusion amount in the sales order rule and will not be sent to credit management. Before the execution of this task, view blocking rules and exclusion rules on the **Credit and collections** > **Setup** > **Credit management setup** > **Blocking rules page**.
 
 1. Go to **Sales and marketing** \> **Sales orders** \> **All sales orders**.
 
@@ -259,7 +254,9 @@ process the quality order.
 
 6. On the Action Pane, select **Pick and pack**.
 
-7. Select **Quality orders**. Note that currently there is no quality order.
+7. Select **Quality orders**.
+
+    >**Note** There are no quality order for this customer.
 
 8. Close the page.
 
@@ -277,11 +274,11 @@ process the quality order.
 
     >**Note** A quality order has been automatically generated.
 
-14. Review the tests.
+14. Review the test.
 
 15. Select **Results**.
 
-16. Set Result quantity to **1**.
+16. Set **Result quantity** to **1**.
 
 17. Set **Outcome** to **ON**.
 
@@ -362,17 +359,11 @@ You will need to do the following:
 
 10. Select **OK**.
 
-11. Select the line where **Sequence** field is 1 (Length) for **Item number A0002**, and then select **Results**.
+11. Select the line for **Item number A0002**, and then select **Results**.
 
 12. In the **Result quantity** field, type **1.00**.
 
 13. Select **Validate** and close the form.
-
-14. Select the line where **Sequence** field is 20 (Rub and Scratch), and then select **Results**.
-
-15. In the **Result quantity** field, type **1.00**.
-
-16. Select **Validate** and close the form.
 
 Exercise \#3 Define conditions to work with non-conformance issues
 ------------------------------------------------------------------
