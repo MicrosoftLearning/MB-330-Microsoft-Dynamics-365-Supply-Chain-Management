@@ -66,10 +66,11 @@ Create a new storage dimension group.
 5. Enable the **Use warehouse management processes** option to enable Warehouse
     management.
 
-6. Select **Save** in the action pane and verify that the Site, Warehouse,
-    Location, Inventory status, and License plate dimensions are active.
+6. Select **Save**.
 
-7. Close the form.
+7. Verify that the Site, Warehouse, Location, Inventory status, and License plate dimensions are active.
+
+8. Close the form.
 
 ### Create a Tracking Dimension Group
 
@@ -446,7 +447,9 @@ product that uses the new hierarchy.
 <<<<<<< HEAD
 3. Repeat steps a-b for **Owner.**
 =======
-3.  Repeat steps 1-2 for **Owner.**
+
+3. Repeat steps 1-2 for **Owner.**
+
 >>>>>>> e303f0910f91f7334917fd77609bbd33dbe7f8e7
 
 4. Select **OK**.
@@ -842,10 +845,12 @@ work class that is associated with the menu item determines which work is valid.
 ### Add the menu item to a mobile device menu
 
 <<<<<<< HEAD
+
 1. Go to the **Mobile device** menu.
 =======
 1. **Go** to **Warehouse management \> Setup \> Mobile device \> Mobile device
     menu**.
+
 >>>>>>> e303f0910f91f7334917fd77609bbd33dbe7f8e7
 
 2. Select **Edit**.
@@ -1583,7 +1588,7 @@ You will need to do the following:
 
 25. Enter **1000** in the **To quantity** field.
 
-26. Select **None** in the **Locate quantity** field. Select **Save**. 
+26. Select **None** in the **Locate quantity** field. Select **Save**.
 
 27. Expand the **Location Directive Actions** FastTab.
 
