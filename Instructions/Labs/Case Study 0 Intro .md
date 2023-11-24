@@ -1,19 +1,20 @@
 ---
 lab:
     title: 'Case study instructions'
-    module: 'Module 0: Supply chain management case studies '
+    module: 'Module 0: Supply chain management case studies'
 ---
+
 Case study instructions
 =======================
 
 -   Please observe and follow the instructor introduction to the case study on
-    the power point.
+    the PowerPoint slides.
 
--   The sequence of exercises in this UI may be different that the sequence the
-    instructor will indicate to you. please follow the sequence indicated by the
+-   The sequence of exercises in this UI may be different to the sequence the
+    instructor will indicate to you. Please follow the sequence indicated by the
     instructor.
 
--   Bonus exercises: are exercises students can practiced on their own.
+-   **Bonus exercises** are exercises students can practice on their own, if there is time permitting.
 
 Supply chain management case studies
 ====================================
