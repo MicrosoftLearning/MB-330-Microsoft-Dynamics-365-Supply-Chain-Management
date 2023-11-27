@@ -147,6 +147,8 @@ Create a new warehouse and assign a name and site.
 
 4. Select Site **1** to relate the warehouse to.
 
+    > **Note** If you save the record before assigning the attributes, the record can not be updated.
+
 ### Assign warehouse management attributes
 
 1. Expand the **Master planning** FastTab and select the **24hr** Calendar for
@@ -154,11 +156,11 @@ Create a new warehouse and assign a name and site.
 
 2. Expand the **Warehouse** FastTab.
 
-3. Select the **Use warehouse management processes** check box.
+3. Toggle **Use warehouse management processes** to **Yes**.
 
-4. Select the **Allow license plate moves during cycle counting** check box.
+4. Toggle **Allow license plate moves during cycle counting** to **Yes**.
 
-5. Select the **Decrement load line** check box.
+5. Toggle **Decrement load line** to **Yes**.
 
 6. Close the forms.
 
