@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Case study 1 Product information management and inventory management'
-    module: 'Module 2: Implement inventory management '
+    module: 'Module 2: Implement inventory management'
 ---
 
 Case study 1 Product information management and inventory management
@@ -66,11 +66,11 @@ to help them creating the new warehouse.
 
 4. Select the **Locations** tab.
 
-5. In the **Standard width** field, enter 450.
+5. In the **Standard width** field, enter **450**.
 
-6. In the **Standard depth** field, enter 250.
+6. In the **Standard depth** field, enter **250**.
 
-7. In the **Standard height** field, enter 200.
+7. In the **Standard height** field, enter **200**.
 
 8. Select **Save**.
 
@@ -82,13 +82,13 @@ to help them creating the new warehouse.
 
 2. Select **New**.
 
-3. In the **Warehouse** field, type 17.
+3. In the **Warehouse** field, type **17**.
 
-4. In the **Name** field, type Raw materials.
+4. In the **Name** field, type **Raw materials**.
 
 5. In the **Site** field, select the drop-down button to open the lookup.
 
-6. In the list, find and select site 1.
+6. In the list, find and select site **1**.
 
 7. Expand the **Location names** section. The options in this section define
     the default format for location names. In our example, we'll include the
@@ -307,13 +307,13 @@ As supply chain manager, you will have to create 2 new products:
 
 14. In the **Tracking dimension group** field, select **None**.
 
-15. In the **Inventory unit** field, select **ea** (Each).
+15. In the **Inventory unit** field, select **ea**.
 
-16. In the **Purchase unit** field, select **ea** (Each).
+16. In the **Purchase unit** field, select **ea**.
 
-17. In the **Sales unit** field, select **ea** (Each).
+17. In the **Sales unit** field, select **ea**.
 
-18. In the **BOM unit** field, select **ea** (Each).
+18. In the **BOM unit** field, select **ea**.
 
 19. In the Sales Taxation, **Item sales tax group** field, select **ALL** (All
     sales tax codes).
@@ -424,7 +424,7 @@ data entities.
 4. Select **Imov**. It is a good practice to use different journal name
     templates for the different business purposes.
 
-5. In the **Offset account** field, specify the values **140200.** This is the
+5. In the **Offset account** field, specify the values **140200**. This is the
     offset account that will be the default account on the journal lines. It is
     possible to override the default to assign different offset accounts per
     line.
@@ -552,7 +552,7 @@ You will also need to adjust the stock levels of products in the warehouse.
 
 8. In the **Site** field, select the drop-down button to open the lookup.
 
-9. In the list, select a site 1.
+9. In the list, select site **1**.
 
 10. In the **Warehouse** field, select the drop-down button to open the lookup.
 
@@ -567,14 +567,13 @@ You will also need to adjust the stock levels of products in the warehouse.
 13. Select **Validate**.
 
 14. Select **OK**.
-
-15. Note that the Journal is OK, and select **Post**. When you post this kind of
+    > **Note** that the Journal is OK, and select **Post**. When you post this kind of
     journal, an inventory receipt or issue is posted, the inventory level and
     value are changed, and ledger transactions are generated.
 
-16. Select **OK**.
+15. Select **OK**.
 
-17. Close all pages.
+16. Close all pages.
 
 Exercise \#7 Using the inventory counting journal to compare D365 inventory amounts to manually counted quantities
 ------------------------------------------------------------------------------------------------------------------
@@ -719,7 +718,7 @@ You will:
 
 22. Set **Quantity** to **2.0000**.
 
-23. In the Maintain action group, select **Approval**. Select **000020**, Julia Funderburk.
+23. In the Maintain action group, select **Approval**. Select **000020, Julia Funderburk**.
 
 24. Select **OK**.
 
