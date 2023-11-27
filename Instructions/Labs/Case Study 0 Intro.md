@@ -10,8 +10,8 @@ Case study instructions
 - Please observe and follow the instructor introduction to the case studies in
     each of the PowerPoint decks.
 
-- The sequence of exercises in this UI may be different than the sequence may
-    instructor will indicate to you. Please follow the sequence indicated by the
+- The sequence of exercises in this UI may be different than the sequence the
+    instructor may indicate to you. Please follow the sequence indicated by the
     instructor.
 
 - **Bonus exercises** are exercises that students can practice on their own, if there is time permitting.
