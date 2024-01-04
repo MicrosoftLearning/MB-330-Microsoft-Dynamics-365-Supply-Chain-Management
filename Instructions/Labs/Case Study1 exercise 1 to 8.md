@@ -82,9 +82,9 @@ to help them creating the new warehouse.
 
 2. Select **New**.
 
-3. In the **Warehouse** field, type **17**.
+3. In the **Warehouse** field, enter **17**.
 
-4. In the **Name** field, type **Raw materials**.
+4. In the **Name** field, enter **Raw materials**.
 
 5. In the **Site** field, select the drop-down button to open the lookup.
 
@@ -98,11 +98,11 @@ to help them creating the new warehouse.
 
 9. Set the **Include rack** option to **Yes**.
 
-10. In the **Format** field, for the rack, type -\#\#
+10. In the **Format** field, for the rack, enter **-\#\#**
 
 11. Set the **Include shelf** option to **Yes**.
 
-12. In the **Format** field, for the shelf, type -\#\#
+12. In the **Format** field, for the shelf, enter **-\#\#**
 
 13. Select **Save**.
 
@@ -112,27 +112,27 @@ to help them creating the new warehouse.
 
 2. Select **Location Wizard**.
 
-3. On the Welcome screen, select **Next**.
+3. On the **Welcome** screen, select **Next**.
 
-4. De-select the **Outbound docks** option
+4. De-select the **Outbound docks** option.
 
-5. De-select the **Bulk locations** option
+5. De-select the **Bulk locations** option.
 
 6. Select **Next**.
 
-7. On the Create inventory aisles screen, select **Next**.
+7. On the **Create inventory aisles** screen, select **Next**.
 
-8. On the Edit and delete aisles screen, select **Next**.
+8. On the **Edit and delete aisles** screen, select **Next**.
 
-9. On the Create inbound docks screen, select **Next**.
+9. On the **Create inbound docks** screen, select **Next**.
 
-10. On the Edit and delete inbound docks screen, select **Next**.
+10. On the **Edit and delete inbound docks** screen, select **Next**.
 
-11. On the Create picking locations screen, select **Next**.
+11. On the **Create picking locations** screen, select **Next**.
 
-12. On the **Specify additional information for all your picking locations**
-    screen, note that the physical dimensions shown on this page are the ones
-    that you set at the start of this procedure. Select **Next**.
+12. Review the physical dimensions shown on the the **Specify additional information for all your picking locations** screen and select **Next**.
+    > **Note** The physical dimensions shown on this page are the ones
+    that you set at the start of this procedure.
 
 13. On the **Edit and delete picking locations** screen, select **Next**.
 
@@ -161,9 +161,9 @@ items must be grouped based on FIFO inventory model.
 
 3. In the **Costing type** field, select **Standard cost**.
 
-4. In the **Version** field, type **SeahorseST**.
+4. In the **Version** field, enter **SeahorseST**.
 
-5. In the **Name** field, type **Seahorse Standard Costing**.
+5. In the **Name** field, enter **Seahorse Standard Costing**.
 
 6. In the **Block activation** field, select **No**.
 
@@ -178,21 +178,21 @@ items must be grouped based on FIFO inventory model.
 
 2. Select **New**.
 
-3. In the **Item model group** field, type **STDN**.
+3. In the **Item model group** field, enter **STDN**.
 
-4. In the **Name** field, type **Standard Cost**.
+4. In the **Name** field, enter **Standard Cost**.
 
 5. In the **Inventory model** field, select **Standard cost**.
 
 6. Expand the **Inventory policies** section.
 
-7. In the **Approved vendor check** method field, select **No check**.
+7. In the **Approved vendor check method** field, select **No check**.
 
 8. Select **New**.
 
-9. In the **Item model group** field, type **FIFO2**.
+9. In the **Item model group** field, enter **FIFO2**.
 
-10. In the **Name** field, type **FIFO 2**.
+10. In the **Name** field, enter **FIFO 2**.
 
 11. Select **Save**.
 
@@ -205,59 +205,59 @@ items must be grouped based on FIFO inventory model.
 
 2. Select **New**.
 
-3. In the **Number group** field, type **ASer**.
+3. In the **Number group** field, enter **ASer**.
 
-4. In the **Name** field, type **Auto-Serial**.
+4. In the **Name** field, enter **Auto-Serial**.
 
-5. Select No in the **Date** field.
+5. Turn off the **Date** toggle to **No**.
 
-6. Select No in the **Lot ID** field.
+6. Turn off the **Lot ID** toggle to **No**.
 
-7. Select Yes in the **Number sequence No.** field.
+7. Turn on the**Number sequence No.** toggle to **Yes**.
 
-8. Select Yes in the **Only for inventory transactions** field.
+8. Turn on the **Only for inventory transactions** toggle to **Yes**.
 
-9. Select Yes in the **On physical update** field.
+9. Turn on the **On physical update** toggle to **Yes**.
 
 10. Select **New**.
 
-11. In the **Number group** field, type **USer**.
+11. In the **Number group** field, enter **USer**.
 
-12. In the **Name** field, type **Unique-Serial**.
+12. In the **Name** field, enter **Unique-Serial**.
 
-13. Select No in the **Date** field.
+13. Turn off the **Date** toggle to **No**.
 
-14. Select No in the **Lot ID** field.
+14. Turn off the **Lot ID** toggle to **No**.
 
-15. Select Yes in the **Number sequence No**. field.
+15. Turn on the **Number sequence No.** toggle to **Yes**.
 
 16. In the **Number sequence code** field, choose any number sequence of your
     choice.
 
-17. Select Yes in the **Only for inventory transactions** field.
+17. Turn on the **Only for inventory transactions** toggle to **Yes**.
 
-18. Select Yes in the **On physical update** field.
+18. Turn on the **On physical update** toggle to **Yes**.
 
 19. Set **Per qty.** to **1**.
 
 20. Select **New**.
 
-21. In the **Number group** field, type **Batch**.
+21. In the **Number group** field, enter **Batch**.
 
-22. In the **Name** field, type **Auto Batch**.
+22. In the **Name** field, enter **Auto Batch**.
 
-23. Select No in the **Date** field.
+23. Turn off the **Date** toggle to **No**.
 
-24. Select No in the **Lot ID** field.
+24. Turn off the **Lot ID** toggle to **No**.
 
-25. Select Yes in the **Number sequence No**. field.
+25. Turn on the **Number sequence No.** toggle to **Yes**.
 
 26. In the **Number sequence code** field, choose any number sequence of your
     choice
 
-27. Select Yes in the **Only for inventory transactions** field.
+27. Turn on the **Only for inventory transactions** toggle to **Yes**.
 
-28. Select No in the **On physical update** field.
+28. Turn off the **On physical update** toggle to **No**.
 
 29. Close the page.
 
@@ -287,11 +287,11 @@ As supply chain manager, you will have to create 2 new products:
 
 4. In the **Product subtype** field, select **Product master**.
 
-5. In the **Product number** field, type **GTLS001**.
+5. In the **Product number** field, enter **GTLS001**.
 
-6. In the **Product name** field, type **V Neck T-Shirt**.
+6. In the **Product name** field, enter **V Neck T-Shirt**.
 
-7. In the **Search name** field, type **VNeckTShirt**.
+7. In the **Search name** field, enter **VNeckTShirt**.
 
 8. In the **Retail category** field, select **Apparel and Footwear** and select **OK**.
 
@@ -331,7 +331,7 @@ As supply chain manager, you will have to create 2 new products:
 
 25. Select item **GTLS001** to open the product master record.
 
-26. In the **Product** action pane, select the **Product dimensions** button listed under the **Product master** section.
+26. On the Action Pane, select the **Product** tab, select **Product dimensions** listed under the **Product master** section.
 
 27. Select the **Sizes** tab.
 
@@ -424,10 +424,9 @@ data entities.
 4. Select **Imov**. It is a good practice to use different journal name
     templates for the different business purposes.
 
-5. In the **Offset account** field, specify the values **140200**. This is the
-    offset account that will be the default account on the journal lines. It is
-    possible to override the default to assign different offset accounts per
-    line.
+5. In the **Offset account** field, specify the values **140200**. 
+    > **Note**This is the offset account that will be the default account on the journal lines. It is
+    possible to override the default to assign different offset accounts per line.
 
 6. Select **OK**.
 
@@ -457,10 +456,8 @@ data entities.
 
 19. Select **Post**.
 
-20. Check or uncheck the **Transfer all posting errors to a new journal** check
-    box. If you enable this option, any lines that fail to post will be copied
-    to a new journal. You can use the information in the log to correct the
-    issues and then re-post the lines.
+20. Check or uncheck the **Transfer all posting errors to a new journal** check box.
+    > **Note** If you enable this option, any lines that fail to post will be copied to a new journal. You can use the information in the log to correct the issues and then re-post the lines.
 
 21. Select **OK**.
 
@@ -540,9 +537,7 @@ You will also need to adjust the stock levels of products in the warehouse.
 
 3. In the **Name** field, select the drop-down button to open the lookup.
 
-4. In the list, select on the inventory adjustment journal name you want to use.
-    Some other fields will be populated based on the setup of the inventory
-    adjustment journal name you select.
+4. In the list, select on the inventory adjustment journal name you want to use. Some other fields will be populated based on the setup of the inventory adjustment journal name you select.
 
 5. Select **OK**.
 
@@ -556,7 +551,7 @@ You will also need to adjust the stock levels of products in the warehouse.
 
 10. In the **Warehouse** field, select the drop-down button to open the lookup.
 
-11. In the list, select warehouse 13. If you have selected an item with Location
+11. In the list, select **warehouse 13**. If you have selected an item with Location
     as a mandatory dimension, you would have to specify the location here.
 
 12. In the **Quantity** field, enter a number. The cost price field specifies
@@ -676,9 +671,9 @@ You will:
 
 2. Select **New**.
 
-3. In the **Name** field, type **High Quality Speaker**.
+3. In the **Name** field, enter **High Quality Speaker**.
 
-4. In the **Site** field, type **1**.
+4. In the **Site** field, enter **1**.
 
 5. In the **Item group** field, enter or select **Audio**.
 
