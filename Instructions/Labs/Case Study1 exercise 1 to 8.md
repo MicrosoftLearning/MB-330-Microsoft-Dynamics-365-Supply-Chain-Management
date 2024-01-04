@@ -381,11 +381,11 @@ As supply chain manager, you will have to create 2 new products:
 
 50. Close the form.
 
-51. In the **Product** action pane, select the **Released product variants** button listed under the **Product master** section.
+51. Select **Released product variants** listed under the **Product master** section.
 
-52. In the **Product Variant** action pane, select **Variant suggestions** listed under the **Released product Variants** section.
+52. Select **Variant suggestions** listed under the **Released product Variants** section.
 
-53. Select **Suggest all** from the **Variant suggestions** and then select **Suggest all** from the **Suggested variants**.
+53. Select **Suggest all** from the **Variant suggestions** and then select **Select all** from the **Suggested variants**.
 
 54. Select **Create**.
 
@@ -432,31 +432,31 @@ data entities.
 
 7. Select **New** in the **Journal lines** fast tab.
 
-8. In the Item number field, select the drop-down button to open the lookup.
+8. In the **Item number** field, select the drop-down button to open the lookup.
 
 9. Select item **A0001**.
 
-10. Select the **Inventory dimensions** tab.
+10. In the **Site** field, select the drop-down button to open the lookup.
 
-11. In the **Site** field, select the drop-down button to open the lookup.
+11. Select site **1**.
 
-12. Select site **1**.
+12. In the **Warehouse** field, select the drop-down button to open the lookup.
 
-13. In the **Warehouse** field, select the drop-down button to open the lookup.
+13. Select warehouse **13**.
 
-14. Select warehouse **13**.
+14. In the **Location** field, select the drop-down button to open the lookup.
 
-15. In the **Location** field, select the drop-down button to open the lookup.
+15. Select location **13**.
 
-16. Select location **13**.
+16. In the **Quantity** field, enter a number.
 
-17. In the **Quantity** field, enter a number.
+17. Review changes in the **Line details** FastTab.
 
 18. Select **Save**.
 
 19. Select **Post**.
 
-20. Check or uncheck the **Transfer all posting errors to a new journal** check box.
+20. Toggle on or toggle off the **Transfer all posting errors to a new journal** field.
     > **Note** If you enable this option, any lines that fail to post will be copied to a new journal. You can use the information in the log to correct the issues and then re-post the lines.
 
 21. Select **OK**.
@@ -499,7 +499,7 @@ not license plate controlled.*
 
 14. Select the **Inventory dimensions** tab in the **Line details** fast tab.
 
-15. In the **License plate** field, in **From inventory dimensions**, enter or select **24**.
+15. In **From inventory dimensions**, enter **24** in the  **License plate** field.
 
 16. Select **Save**.
 
@@ -537,7 +537,7 @@ You will also need to adjust the stock levels of products in the warehouse.
 
 3. In the **Name** field, select the drop-down button to open the lookup.
 
-4. In the list, select on the inventory adjustment journal name you want to use. Some other fields will be populated based on the setup of the inventory adjustment journal name you select.
+4. Select **IAdj**.
 
 5. Select **OK**.
 
@@ -583,7 +583,7 @@ manually count the items in that specific area of the warehouse.
 The warehouse manager wants to enter the manually counted quantity and not sure
 what to use.
 
-**how would you help?**
+**How would you help?**
 
 ### Use counting journals
 
@@ -594,9 +594,7 @@ what to use.
 
 3. In the **Name** field, select the drop-down button to open the lookup.
 
-4. In the list, select on the inventory counting journal **Icnt**. Some other
-    fields will be populated based on the setup of the inventory counting
-    journal name that you select.
+4. In the list, select on the inventory counting journal **Icnt**.
 
 5. In the **Worker** field, select the drop-down button to open the lookup.
 
