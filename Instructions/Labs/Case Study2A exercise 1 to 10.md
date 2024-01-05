@@ -77,7 +77,7 @@ help her to use?**
 2. Select the **Computers** procurement category (a subcategory of Office
     Machines).
 
-3. Select **Add unlisted product to lines**.
+3. Under **Select From Filtered List**, select the ellipsis and select **Add unlisted product to lines**.
 
 4. Product name: Enter **24in HDMI Cable**.
 
@@ -101,8 +101,7 @@ help her to use?**
 
 ### Submit the purchase requisition created in the previous practice for approval, and perform the approval process
 
-1. Go to **Procurement and sourcing**, then to **Purchase requisitions**, and
-    then to **All purchase requisitions**.
+1. Go to **Procurement and sourcing** \> **Purchase requisitions** \> **All purchase requisitions**.
 
 2. Open the draft purchase requisition created in the previous practice.
 
@@ -112,7 +111,7 @@ help her to use?**
 
 5. Select **Submit**.
 
-6. Select **Workflow\>Workflow history**
+6. Select **Workflow \> Workflow history**
 
 7. Select **Refresh a** few times and wait until the work items shows records.
 
@@ -120,7 +119,7 @@ help her to use?**
 
 9. Select **Admin** in the **User field.**
 
-10. Select **Reassign**.
+10. Select **Reassign**. Notice the work item has been reassigned to a new worker.
 
 11. Select **Refresh.**
 
@@ -160,8 +159,8 @@ You will have to do the following:
 
 ### Create the request for quotation and send to the appropriate suppliers
 
-1. Go to **Procurement and sourcing**, then to **Requests for quotations**, and
-    then to **All requests for quotations**.
+1. Go to **Procurement and sourcing** \> **Requests for quotations** \>
+    **All requests for quotations**.
 
 2. Select **New**.
 
@@ -220,8 +219,8 @@ vendor responses.
 
 ### Process the quotation for US-103. Enter the vendors’ replies to the request for quotation
 
-1. Go to the **Procurement and sourcing** module, then to **Requests for
-    quotations**, and then to **All requests for quotations**.
+1. Go to the **Procurement and sourcing** \> **Requests for
+    quotations** \> **All requests for quotations**.
 
 2. Open the request for quotations created in the previous practice.
 
@@ -260,7 +259,7 @@ vendor responses.
 
 ### Accept a vendor’s reply
 
-1. Go to the **Procurement and sourcing** module, then to **Requests for quotations**, and then to **All requests for quotations**.
+1. Go to the **Procurement and sourcing** \> **Requests for quotations** \> **All requests for quotations**.
 
 2. Open the request for quotations created in the previous practice.
 
@@ -298,8 +297,7 @@ He reached out for help and you will have to do the following:
 
 ### Create a purchase requisition permission policy
 
-1. Go to **Procurement and sourcing**, then to **Setup**, then to **Policies**,
-    and then to **Purchase requisition permissions**.
+1. Go to **Procurement and sourcing** \> **Setup** \> **Policies** \> **Purchase requisition permissions**.
 
 2. Select **Mike Danseglio** in the list of workers.
 
@@ -356,8 +354,7 @@ He is not clear how to perform this using the system and asking your help
 
 ### Create a purchase order
 
-1. Go to the **Procurement and sourcing** module, then to **Purchase orders**,
-    and then to **All purchase orders**.
+1. Go to the **Procurement and sourcing** \> **Purchase orders** \> **All purchase orders**.
 
 2. Select **New**.
 
@@ -455,8 +452,7 @@ specifications:
 
 ### Create a charges code
 
-1. Go to the **Accounts payable** module, then to **Charges setup**, and then
-    to **Charges code**.
+1. Go to the **Accounts payable** \> **Charges setup** \> **Charges code**.
 
 2. Select **New**.
 
@@ -501,8 +497,7 @@ You will have to do the following:
 
 ### Create a Vendor Charges Group
 
-1. Go to the **Accounts payable** module, then to **Charges setup**, and then
-    to **Vendor charges group**.
+1. Go to the **Accounts payable** \> **Charges setup** \> **Vendor charges group**.
 
 2. Select **New**.
 
@@ -514,7 +509,7 @@ You will have to do the following:
 
 ### Update vendors to use the new vendor charges group
 
-1. Go to the **Accounts payable** module, then to **Vendors**, and then to
+1. Go to the **Accounts payable** \> **Vendors** \>
     **All vendors**.
 
 2. Open the vendor record for vendor **US-101** (Fabrikam Electronics).
@@ -565,8 +560,7 @@ You will have to do the following:
 
 ### Create an item charges group
 
-1. Go to the **Accounts payable** module, then to **Charges setup**, and then
-    to **Item charge groups**.
+1. Go to the **Accounts payable** \> **Charges setup** \> **Item charge groups**.
 
 2. Select **New**.
 
@@ -578,8 +572,7 @@ You will have to do the following:
 
 ### Create an automatic charge
 
-1. Go to the **Accounts payable** module, then to **Charges setup**, and then
-    to **Automatic charges**.
+1. Go to the **Accounts payable** \> **Charges setup** \> **Automatic charges**.
 
 2. Level: Select **Line**.
 
@@ -623,7 +616,7 @@ You will have to do the following:
 
 ### Set up change management against Supplier 1001 only
 
-1. Go to **Procurement and sourcing**, then to **Setup**, and then to
+1. Go to **Procurement and sourcing** \> **Setup** \>
     **Procurement and sourcing parameters**.
 
 2. Select the **General** tab on the left.
@@ -667,8 +660,7 @@ price will default to \$8.26.
 
 ### Create a Trade agreement for a vendor
 
-1. Go to **Procurement and sourcing**, then to **Prices and discounts**, and
-    then to **Trade agreement journals**.
+1. Go to **Procurement and sourcing** \> **Prices and discounts** \> **Trade agreement journals**.
 
 2. Select **New**.
 
@@ -727,8 +719,8 @@ What would you do?**
 
 ### Create a purchase agreement
 
-1. Go to the **Procurement and sourcing** module, then to **Purchase
-    agreements**, and then to **Purchase agreements**.
+1. Go to the **Procurement and sourcing** \> **Purchase
+    agreements** \> **Purchase agreements**.
 
 2. Select **New**.
 

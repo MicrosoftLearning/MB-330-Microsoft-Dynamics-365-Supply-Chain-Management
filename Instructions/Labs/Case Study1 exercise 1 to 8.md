@@ -681,8 +681,7 @@ You will:
 
 8. Select **Add to component BOM**.
 
-9. In the list, find and select **M0008 / High End Cabinet / Black** (the
-    checkbox on the left should be checked).
+9. In the list, find and select **M0008 / High End Cabinet / Black**.
 
 10. Select **OK**.
 
@@ -704,14 +703,14 @@ You will:
 
 19. Close the page.
 
-20. Refresh the page.
+20. Refresh the page. This will allow the BOM lines to appear in the grid for the BOM.
 
 21. In the list of Bill of materials lines, find and select the row for **M0002
     / Mid-Range Speaker Unit**.
 
 22. Set **Quantity** to **2.0000**.
 
-23. In the Maintain action group, select **Approval**. Select **000020, Julia Funderburk**.
+23. In the **Maintain** tab, select **Approval**. Select **000020, Julia Funderburk**.
 
 24. Select **OK**.
 
