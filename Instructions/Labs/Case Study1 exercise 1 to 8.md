@@ -675,9 +675,9 @@ You will:
 
 5. In the **Item group** field, enter or select **Audio**.
 
-6. In the **Maintain** action group, select **Designer**.
+6. On the **Maintain** tab, select **Designer**.
 
-7. Select **Formula lines**.
+7. Select **BOM lines**.
 
 8. Select **Add to component BOM**.
 
@@ -686,7 +686,7 @@ You will:
 
 10. Select **OK**.
 
-11. Select **Formula lines**.
+11. Select **BOM lines**.
 
 12. Select **Add after line.**
 
@@ -694,7 +694,7 @@ You will:
 
 14. Select **OK**.
 
-15. Select **Formula lines**.
+15. Select **BOM lines**.
 
 16. Select **Add before line**.
 
