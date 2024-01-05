@@ -319,7 +319,7 @@ He reached out for help and you will have to do the following:
 
 3. Select the **Policy rules** FastTab.
 
-4. In the **New** action pane, select **Policy**.
+4. In the **New** tab on the Action Pane, select **Policy**.
 
 5. Name: Enter **Office Supplies**.
 
@@ -361,8 +361,7 @@ He is not clear how to perform this using the system and asking your help
 
 3. Vendor account: Select **1001** (Acme Office Supplies).
 
-4. Delivery date: Expand the **General** tab, verify the current date in the **Delivery date** field (this
-    should be the default value).
+4. Delivery date: Expand the **General** tab, verify the current date in the **Requested receipt date** field (this should be the default value).
 
 5. Select **OK**.
 
