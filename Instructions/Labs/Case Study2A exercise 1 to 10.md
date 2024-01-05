@@ -412,20 +412,20 @@ He is not clear how to perform this using the system and asking your help
 
 9. On the Action pane, select **Purchase**
 
-10. Select **Actions > Confirm**.
+10. Select **Actions** > **Confirm**.
 
-9. On the Action Pane, select **Receive**.
+11. On the Action Pane, select **Receive**.
 
-10. Select Generate \> **Product receipt**.
+12. Select **Generate** \> **Product receipt**.
 
-11. Change Quantity to Registered quantity.
+13. Select **Registered quantity** in the **Quantity** field.
 
-12. In the **Product receipt** field, enter the product receipt number. For
+14. In the **Product receipt** field, enter the product receipt number. For
     example, enter **PR123**.
 
-13. Select **OK** to post the product receipt.
+15. Select **OK** to post the product receipt.
 
-14. Close all pages.
+16. Close all pages.
 
 Exercise \#5 Create a charges code
 ----------------------------------
