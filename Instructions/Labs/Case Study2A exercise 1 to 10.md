@@ -186,43 +186,42 @@ You will have to do the following:
 
 5. Select **Save**.
 
-6. Next to send the request for quotation to the vendors follow the below steps.
+6. Select **Header view**.
 
-7. Select **Options** at the top, select **Change view**, and then select
-    **Header view**.
+7. Open the **Vendor** FastTab.
 
-8. Open the **Vendor** FastTab.
+8. If necessary, select **Add** to add a line to the list.
 
-9. If necessary, select **Add** to add a line to the list.
+9. Vendor account: Select **US-111** (Contoso office supply).
 
-10. Vendor account: Select **US-111** (Contoso office supply).
+10. Select **Add**.
 
-11. Select **Add**.
+11. Vendor account: Select **US-103** (Rain Projectors).
 
-12. Vendor account: Select **US-103** (Rain Projectors).
+12. Select **Save**.
 
-13. Select **Save**.
-
-14. Select **Quotation** at the top, and then select **Send** under the
+13. Select **Quotation** at the top, and then select **Send** under the
     **Process** section.
 
-15. Make sure both vendors appear.
+14. Review both of the previously selected vendors.
 
-16. Select **OK**.
+15. Select **OK**.
 
 ### Reply to a Request for Quotation
 
 Update the request for the quotation created in the previous practice with the
 vendor responses.
 
-1. Make sure that the permission to edit vendor bids is setup. Go to the **Procurement and sourcing** module, then to **Setup**, and then to **Procurement and sourcing parameters**. On the **Request for quotations** tab, set the **Purchaser can edit vendors bid** option to **Yes**. Select **Save**
+1. Make sure that the permission to edit vendor bids is setup. Go to the **Procurement and sourcing** \> **Setup** \> **Procurement and sourcing parameters**.
+2. On the **Request for quotations** tab, toggle on the **Purchaser can edit vendors bid** option to **Yes**.
+3. Select **Save**
 
 ### Process the quotation for US-103. Enter the vendors’ replies to the request for quotation
 
 1. Go to the **Procurement and sourcing** \> **Requests for
     quotations** \> **All requests for quotations**.
 
-2. Open the request for quotations created in the previous practice.
+2. Open the request for quotation previously created.
 
 3. Select **Header**.
 
@@ -241,21 +240,23 @@ vendor responses.
 
 10. Select **Save**.
 
-11. Close the **Request for Quotation bid** form.
+11. Close the **Request for Quotation bid** page.
 
-12. Select the **Request for quotation** number for **US-103** (Rain Projectors).
+12. Close the **Request for Quotation** page.
 
-13. Navigate back to **Vendor** FastTab. Select the **Request for quotation** number for **US-103** (Rain Projectors). Select **Manage reply**. Select the **Edit** at the top, from the drop-down menu select **Edit RFQ reply**
+13. Select the **Request for quotation** number for **US-103** (Rain Projectors).
 
-14. Quantity: Enter **500**.
+14. Navigate back to **Vendor** FastTab. Select the **Request for quotation** number for **US-103** (Rain Projectors). Select **Manage reply**. Select the **Edit** at the top, from the drop-down menu select **Edit RFQ reply**
 
-15. Unit: Enter **ea**.
+15. Quantity: Enter **500**.
 
-16. Unit price: Enter **8.00**.
+16. Unit: Enter **ea**.
 
-17. Select **Save**.
+17. Unit price: Enter **8.00**.
 
-18. Close all the pages.
+18. Select **Save**.
+
+19. Close all the pages.
 
 ### Accept a vendor’s reply
 
