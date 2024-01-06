@@ -212,31 +212,31 @@ format for Aisle-Rack-Shelf, Aisle-Shelf, and Bay door
 
 1. On the **Details** FastTab, select **New** to create a new line.
 
-2. In the **Segment description** field, type **Aisle Prefix**.
+2. In the **Segment description** field, enter **Aisle Prefix**.
 
 3. Type **1** in the **Length** field.
 
 4. On the **Details** FastTab, select **New** to create a new line.
 
-5. In the **Segment description** field, type **Aisle Number**.
+5. In the **Segment description** field, enter **Aisle Number**.
 
 6. Type **2** in the **Length** field.
 
 7. On the **Details** FastTab, select **New** to create a new line.
 
-8. In the **Segment description** field, type **Rack Number**.
+8. In the **Segment description** field, enter **Rack Number**.
 
 9. Type **2** in the **Length** field.
 
 10. On the **Details** FastTab, select **New** to create a new line.
 
-11. In the **Segment description** field, type **Shelf Prefix**.
+11. In the **Segment description** field, enter **Shelf Prefix**.
 
 12. Type **1** in the **Length** field.
 
 13. On the **Details** FastTab, select **New** to create a new line.
 
-14. In the **Segment description** field, type **Shelf Number**.
+14. In the **Segment description** field, enter **Shelf Number**.
 
 15. Type **2** in the **Length** field.
 
@@ -252,25 +252,25 @@ format for Aisle-Rack-Shelf, Aisle-Shelf, and Bay door
 
 21. On the **Details** FastTab, select **New** to create a new line.
 
-22. In the **Segment description** field, type **Rack Prefix**.
+22. In the **Segment description** field, enter **Rack Prefix**.
 
 23. Type **1** in the **Length** field.
 
 24. On the **Details** FastTab, select **New** to create a new line.
 
-25. In the **Segment description** field, type **Rack Number**.
+25. In the **Segment description** field, enter **Rack Number**.
 
 26. Type **2** in the **Length** field.
 
 27. On the **Details** FastTab, select **New** to create a new line.
 
-28. In the **Segment description** field, type **Shelf Prefix**.
+28. In the **Segment description** field, enter **Shelf Prefix**.
 
 29. Type **1** in the **Length** field.
 
 30. On the **Details** FastTab, select **New** to create a new line.
 
-31. In the **Segment description** field, type **Shelf Number**.
+31. In the **Segment description** field, enter **Shelf Number**.
 
 32. Type **2** in the **Length** field.
 
@@ -286,13 +286,13 @@ format for Aisle-Rack-Shelf, Aisle-Shelf, and Bay door
 
 38. On the **Details** FastTab, select **New** to create a new line.
 
-39. In the **Segment description** field, type **Baydoor Prefix**.
+39. In the **Segment description** field, enter **Baydoor Prefix**.
 
 40. Type **1** in the **Length** field.
 
 41. On the **Details** FastTab, select **New** to create a new line.
 
-42. In the **Segment description** field, type **Baydoor Number**.
+42. In the **Segment description** field, enter **Baydoor Number**.
 
 43. Type **2** in the **Length** field.
 
@@ -564,7 +564,7 @@ Notes:
 
 4. Type **MAIN DC** in the **Name** field.
 
-5. Select **Put** in the Work type field. This is because we want to put the
+5. Select **Put** in the **Work type** field. This is because we want to put the
     received items on purchase orders away.
 
 6. Select **3** in the **Site** field.
@@ -776,9 +776,9 @@ work class that is associated with the menu item determines which work is valid.
 2. Select **New**.
 
 3. In the **Menu item name** field, enter a unique value. For example, you
-    could type POMove. Remember the value; you'll need it later.
+    could enter POMove. Remember the value; you'll need it later.
 
-4. In the **Title** field, type PO Move. This is the title which will be
+4. In the **Title** field, type **PO Move**. This is the title which will be
     displayed on the mobile device.
 
 5. In the **Mode** field, select 'Work'.
@@ -799,7 +799,7 @@ work class that is associated with the menu item determines which work is valid.
     work orders with this work pool ID and open work order lines with one of the
     work classes added to this menu item will be pushed to the user.
 
-10. In the **System grouping label** field, type **Work pool**. This is the text
+10. In the **System grouping label** field, enter **Work pool**. This is the text
     displayed to the user on the mobile device.
 
 11. Select **Yes** in the **Override license plate during put** field. This
@@ -814,7 +814,7 @@ work class that is associated with the menu item determines which work is valid.
 
 14. Select **New**.
 
-15. In the **Work class ID** field, type 'Purchase' and tab off. The work pool
+15. In the **Work class ID** field, enter **Purchase** and tab off. The work pool
     restricts the work that the menu item can be used for. In this case it will
     be used for open work order lines that have the Purchase work class ID.
 
@@ -846,14 +846,8 @@ work class that is associated with the menu item determines which work is valid.
 
 ### Add the menu item to a mobile device menu
 
-<<<<<<< HEAD
-
-1. Go to the **Mobile device** menu.
-=======
 1. **Go** to **Warehouse management \> Setup \> Mobile device \> Mobile device
     menu**.
-
->>>>>>> e303f0910f91f7334917fd77609bbd33dbe7f8e7
 
 2. Select **Edit**.
 
