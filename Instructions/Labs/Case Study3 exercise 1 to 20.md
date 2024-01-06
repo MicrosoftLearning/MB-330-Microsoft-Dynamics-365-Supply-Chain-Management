@@ -846,7 +846,11 @@ work class that is associated with the menu item determines which work is valid.
 
 ### Add the menu item to a mobile device menu
 
-1. Go to **Warehouse management \> Setup \> Mobile device \> Mobile device
+<<<<<<< HEAD
+
+1. Go to the **Mobile device** menu.
+=======
+1. **Go** to **Warehouse management \> Setup \> Mobile device \> Mobile device
     menu**.
 
 2. Select **Edit**.
