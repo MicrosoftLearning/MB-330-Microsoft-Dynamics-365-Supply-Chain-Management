@@ -151,7 +151,7 @@ Would you assist the planning manager in doing the following?
 
 2. Select **Wizard** and select **Next**.
 
-3. Select **Audio** from **Item Group** drop-down menu.
+3. Select **Audio** from **Item Group** drop-down menu and select **Next**.
 
 4. Type **Audio Group** in **Name** box.
 
@@ -162,12 +162,12 @@ Would you assist the planning manager in doing the following?
 
 7. Select **Finish** on the **Completed** page after verifying information is
     correct.
-    
+
 8. Switch to the **DEMF** company. Repeat steps 1 - 7.
 
 9. Switch to the **USMF** company.
 
-10. Select **Master Planning \> Setup \> Demand Forecasting \> Intercompany Planning Groups.**
+10. Select **Master Planning \> Setup \> Intercompany Planning Groups.**
 
 11. Select **Intercompa** from the Intercompany planning Groups list (record created from the previous task) and select the **Item Allocation Keys.** related to the **DEMF** from the Intercompany planning group members area.
 
