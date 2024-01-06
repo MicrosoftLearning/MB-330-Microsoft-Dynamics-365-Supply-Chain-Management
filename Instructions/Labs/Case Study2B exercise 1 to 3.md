@@ -69,7 +69,7 @@ She is not sure on the steps enter and confirm the sales order.
 
 1. On the Action Pane, select **Sales order**.
 
-2. Select **View \> totals**.
+2. Select **View \> Totals**.
 
     > **Note** The Totals page displays details about the entire order. This includes the
     subtotal amount, which is a sum of all line net amounts adjusted for
@@ -84,14 +84,14 @@ She is not sure on the steps enter and confirm the sales order.
 
 1. On the Action Pane, select **Sell**.
 
-2. Select **Generate\> confirm Sale Order**.
+2. Select **Generate\> Confirm Sale Order**.
 
-3. This will prompt you with a screen where you will check the **Posting** flag
-    is set to Yes and **Print confirmation** is set to Yes. To access the **Posting** and **Print confirmation** select the All under the **Parameters** tab.
+3. This will prompt you with a screen where you will check the **Posting** field
+    is set to **Yes** and **Print confirmation** is set to **Yes**. To access the **Posting** and **Print confirmation** select the All under the **Parameters** tab.
 
 4. Select **OK**.
 
-5. This will print the Sale order Confirmation on the screen
+5. Select **Yes** to post and print the Sale order confirmation on the screen.
 
 Exercise \#2 Create and review a sales order for commission
 -----------------------------------------------------------
@@ -138,15 +138,11 @@ You will have to do the following:
 
 10. Select **OK**.
 
-11. On the Action Pane, select **Options**.
+11. Select **Header** tab.
 
-12. Select **Change view**.
+12. Expand the **Setup** section.
 
-13. Select **Header view**.
-
-14. Expand the **Setup** section.
-
-15. The value in the **Sales group** field represents a group with one or more
+13. The value in the **Sales group** field represents a group with one or more
     sales representatives assigned to it. The people in the group are the ones
     who will receive commissions when the order is invoiced, as per predefined
     rates and distribution. The value is copied from the Customer card, but you
@@ -154,62 +150,58 @@ You will have to do the following:
     line. You can change it so that it can differ from the one in the header
     and/or between lines.
 
-16. The value in the **Commission group** field represents a group that you have
+14. The value in the **Commission group** field represents a group that you have
     created for one or more customers with the purpose of tracking commissions.
     The value is copied from the Customer card, but you can change it if you
     wish.
 
-17. On the Action Pane, select **Options**.
+15. Select **Lines** tab.
 
-18. Select **Change view**.
+16. In the **Item number** field, select the drop-down button to open the lookup.
 
-19. Select **Line view**.
+17. In the list, select **D0001**.
 
-20. In the **Item number** field, select the drop-down button to open the lookup.
+18. In the **Quantity** field, enter **2**.
 
-21. In the list, select **D0001**.
-
-22. In the Quantity field, enter **2**.
-
-23. Take note of the net amount. It represents the sales revenue, which in this
+    > **Note** Review the net amount. It represents the sales revenue, which in this
     example is the basis for commission.
 
-24. Select **Save**.
+19. Select **Save**.
 
-25. On the Action Pane, select **Sell**.
+20. On the Action Pane, select **Sell**.
 
-26. Select **Generate\> confirm Sale Order**.
+21. Select **Generate\> Confirm Sale Order**.
 
-27. This will prompt you with a screen where you will check the **Posting** flag
-    is set to Yes and **Print confirmation** is set to Yes.
+22. This will prompt you with a screen where you will check the **Posting** field
+    is set to **Yes** and **Print confirmation** is set to **Yes**.
 
-28. Select **OK**.
+23. Select **OK**.
 
-29. This will print the Sale order Confirmation on the screen
+24. Select **Yes** to post and print the Sale order confirmation on the screen.
 
-30. On the Action Pane, select **Pick and Pack**.
+25. On the Action Pane, select **Pick and Pack**.
 
-31. Select **Generate\> Post packing Slip**.
+26. Select **Generate\> Post packing Slip**.
 
-32. This will prompt you with a screen where you will check that the Parameter
+27. This will prompt you with a screen where you will check that the Parameter
     **Quantity** Field is set to **ALL** and the **Posting** flag is set to
     **Yes**.
 
-33. Select **OK**.
+28. Select **OK**.
 
-34. On the Action Pane, select **Invoice**.
+29. On the Action Pane, select **Invoice**.
 
-35. Under **Generate** field group, select **Invoice**.
+30. Under **Generate** field group, select **Invoice**.
 
-36. Expand the **Parameters** section.
+31. Expand the **Parameters** section.
 
-37. In the **Quantity** field, select **All**.
+32. In the **Quantity** field, select **All**.
 
-38. Select **Yes** in the **Posting** field.
+33. Select **Yes** in the **Posting** field.
 
-39. Select **OK**.
+34. Select **OK**.
 
-40. Select **OK**. It may take a minute or so to post the transaction. Allow the
+35. Select **OK**. It may take a minute or so to post the transaction. Allow the
     processing to complete and don’t close the page until it’s done.
 
 ### Review the registered sales commissions
@@ -218,21 +210,19 @@ You will have to do the following:
 
 2. Under **Journals** field group, select **Invoice**.
 
-3. On the Action Pane, select **Invoice**.
+3. Select **Details \> Commission transactions**.
 
-4. Select **Details \> Commission transactions**.
-
-5. The **Overview** tab displays lines representing the commission amounts
+4. The **Overview** tab displays lines representing the commission amounts
     payable to sales representatives who are associated with the invoiced sales
     order. Review the details.
 
-6. Close the page.
+5. Close the page.
 
-7. Select **Voucher**. You can review the voucher transactions for the
+6. Select **Voucher**. You can review the voucher transactions for the
     commission amounts that have been posted to the predefined commission
     expense and commission payable accounts.
 
-8. Close all pages.
+7. Close all pages.
 
 Exercise \#3 Create a customer trade agreement
 ----------------------------------------------
