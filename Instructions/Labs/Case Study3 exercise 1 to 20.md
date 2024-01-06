@@ -778,7 +778,7 @@ work class that is associated with the menu item determines which work is valid.
 3. In the **Menu item name** field, enter a unique value. For example, you
     could enter POMove. Remember the value; you'll need it later.
 
-4. In the **Title** field, type **PO Move**. This is the title which will be
+4. In the **Title** field, enter **PO Move**. This is the title which will be
     displayed on the mobile device.
 
 5. In the **Mode** field, select 'Work'.
@@ -1035,9 +1035,9 @@ Configure wave processing.
 
 2. Select **New**.
 
-3. In the **Wave template name** field, type **GTL-Wave**.
+3. In the **Wave template name** field, enter **GTL-Wave**.
 
-4. In the **Wave template description** field, type **GTL Wave**.
+4. In the **Wave template description** field, enter **GTL Wave**.
 
 5. In the **Site** field, enter or select site **2**.
 
@@ -1254,9 +1254,9 @@ You will need to do the following:
 
 2. Select **New**.
 
-3. In the **Menu item name** field, type a value.
+3. In the **Menu item name** field, enter a value.
 
-4. In the **Title** field, type a value.
+4. In the **Title** field, enter a value.
 
 5. In the **Mode** field, select **Work**.
 
@@ -1304,11 +1304,11 @@ the work that has the highest priority will be shown to the user.
 
 2. Select **New**.
 
-3. In the **Cycle counting threshold ID** field, type a value.
+3. In the **Cycle counting threshold ID** field, enter a value.
 
 4. Set the **Process cycle counting immediately** option to **Yes**.
 
-5. In the **Description** field, type a value.
+5. In the **Description** field, enter a value.
 
 6. Select **Save**.
 
@@ -1327,9 +1327,9 @@ the work that has the highest priority will be shown to the user.
 
 2. Select **New**.
 
-3. In the **Cycle counting plan ID** field, type a value.
+3. In the **Cycle counting plan ID** field, enter a value.
 
-4. In the **Description** field, type a value.
+4. In the **Description** field, enter a value.
 
 5. In the **Maximum number of cycle counts** field, enter a number.
 
@@ -1354,7 +1354,7 @@ the work that has the highest priority will be shown to the user.
 13. In the **Sequence number** field, enter a number. The sort is from the
     smallest number to the largest number. The value must be more than 0 (zero).
 
-14. In the **Description** field, type a value.
+14. In the **Description** field, enter a value.
 
 15. Select **Save**.
 
@@ -1413,9 +1413,9 @@ You will need to do the following:
 4. In the **Sequence number** field, enter a number. The sort order is from the
     smallest number to the largest number. The value must be more than 0 (zero).
 
-5. In the **Work template** field, type a value.
+5. In the **Work template** field, enter a value.
 
-6. In the **Work template description** field, type a value.
+6. In the **Work template description** field, enter a value.
 
 7. In the **Work pool ID** field, enter or select a value.
 
@@ -1449,9 +1449,9 @@ You will need to do the following:
 
 2. Select **New**.
 
-3. In the **Cycle counting plan ID** field, type a value.
+3. In the **Cycle counting plan ID** field, enter a value.
 
-4. In the **Description** field, type a value.
+4. In the **Description** field, enter a value.
 
 5. In the **Maximum number of cycle counts** field, enter a number.
 
@@ -1462,7 +1462,7 @@ You will need to do the following:
 8. In the **Sequence number** field, enter a number. The sort order is from the
     smallest number to the largest number. The value must be more than 0 (zero).
 
-9. In the **Description** field, type a value.
+9. In the **Description** field, enter a value.
 
 10. Select **Save**.
 
@@ -1663,11 +1663,11 @@ You will need to do the following:
 
 2. Select **New**.
 
-3. In the **Work** class ID field, type **'Transfer2'**.
+3. In the **Work** class ID field, enter **'Transfer2'**.
 
-4. In the Description field, type **'Transfer'**.
+4. In the **Description** field, enter **'Transfer'**.
 
-5. In the Work order type field, select **'Transfer issue'**.
+5. In the **Work order type** field, select **'Transfer issue'**.
 
 6. Select **Save**.
 
@@ -1970,9 +1970,9 @@ You will need to do the following:
 
 8. In the **Sequence number** field, enter **1**.
 
-9. In the **Description** field, type **Demand**.
+9. In the **Description** field, enter **Demand**.
 
-10. In the **Replenishment unit** field, type **ea**.
+10. In the **Replenishment unit** field, enter **ea**.
 
 11. In the **Work template** field, select **Replenish**.
 
@@ -2350,9 +2350,9 @@ You will need to do the following:
 
 2. Select **New**.
 
-3. In the **Wave template** name field, type a value.
+3. In the **Wave template** name field, enter a value.
 
-4. In the **Wave template description** field, type a value.
+4. In the **Wave template description** field, enter a value.
 
 5. In the **Site** field, enter or select a value.
 
@@ -2366,7 +2366,7 @@ You will need to do the following:
 
 9. In the list, find and select the desired record.
 
-10. In the **Wave step code** field, type a value. Enter a Wave step code for
+10. In the **Wave step code** field, enter a value. Enter a Wave step code for
     the added method, which can be any code. It’s possible to add the method
     more than once and assign different wave step codes. To do this, select
     **Repeatable** for this method in the **Wave process methods** page.
@@ -2398,9 +2398,9 @@ carriers**.  
 
 2. In the action pane, select **New** to create a new shipping carrier.  
 
-3. In the **Shipping carrier** field, type **Ocean Carrier 2**.
+3. In the **Shipping carrier** field, enter **Ocean Carrier 2**.
 
-4. In the **Name** field, type **Secondary ocean carrier**.
+4. In the **Name** field, enter **Secondary ocean carrier**.
 
 5. In the **Mode** field, select **Ocean**.  
 
@@ -2410,22 +2410,22 @@ carriers**.  
 
 8. Select vendor account **1002** from the **Vendor** drop-down menu.  
 
-9. In the **SCAC** field, type **2005.**
+9. In the **SCAC** field, enter **2005.**
 
 10. Set the **Activate carrier rating** slider to **Yes.**
 
 11. On the **Addresses** FastTab, select **New**.
 
-12. In the **New address** form, type **Ocean carrier location** in the **Name**
+12. In the **New address** form, enter **Ocean carrier location** in the **Name**
     field.
 
 13. Select **Business** from the **Purpose** drop-down list.
 
 14. Select USA in the Country/region drop-down list.
 
-15. In the **ZIP/postal code** field, type **11251**.
+15. In the **ZIP/postal code** field, enter **11251**.
 
-16. In the **Street** field, type **1577 Madison Blvd**.
+16. In the **Street** field, enter **1577 Madison Blvd**.
 
 17. Set the **Primary** slider to **Yes**.
 
@@ -2444,9 +2444,9 @@ carriers**.  
 
 4. Select **New.**
 
-5. In the **Carrier service** field, type **Ocean**.  
+5. In the **Carrier service** field, enter **Ocean**.  
 
-6. In the **Name** field, type **Ocean**.
+6. In the **Name** field, enter **Ocean**.
 
 7. In the **Transportation method** field, select **Ocean**.
 
@@ -2479,9 +2479,9 @@ You will need to do the following:
 
 2. Select **New**.
 
-3. In the Rate master field, type **AtlantaMaster**.
+3. In the Rate master field, enter **AtlantaMaster**.
 
-4. In the Name field, type **Atlanta rate master**.
+4. In the Name field, enter **Atlanta rate master**.
 
 5. In the Rating metadata ID field, select the drop-down button to open the
     lookup.
@@ -2504,9 +2504,9 @@ You will need to do the following:
 
 2. Select **New**.
 
-3. In the **Rate base** field, type **AtlantaBase**.
+3. In the **Rate base** field, enter **AtlantaBase**.
 
-4. In the **Name field**, type **Atlanta rate base**.
+4. In the **Name field**, enter **Atlanta rate base**.
 
 5. In the **Break master** field, select the drop-down button to open the
     lookup.
@@ -2521,33 +2521,33 @@ For this example, use **weight.**
 
 2. Select **New**.
 
-3. In the **Drop-off Postal Code From** field, type **30301**.
+3. In the **Drop-off Postal Code From** field, enter **30301**.
 
-4. In the **Drop-off Postal Code To** field, type **30318**.
+4. In the **Drop-off Postal Code To** field, enter **30318**.
 
-5. In the **Drop-off Country Region** field, type **USA**.
+5. In the **Drop-off Country Region** field, enter **USA**.
 
-6. In the **\<1.00 Lbs** field, type **100**.
+6. In the **\<1.00 Lbs** field, enter **100**.
 
     - Insert the rate per lbs if the total weight of the load is less than 1
         pound.
 
-7. In the **\<5.00 Lbs** field, type **300**.
+7. In the **\<5.00 Lbs** field, enter **300**.
 
     - Insert the rate per lbs if the total weight of the load is less than 5
         pounds.
 
-8. In the **\<20.00 Lbs** field, type **500**.
+8. In the **\<20.00 Lbs** field, enter **500**.
 
     - Insert the rate per lbs if the total weight of the load is less than 20
         pounds.
 
-9. In the **\<100.00** Lbs field, type **1000**.
+9. In the **\<100.00** Lbs field, enter **1000**.
 
     - Insert the rate per lbs if the total weight of the load is less than 100
         pounds.
 
-10. In the **\<1,000.00** Lbs field, type **3000**.
+10. In the **\<1,000.00** Lbs field, enter **3000**.
 
     - Insert the rate per lbs if the total weight of the load is less than
         1000 pounds.
@@ -2567,7 +2567,7 @@ For this example, use **weight.**
         carrier depending on destinations, services, or different rate bases. In
         this procedure you will only create one rate base assignment.
 
-3. In the Name field, type **AtlantaRateAssignment**.
+3. In the Name field, enter **AtlantaRateAssignment**.
 
 4. In the Rate base field, select the drop-down button to open the lookup.
 
@@ -2577,12 +2577,12 @@ For this example, use **weight.**
 
 7. In the list, find and select **Truck**.
 
-8. In the Pick-up Postal Code field, type **98052**.
+8. In the Pick-up Postal Code field, enter **98052**.
 
     - Specify which postal code this rate base assignment should be valid
         from.
 
-9. In the **Pick-up Country Region** field, type **USA**.
+9. In the **Pick-up Country Region** field, enter **USA**.
 
 10. Select **Save**.
 
@@ -2786,7 +2786,7 @@ You will need to do the following:
 
 4. In the **Addresses** FastTab, select **Add**.
 
-5. In the **Name or description** field, type **Ade Supply Main Location**.
+5. In the **Name or description** field, enter **Ade Supply Main Location**.
 
 6. In the **Zip/postal code** field, enter **00210**.
 
