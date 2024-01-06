@@ -32,7 +32,7 @@ She received a request form Customer US-004, who wants to buy 1 of Item T0004
 
 She is not sure on the steps enter and confirm the sales order.
 
-**You are called to provide assistant. What would you do?**
+**You are called to provide assistance. What would you do?**
 
 ### Enter sales order header details
 
@@ -71,14 +71,14 @@ She is not sure on the steps enter and confirm the sales order.
 
 2. Select **View \> totals**.
 
-3. The Totals page displays details about the entire order. This includes the
+    > **Note** The Totals page displays details about the entire order. This includes the
     subtotal amount, which is a sum of all line net amounts adjusted for
     eventual line discounts, the total invoice amount, which is a subtotal
     amount adjusted for eventual order-level discount, charges, and sales tax,
     the customer credit limit situation, and more. The invoice amount is the
     amount that will appear on the customer's invoice document.
 
-4. Select **OK**.
+3. Select **OK**.
 
 ### Confirm Sales order
 
