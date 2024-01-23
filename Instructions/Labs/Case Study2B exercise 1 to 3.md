@@ -316,12 +316,12 @@ You will have to do the following:
 
 ### Generate and process customer rebates
 
-1. In **USMF** navigate to the **Accounts Receivable \> Setup \> Accounts
+1. In **USMF** navigate to the **Accounts Receivable** \> **Setup** \> **Accounts
     receivable parameters** page, select the **Prices** tab and expand the
     **Price details** tab, and check that the **Enable price** details option is
     set to **Yes**.
 
-2. Navigate to the **Sales and marketing\>Customer rebates\>Rebate agreements**
+2. Navigate to the **Sales and marketing** \> **Customer rebates** \> **Rebate agreements**
     page and select the **customer rebate agreement**: **USMF-000001**.
 
 3. If the Workflow approval status field is not set to **Approved**, you need
