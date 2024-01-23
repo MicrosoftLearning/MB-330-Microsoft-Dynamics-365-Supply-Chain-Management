@@ -518,7 +518,7 @@ You will need to do the following:
 
 ### Create disposition codes
 
-1. In **USP2**, Open **Warehouse management** \> **Setup** \> **Mobile device** \>
+1. In **USP2**, go to **Warehouse management** \> **Setup** \> **Mobile device** \>
     **Disposition codes**.
 
 2. Select **New** to create a disposition code.
@@ -879,8 +879,7 @@ You will need to do the following:
 
 Create a purchase order
 
-1. In **USP2,** Navigate to **Accounts payable \> Purchase orders \> All
-    purchase orders.**
+1. In **USP2,** go to **Accounts payable** \> **Purchase orders** \> **All purchase orders.**
 
 2. Select **New** in the action pane.
 
@@ -908,9 +907,9 @@ is a warning only. You may continue after closing the message.
     B2B**.
 
 12. Under **Purchase Tab** in Action Pane. In the **Actions** group,
-    select **Confirm** and note your purchase order number.
+    select **Confirm**.
 
-    > **Note** Makeyour purchase order number.
+    > **Note** Make a note of your purchase order number.
 
 13. Close the form.
 
@@ -920,19 +919,21 @@ is a warning only. You may continue after closing the message.
 
 16. Select **Ted Howard** under **Worker**
 
-17. Select on **New** User ID under **Users** fast Tab. Enter **toward**
-        under **User ID** and **User name.**
+17. Select on **New** User ID under **Users** fast Tab.
 
-18. **Default Warehouse – 30**
+18. Enter **toward** under **User ID** and **User name.**
 
-19. **Menu name – Main**
+19. Select **Default Warehouse – 30**
 
-    5. Select on **Save.**
+20. Select **Menu name – Main**
 
-6. Set the **Password – 12345, Confirm Password – 12345.** Select on **Set
-    Password.**
+21. Select **Save.**
 
-7. Close the Page.
+22. Set the **Password – 12345, Confirm Password – 12345.**
+
+23. Select on **Set Password.**
+
+24. Close the Page.
 
 Create a purchase order receipt using the mobile device
 
@@ -1121,8 +1122,7 @@ You will need to do the following:
 
 ### Set up a cycle counting adjustment type
 
-1. In USP2, open **Warehouse management \> Setup \> Inventory \> Adjustment
-    types**.
+1. In **USP2**, go to **Warehouse management** \> **Setup** \> **Inventory** \> **Adjustment types**.
 
 2. Select **New** on the action pane.
 
@@ -1380,19 +1380,19 @@ You will need to do the following:
 
 ### Create a work pool
 
-1. In USP2, Go to **Warehouse Management \> Setup \> Work \> Work pools**.
+1. In **USP2**, Go to **Warehouse Management \> Setup \> Work \> Work pools**.
 
 2. Select **New**.
 
-3. For Work Pool ID, enter **WP001.**
+3. For **Work Pool ID**, enter **WP001.**
 
-4. For description, enter **Work pool 001.**
+4. For **Description**, enter **Work pool 001.**
 
 5. Select **Save**.
 
 ###  Create a cycle counting work template
 
-1. In USMF, go to **Warehouse management \> Setup \> Work \> Work templates**.
+1. In **USMF**, go to **Warehouse management \> Setup \> Work \> Work templates**.
 
 2. In the **Work order type** field, select 'Cycle counting'.
 
@@ -2697,8 +2697,7 @@ service Truck.  
 
 ### Create a new routing guide named “GA to LA”
 
-1. Open **USMF \> Transportation management \> Setup \> Routing \> Route
-    guides.**  
+1. In **USMF**, go to **Transportation management** \> **Setup** \> **Routing** \> **Route guides.**  
 
 2. Select **New**.
 
