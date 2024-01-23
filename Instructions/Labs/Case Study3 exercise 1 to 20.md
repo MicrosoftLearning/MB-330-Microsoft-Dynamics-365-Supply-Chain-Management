@@ -96,7 +96,7 @@ Create a new tracking dimension group.
 
 8. Close the form.
 
-### Create a Unit Sequence Group
+### Create a unit sequence group
 
 As a warehouse manager in Seahorse Retailers, you have to create a new unit
 sequence group for each, box, and pallet (EA, BOX, PL), which will have license
@@ -132,7 +132,7 @@ Create a new unit sequence group.
 
 14. Select **Save** and close the form.
 
-### Create a Warehouse
+### Create a warehouse
 
 As a warehouse manager in Seahorse Retailers, you have to configure a new
 warehouse named “MainDC” in Site “1” for use within company USP2.
