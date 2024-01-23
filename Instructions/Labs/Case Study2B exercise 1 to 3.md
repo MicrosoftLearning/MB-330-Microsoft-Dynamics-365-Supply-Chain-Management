@@ -121,7 +121,7 @@ You will have to do the following:
 
 2. Select **Edit**.
 
-3. In the To field select **12/31/2020**
+3. In the **To** field select **12/31/2020**
 
 4. Select **Save.**
 
@@ -201,8 +201,10 @@ You will have to do the following:
 
 34. Select **OK**.
 
-35. Select **OK**. It may take a minute or so to post the transaction. Allow the
-    processing to complete and don’t close the page until it’s done.
+35. Select **OK**.
+
+    > **Note** It may take a minute or so to post the transaction. Allow the
+    processing to complete.
 
 ### Review the registered sales commissions
 
@@ -212,13 +214,17 @@ You will have to do the following:
 
 3. Select **Details \> Commission transactions**.
 
-4. The **Overview** tab displays lines representing the commission amounts
+4. Review the details in the **Overview** tab.
+
+    > **Note** The **Overview** tab displays lines representing the commission amounts
     payable to sales representatives who are associated with the invoiced sales
-    order. Review the details.
+    order.
 
 5. Close the page.
 
-6. Select **Voucher**. You can review the voucher transactions for the
+6. Select **Voucher**.
+
+    > **Note** You can review the voucher transactions for the
     commission amounts that have been posted to the predefined commission
     expense and commission payable accounts.
 
@@ -284,6 +290,7 @@ the customer is from the retail accounts group, the price will default to \$20.
 18. Close all pages
 
 Exercise \#4 Generate and process customer rebates
+----------------------------------------------
 
 *Objective: Generate rebates and process rebate claims for payment.*
 
@@ -315,31 +322,31 @@ You will have to do the following:
     set to **Yes**.
 
 2. Navigate to the **Sales and marketing\>Customer rebates\>Rebate agreements**
-    page and select the **customer rebate agreement**: USMF-000001.
+    page and select the **customer rebate agreement**: **USMF-000001**.
 
 3. If the Workflow approval status field is not set to **Approved**, you need
     to select **Validation** on the Action pane to approve it.
 
 4. Review a customer rebate agreement
 
-- The agreement is for an individual customer, in this example customer
-    US-009.
+    - The agreement is for an individual customer, in this example customer
+    **US-009**.
 
-- Rebates are given to the customer when they purchase a specific product. In
-    this case, the product has item number T0020.
+    - Rebates are given to the customer when they purchase a specific product. In
+    this case, the product has item number **T0020**.
 
-- The customer's sales performance, against which the rebate amounts are
+    - The customer's sales performance, against which the rebate amounts are
     estimated, is to be accumulated on a weekly basis.  
 
-  - The setting for **Price taken from** is **Gross**, which means that
+      - The setting for **Price taken from** is **Gross**, which means that
         line's sales amount on which basis the claim is estimated is not reduced
         by the line discount.
 
-  - The **Rebate line break type** field shows the method for calculating
+      - The **Rebate line break type** field shows the method for calculating
         rebates. In this case, the sales target against which the rebates are to
         be estimated is set to Quantity.
 
-  - The agreement's lines specify the rebate amount type, the actual rebate
+      - The agreement's lines specify the rebate amount type, the actual rebate
         value, and the thresholds. In this example, the customer will qualify
         for a rebate of 20 USD per unit sold, if their weekly purchases of the
         product fall within 1 to 50 units; and a rebate of 40 USD per unit sold,
@@ -351,13 +358,13 @@ You will have to do the following:
 
 2. Select **New**.
 
-3. In the Customer account field, enter or select **US-009**.
+3. In the **Customer account** field, enter or select **US-009**.
 
 4. Select **OK**.
 
-5. In the Item number field, enter or select **T0020**.
+5. In the **Item number** field, enter or select **T0020**.
 
-6. Set **Quantity** to '40'.
+6. Set **Quantity** to **40**.
 
 7. Select **Sales order line**.
 
@@ -382,7 +389,7 @@ You will have to do the following:
 
 14. Expand the **Parameters** section.
 
-15. In the Quantity field, select **'All'**.
+15. In the **Quantity** field, select **All**.
 
 16. Select **OK**.
 
@@ -410,9 +417,9 @@ respective period.  
 
 2. Select **Cumulate**.
 
-3. In the Customer field, enter or select **US**-**009**.
+3. In the **Customer** field, enter or select **US**-**009**.
 
-4. In the Start date field, select today's date.
+4. In the **Start date** field, select today's date.
 
 5. Select **OK**.
 
@@ -420,7 +427,7 @@ respective period.  
 
 7. Select **Process**.
 
-8. In the Customer field, enter or select **US-009**.
+8. In the **Customer** field, enter or select **US-009**.
 
 9. Select **OK**.
 
@@ -434,16 +441,16 @@ is because the demo data is out of sync; perform these steps:
     1. Navigate to **General Ledger \> Ledger setup \> General ledger
         parameters**.
 
-    2. Select **Number sequences** tab
+    2. Select **Number sequences** tab.
 
-    3. Select the hyperlink for Number sequence code field for Journal batch
-        number
+    3. Select the hyperlink for **Number sequence code** field for Journal batch
+        number.
 
-    4. In the General fast tab, change the Next number higher
+    4. In the **General** FastTab, change the Next number higher.
 
-    5. Set Continuous to No
+    5. Set **Continuous** to **No**.
 
-    6. Select Yes
+    6. Select **Yes**.
 
 3. Navigate to **Sales and marketing \> Customer rebates \> Rebates**.
 
