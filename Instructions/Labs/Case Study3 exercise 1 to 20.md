@@ -47,14 +47,14 @@ before being able to use the warehouse management systems.
 
 - Create new location profiles.
 
-### Create a Storage Dimension Group
+### Create a storage dimension group
 
 As a warehouse manager in Seahorse Retailers, you have to create a new storage
 dimension group to use with Warehouse Management.
 
 Create a new storage dimension group.
 
-1. Open **Product information management \> Setup \> Dimension and variant
+1. Go to **Product information management \> Setup \> Dimension and variant
     groups \> Storage dimension groups**.
 
 2. Select **New** to create a new storage dimension group.
@@ -72,15 +72,15 @@ Create a new storage dimension group.
 
 8. Close the form.
 
-### Create a Tracking Dimension Group
+### Create a tracking dimension group
 
 As a warehouse manager in Seahorse Retailers, you have to create a new tracking
 dimension group that will not track serial numbers or batch numbers.
 
 Create a new tracking dimension group.
 
-1. Open **Product information management \> Setup \> Dimension and variant
-    groups \> Tracking dimension groups**.
+1. Open **Product information management** \> **Setup** \> **Dimension and variant
+    groups** \> **Tracking dimension groups**.
 
 2. Select **New** to create a new Tracking dimension group.
 
@@ -298,12 +298,12 @@ format for Aisle-Rack-Shelf, Aisle-Shelf, and Bay door
 
 44. Close the forms.
 
-### Create a Dock Management Profile
+### Create a dock management profile
 
 As a warehouse manager in Seahorse Retailers, you have to set up a new dock
 management profile.
 
-1. Open **Warehouse management \> Setup \> Warehouse \> Dock management
+1. Open **Warehouse management** \> **Setup** \> **Warehouse** \> **Dock management
     profiles**.
 
 2. Select **New** to create a dock management profile.
@@ -446,13 +446,7 @@ product that uses the new hierarchy.
 2. Select the left directional button to move the dimensions to the Available
     pane.
 
-<<<<<<< HEAD
-3. Repeat steps a-b for **Owner.**
-=======
-
 3. Repeat steps 1-2 for **Owner.**
-
->>>>>>> e303f0910f91f7334917fd77609bbd33dbe7f8e7
 
 4. Select **OK**.
 
@@ -524,8 +518,8 @@ You will need to do the following:
 
 ### Create disposition codes
 
-1. In USP2, Open **Warehouse management \> Setup \> Mobile device \>
-    Disposition codes**.
+1. In **USP2**, Open **Warehouse management** \> **Setup** \> **Mobile device** \>
+    **Disposition codes**.
 
 2. Select **New** to create a disposition code.
 
@@ -541,14 +535,10 @@ You will need to do the following:
 
 8. Close the forms.
 
-Notes:
-
-- In the Work template code field, you can select a work template code that is
+    > **Note** In the Work template code field, you can select a work template code that is
     associated with a work order type, return order, or purchase order. You
     assign a work template to a disposition code only when you want to override
-    the work template.
-
-- In the Return disposition code field, you can select a return disposition
+    the work template. In the Return disposition code field, you can select a return disposition
     code for a sales return order. After you select a return disposition code,
     the disposition code is only applicable for the sales order return process.
 
@@ -846,7 +836,7 @@ work class that is associated with the menu item determines which work is valid.
 
 ### Add the menu item to a mobile device menu
 
-1. Go to **Warehouse management \> Setup \> Mobile device \> Mobile device
+1. Go to **Warehouse management** \> **Setup** \> **Mobile device** \> **Mobile device
     menu**.
 
 2. Select **Edit**.
@@ -894,50 +884,48 @@ Create a purchase order
 
 2. Select **New** in the action pane.
 
-- Select **Vendor US-112**.
+3. Select **Vendor US-112**.
 
-- On the **General** FastTab, enter storage dimensions of Site **3** and
+4. On the **General** FastTab, enter storage dimensions of Site **3** and
     Warehouse **30**.
 
-- Select **OK**.
+5. Select **OK**.
 
-1. On the **Purchase order lines** FastTab, select **Item number P9500**.
+6. On the **Purchase order lines** FastTab, select **Item number P9500**.
 
-*Note*
+    > **Note** You will get a message that the vendor is not authorized for this product. This
+is a warning only. You may continue after closing the message.
 
-*You will get a message that the vendor is not authorized for this product. This
-is a warning only. You may continue after closing the message.*
+7. Enter a **Quantity** of **1**.
 
-- Enter a **Quantity** of **1**.
+8. Enter a **Unit price** of **2.50**.
 
-- Enter a **Unit price** of **2.50**.
+9. Expand the **Line details** fast tab.
 
-- Expand the **Line details** fast tab.
+10. Select the **Financial dimensions** tab.
 
-- Select the **Financial dimensions** tab.
-
-- In the **Financial dimensions**, the **Product Group** field, select **OJ
+11. In the **Financial dimensions**, the **Product Group** field, select **OJ
     B2B**.
 
-1. Under **Purchase Tab** in Action Pane. In the **Actions** group,
+12. Under **Purchase Tab** in Action Pane. In the **Actions** group,
     select **Confirm** and note your purchase order number.
 
-2. Note your purchase order number.
+    > **Note** Makeyour purchase order number.
 
-3. Close the form.
+13. Close the form.
 
-4. Navigate to **Warehourse Management \> Setup \> Worker.**
+14. Navigate to **Warehourse Management \> Setup \> Worker.**
 
-5. Select on **New.**
+15. Select on **New.**
 
-    1. Select **Ted Howard** under **Worker**
+16. Select **Ted Howard** under **Worker**
 
-    2. Select on **New** User ID under **Users** fast Tab. Enter **toward**
+17. Select on **New** User ID under **Users** fast Tab. Enter **toward**
         under **User ID** and **User name.**
 
-    3. **Default Warehouse – 30**
+18. **Default Warehouse – 30**
 
-    4. **Menu name – Main**
+19. **Menu name – Main**
 
     5. Select on **Save.**
 
