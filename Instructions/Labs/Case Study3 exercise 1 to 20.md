@@ -430,7 +430,7 @@ product that uses the new hierarchy.
 
 ### Create a reservation hierarchy
 
-1. In **USP2**, Open **Warehouse management** \> **Setup** \> **Inventory** \>
+1. In **USP2**, go to **Warehouse management** \> **Setup** \> **Inventory** \>
     **Reservation hierarchy**.
 
 2. Select **New** to create a new reservation hierarchy.

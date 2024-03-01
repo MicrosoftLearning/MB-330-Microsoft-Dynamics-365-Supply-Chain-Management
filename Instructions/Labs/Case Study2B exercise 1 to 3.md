@@ -86,8 +86,7 @@ She is not sure on the steps enter and confirm the sales order.
 
 2. Select **Generate\> Confirm Sale Order**.
 
-3. This will prompt you with a screen where you will check the **Posting** field
-    is set to **Yes** and **Print confirmation** is set to **Yes**. To access the **Posting** and **Print confirmation** select the All under the **Parameters** tab.
+3. On the Confirm sales order screen, access the **Posting** and **Print confirmation** fields by selecting All under the **Parameters** tab. Check that the **Posting** toggle is set to **Yes** and **Print confirmation** toggle is set to **Yes**.
 
 4. Select **OK**.
 
