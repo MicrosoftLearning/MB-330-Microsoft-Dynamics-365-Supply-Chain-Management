@@ -69,5 +69,4 @@ the customer is from the retail accounts group, the price will default to \$20.
 
 17. After successful validation, **post** the journal
 
-18. Close all pages
-
+18. Close all pages.
