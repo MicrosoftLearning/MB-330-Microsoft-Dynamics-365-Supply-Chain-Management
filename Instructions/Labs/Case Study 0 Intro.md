@@ -38,7 +38,7 @@ Supply chain management case studies
   - **You** will be the SCM Functional consultant helping the procurement
         manager and purchasing clerk.
 
-- **Case study 2B:**
+- **Case study 2B and Case study 2C:**
 
   - This case study will cover the sales and marketing modules.
 
@@ -47,7 +47,7 @@ Supply chain management case studies
   - **You** will be the SCM Functional consultant helping the sales manager
         and salesclerk.
 
-- **Case study 3:**
+- **Case study 3A and Case study 3B:**
 
   - This case study will cover the warehouse management and transportation
         management modules.
