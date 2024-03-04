@@ -1,9 +1,9 @@
 ---
 lab:
-    title: 'Case study 3 Warehouse management and transportation management'
+    title: 'Case study 3A Warehouse management'
     module: 'Module 4: Implement warehouse management and transportation management '
 ---
-Case study 3 Warehouse management and transportation management
+Case study 3A Warehouse management
 ===============================================================
 
 Objectives

@@ -1,9 +1,9 @@
 ---
 lab:
-    title: 'Case study 2B Sales and marketing: Customer rebates'
+    title: 'Case study 2C Sales and marketing: Customer rebates'
     module: 'Module 3: Implement and manage supply chain processes '
 ---
-Case study 2B Sales and marketing
+Case study 2C Sales and marketing
 =================================
 
 Objectives
