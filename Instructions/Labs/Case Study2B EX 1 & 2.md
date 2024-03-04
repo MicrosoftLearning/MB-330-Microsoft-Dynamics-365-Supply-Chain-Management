@@ -66,8 +66,7 @@ She is not sure on the steps enter and confirm the sales order.
 
 2. Select **View \> Totals**.
 
-    > **Note** The Totals page displays details about the entire order. This includes the
-    subtotal amount, which is a sum of all line net amounts adjusted for
+    > **Note** The Totals page displays details about the entire order. This includes the subtotal amount, which is a sum of all line net amounts adjusted for
     eventual line discounts, the total invoice amount, which is a subtotal
     amount adjusted for eventual order-level discount, charges, and sales tax,
     the customer credit limit situation, and more. The invoice amount is the
@@ -110,7 +109,50 @@ You will have to do the following:
 - Assign a commission group to a customer and a product
 - Review the registered sales commission.
 
-###
+### Setup customer groups for commission
+
+1. Go to **Sales and marketing** > **Commissions** > **Customer groups for commission**.
+
+2. Select **New**.
+
+3. In the **Group** field, enter **01**.
+
+4. In the **Name** field, type a **NY**.
+
+5. Select **Save**.
+
+6. Close the page.
+
+### Setup commision item groups
+
+1. Go to **Sales and marketing** > **Commissions** > **Item groups**.
+
+2. Select **New**.
+
+3. In the **Group** field, enter **01**.
+
+4. In the **Name** field, type a **New York**.
+
+5. Select **Save**.
+
+6. Close the page.
+
+### Setup commision item groups
+
+1. Go to **Sales and marketing** > **Commissions** > **Sales groups**.
+
+    > [!NOTE]
+    > A Commission sales group specifies the employees in sales representative roles who are eligible to receive a commission when a customer associated with the relevant sales group buys certain items.
+
+2. Select **New**.
+
+3. In the **Group** field, enter **01**.
+
+4. In the **Name** field, type a **New York**.
+
+5. Select **Save**.
+
+6. Close the page.
 
 ### Invoice a sales order that qualifies a salesperson for a commission
 
