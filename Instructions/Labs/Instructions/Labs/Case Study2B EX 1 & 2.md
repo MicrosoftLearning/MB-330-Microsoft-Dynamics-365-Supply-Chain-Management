@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Case study 2B Sales and marketing'
+    title: 'Case study 2B Sales and marketing: Sales orders and sales commissions'
     module: 'Module 3: Implement and manage supply chain processes '
 ---
 Case study 2B Sales and marketing
@@ -13,11 +13,6 @@ Objectives
 
 - *Create a sales order with commission, and then check the registered sales
     commission on the sales order.*
-
-- *Create a customer trade agreement for specific customers, a specific item
-    and for a certain date range.*
-
-- *Generate rebates and process rebate claims for payment.*
 
 Exercise \#1 Enter and confirm sales order
 ------------------------------------------
