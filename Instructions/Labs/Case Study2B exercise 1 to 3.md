@@ -84,13 +84,13 @@ She is not sure on the steps enter and confirm the sales order.
 
 1. On the Action Pane, select **Sell**.
 
-2. Select **Generate\> Confirm Sale Order**.
+2. Select **Generate\> Confirm sale order**.
 
 3. On the Confirm sales order screen, access the **Posting** and **Print confirmation** fields by selecting All under the **Parameters** tab. Check that the **Posting** toggle is set to **Yes** and **Print confirmation** toggle is set to **Yes**.
 
 4. Select **OK**.
 
-5. Select **Yes** to post and print the Sale order confirmation on the screen.
+5. Select **Yes** to post and print the sale order confirmation on the screen.
 
 Exercise \#2 Create and review a sales order for commission
 -----------------------------------------------------------
@@ -110,9 +110,13 @@ commission on the sales order.
 
 You will have to do the following:
 
+- Set up commission groups and commission rates
 - Invoice a sales order that qualifies a salesperson for a commission.
-
+- Assign a commission group to a customer and a product
 - Review the registered sales commission.
+
+###
+
 
 ### Invoice a sales order that qualifies a salesperson for a commission
 
@@ -120,7 +124,7 @@ You will have to do the following:
 
 2. Select **Edit**.
 
-3. In the **To** field select **12/31/2020**
+3. In the **To** field select **12/31/2024**
 
 4. Select **Save.**
 
@@ -158,12 +162,12 @@ You will have to do the following:
 
 16. In the **Item number** field, select the drop-down button to open the lookup.
 
-17. In the list, select **D0001**.
+17. In the list, select **D0001/MidRangeSpeaker**.
 
 18. In the **Quantity** field, enter **2**.
 
-    > **Note** Review the net amount. It represents the sales revenue, which in this
-    example is the basis for commission.
+> [!NOTE]
+> Review the net amount. It represents the sales revenue, which in this example is the basis for commission.
 
 19. Select **Save**.
 
@@ -186,21 +190,23 @@ You will have to do the following:
     **Quantity** Field is set to **ALL** and the **Posting** flag is set to
     **Yes**.
 
-28. Select **OK**.
+28. Select **OK** twice.
 
-29. On the Action Pane, select **Invoice**.
+29. Select **OK**.
 
-30. Under **Generate** field group, select **Invoice**.
+30. On the Action Pane, select **Invoice**.
 
-31. Expand the **Parameters** section.
+31. Under **Generate** field group, select **Invoice**.
 
-32. In the **Quantity** field, select **All**.
+32. Expand the **Parameters** section.
 
-33. Select **Yes** in the **Posting** field.
+33. In the **Quantity** field, select **All**.
 
-34. Select **OK**.
+34. Select **Yes** in the **Posting** field.
 
 35. Select **OK**.
+
+36. Select **OK**.
 
     > **Note** It may take a minute or so to post the transaction. Allow the
     processing to complete.
@@ -215,9 +221,8 @@ You will have to do the following:
 
 4. Review the details in the **Overview** tab.
 
-    > **Note** The **Overview** tab displays lines representing the commission amounts
-    payable to sales representatives who are associated with the invoiced sales
-    order.
+> [!NOTE]
+> The **Overview** tab displays lines representing the commission amounts payable to sales representatives who are associated with the invoiced sales order.
 
 5. Close the page.
 
