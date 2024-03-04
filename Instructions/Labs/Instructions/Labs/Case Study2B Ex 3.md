@@ -6,6 +6,12 @@ lab:
 Case study 2B Sales and marketing
 =================================
 
+Objectives
+----------
+
+- *Create a customer trade agreement for specific customers, a specific item
+    and for a certain date range.*
+
 Exercise \#3 Create a customer trade agreement
 ----------------------------------------------
 
