@@ -167,8 +167,10 @@ You will have to do the following:
 
     > > [!TIP]
     > > Review the net amount. It represents the sales revenue, which in this example is the basis for commission.
+
     > [!NOTE]  
     > Highlights information that users should take into account, even when skimming.
+
     > [!TIP]
     > Optional information to help a user be more successful.
 
