@@ -117,7 +117,6 @@ You will have to do the following:
 
 ###
 
-
 ### Invoice a sales order that qualifies a salesperson for a commission
 
 1. Go to **Sales and marketing \> Commissions \> Commission calculation**
@@ -166,8 +165,8 @@ You will have to do the following:
 
 18. In the **Quantity** field, enter **2**.
 
-> [!NOTE]
-> Review the net amount. It represents the sales revenue, which in this example is the basis for commission.
+    > [!NOTE]
+    > Review the net amount. It represents the sales revenue, which in this example is the basis for commission.
 
 19. Select **Save**.
 
