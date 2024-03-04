@@ -12,7 +12,7 @@ Objectives
 - *Create a customer trade agreement for specific customers, a specific item
     and for a certain date range.*
 
-Exercise \#3 Create a customer trade agreement
+Exercise \#1 Create a customer trade agreement
 ----------------------------------------------
 
 *Objective: Create a customer trade agreement for specific customers, a specific
