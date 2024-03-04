@@ -165,8 +165,12 @@ You will have to do the following:
 
 18. In the **Quantity** field, enter **2**.
 
+    > > [!TIP]
+    > > Review the net amount. It represents the sales revenue, which in this example is the basis for commission.
+    > [!NOTE]  
+    > Highlights information that users should take into account, even when skimming.
     > [!TIP]
-    > Review the net amount. It represents the sales revenue, which in this example is the basis for commission.
+    > Optional information to help a user be more successful.
 
 19. Select **Save**.
 
@@ -220,8 +224,8 @@ You will have to do the following:
 
 4. Review the details in the **Overview** tab.
 
-> [!NOTE]
-> The **Overview** tab displays lines representing the commission amounts payable to sales representatives who are associated with the invoiced sales order.
+    > [!NOTE]
+    > The **Overview** tab displays lines representing the commission amounts payable to sales representatives who are associated with the invoiced sales order.
 
 5. Close the page.
 
