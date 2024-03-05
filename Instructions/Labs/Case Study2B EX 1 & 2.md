@@ -286,6 +286,42 @@ You will have to do the following:
     > **Note** It may take a minute or so to post the transaction. Allow the
     processing to complete.
 
+### Assign a commission group to a customer and a product
+
+1. Go to **Sales and marketing** > **Customers** > **All customers**.
+
+2. In the list, find and select the desired record.
+
+3. Click **Edit**.
+
+4. Expand the **Sales order defaults** section.
+
+5. In the **Commission group** field, click the drop-down button to open the lookup.
+
+6. In the list, select the group that you created earlier.
+
+7. In the **Sales group** field, click the drop-down button to open the lookup.
+
+8. In the list, find and select the desired record.
+
+9. Click **Save**.
+
+10. Go to **Product information management > Products > Released products**.
+
+11. Use the Filter to find records. For example, filter on the Item number field with a value of **D0001**.
+
+12. In the list, click the link in the selected row.
+
+13. Click **Edit**.
+
+14. Expand the **Sell** section.
+
+15. In the **Commission group** field, click the drop-down button to open the lookup.
+
+16. In the list, select the commission group that you created earlier.
+
+17. Select **Save**.
+
 ### Review the registered sales commissions
 
 1. On the Action Pane, select **Invoice**.
