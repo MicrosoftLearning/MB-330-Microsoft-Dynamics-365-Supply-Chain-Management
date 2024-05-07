@@ -12,7 +12,7 @@ Objectives
 - Implement transportation management
 
 
-Exercise \#15 Configure carriers
+Exercise \#1 Configure carriers
 --------------------------------
 
 *Objective: Set up a new carrier and add a carrier service.*
@@ -91,7 +91,7 @@ carriers**.  
 
 9. Close the form.
 
-Exercise \#16 Configure rate masters
+Exercise \#2 Configure rate masters
 ------------------------------------
 
 *Objective: Configure a rate master and base.*
@@ -223,7 +223,7 @@ For this example, use **weight.**
 
 10. Select **Save**.
 
-Exercise \#17 Setup route plans and route guides (Bonus)
+Exercise \#3 Setup route plans and route guides (Bonus)
 --------------------------------------------------------
 
 *Objective: Configure a route pan, hub, and route guide.*
@@ -392,7 +392,7 @@ service Truck.  
 
 18. Select **Save**.
 
-Exercise \#18 Process inbound shipments (Bonus)
+Exercise \#4 Process inbound shipments (Bonus)
 -----------------------------------------------
 
 *Objective: Configure a route and manage inbound shipments.*
@@ -654,7 +654,7 @@ You now need to confirm the inbound load.
 
 5. Close the form.
 
-Exercise \#19 Process outbound shipments
+Exercise \#5 Process outbound shipments
 ----------------------------------------
 
 *Objective: Manage an outbound shipment and a consolidated shipment*
@@ -896,7 +896,7 @@ tab.
 
 2. Select **Outbound load** in the **Ship and receive** drop-down menu.
 
-Exercise \#20 Configure freight reconciliation (Bonus)
+Exercise \#6 Configure freight reconciliation (Bonus)
 ------------------------------------------------------
 
 *Objective: Configure and manage freight reconciliation.*
