@@ -11,7 +11,6 @@ Objectives
 
 - Implement transportation management
 
-
 Exercise \#1 Configure carriers
 --------------------------------
 
