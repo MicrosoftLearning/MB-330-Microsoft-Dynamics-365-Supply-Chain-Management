@@ -66,13 +66,14 @@ You will have to do the following:
 
       - The **Rebate line break type** field shows the method for calculating
         rebates. In this case, the sales target against which the rebates are to
-        be estimated is set to Quantity.
+        be estimated is set to **Quantity**.
 
       - The agreement's lines specify the rebate amount type, the actual rebate
         value, and the thresholds. In this example, the customer will qualify
         for a rebate of 20 USD per unit sold, if their weekly purchases of the
         product fall within 1 to 50 units; and a rebate of 40 USD per unit sold,
         if they purchase above 50 units.
+5. Select **Validation** from the Action pane and select **OK**.
 
 ### Generate rebate claims
 
