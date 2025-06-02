@@ -30,11 +30,11 @@ In order to record this sales price in the system she will use the trade
 agreement journal, so that whenever a sales order is created for item A0001 and
 the customer is from the retail accounts group, the price will default to \$20.
 
-**What would you do to guide her thru this entry?**
+**What would you do to guide her through this entry?**
 
-### Create a trade agreement named “Sales price adjustment
+### Create a trade agreement named Sales price adjustment
 
-1. Go to **Sales and marketing**, then to **Prices and discounts**, and then to
+1. Go to **Sales and marketing** \> **Prices and discounts** \>
     **Trade agreement journals**.
 
 2. Select **New**.
@@ -53,15 +53,15 @@ the customer is from the retail accounts group, the price will default to \$20.
 
 9. Item Relation: Select **A0001, HDMI 6' Cables**.
 
-10. From: Enter **1**.
+10. From: Enter `1`.
 
-11. Amount in currency: Enter **20.00**.
+11. Amount in currency: Enter `20.00`.
 
 12. Change to the **Details** tab.
 
 13. From date: Select **February 15, 2017**.  
 
-14. Lead time: Enter **2**.
+14. Lead time: Enter `2`.
 
 15. Select **Validate** \> **Validate all lines**.
 

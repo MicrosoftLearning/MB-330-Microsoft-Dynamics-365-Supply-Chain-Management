@@ -60,7 +60,7 @@ She is not sure on the steps enter and confirm the sales order.
 
 13. In the list, find and select **Black**
 
-14. In the **Quantity** field, enter **1**.
+14. In the **Quantity** field, enter `1`.
 
 ### Review the order totals
 
@@ -82,7 +82,7 @@ She is not sure on the steps enter and confirm the sales order.
 
 2. Select **Generate\> Confirm sale order**.
 
-3. On the Confirm sales order screen, access the **Posting** and **Print confirmation** fields by selecting All under the **Parameters** tab. Check that the **Posting** toggle is set to **Yes** and **Print confirmation** toggle is set to **Yes**.
+3. On the Confirm sales order screen, access the **Posting** and **Print confirmation** fields by selecting **All** under the **Parameters** tab. Check that the **Posting** toggle is set to **Yes** and **Print confirmation** toggle is set to **Yes**.
 
 4. Select **OK**.
 
@@ -265,7 +265,7 @@ You will have to do the following:
     **Quantity** Field is set to **ALL** and the **Posting** flag is set to
     **Yes**.
 
-26. Select **OK** twice.
+26. Select **OK**.
 
 27. Select **OK**.
 

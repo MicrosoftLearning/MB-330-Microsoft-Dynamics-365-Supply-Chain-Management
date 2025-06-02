@@ -40,7 +40,7 @@ You will have to do the following:
 
 1. In **USMF** navigate to the **Accounts Receivable** \> **Setup** \> **Accounts
     receivable parameters** page, select the **Prices** tab and expand the
-    **Price details** tab, and check that the **Enable price** details option is
+    **Price details** tab, and check that the **Enable price details** option is
     set to **Yes**.
 
 2. Navigate to the **Sales and marketing** \> **Customer rebates** \> **Rebate agreements**
@@ -71,7 +71,7 @@ You will have to do the following:
       - The agreement's lines specify the rebate amount type, the actual rebate
         value, and the thresholds. In this example, the customer will qualify
         for a rebate of 20 USD per unit sold, if their weekly purchases of the
-        product fall within 1 to 50 units; and a rebate of 40 USD per unit sold,
+        product fall within 1 to 50 units and a rebate of 40 USD per unit sold,
         if they purchase above 50 units.
 5. Select **Validation** from the Action pane and select **OK**.
 
@@ -93,7 +93,7 @@ You will have to do the following:
 
 8. Select **Price details**.
 
-9. Expand the **Rebates** section. The Rebates tab lists all the rebate
+9. Expand the **Rebates** FastTab. The Rebates tab lists all the rebate
     agreements that are applicable to the current order line and shows the
     estimated rebate amount. Note that the displayed amounts are only
     indications of what future rebate claims may be. The actual rebate amounts
@@ -138,7 +138,7 @@ respective period.  
 
 1. Navigate to **Sales and marketing \> Customer rebates \> Rebates**.
 
-2. Select **Cumulate**.
+2. On Action pane, select **Cumulate**.
 
 3. In the **Customer** field, enter or select **US**-**009**.
 
