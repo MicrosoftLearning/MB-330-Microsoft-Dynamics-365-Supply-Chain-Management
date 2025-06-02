@@ -57,18 +57,17 @@ help her to use?**
 
 ### Create and process a purchase requisition
 
-1. Go to **Procurement and sourcing**, then to **Purchase requisitions**, and
-    then to **All purchase requisitions**.
+1. Go to **Procurement and sourcing** \> **Purchase requisitions** \> **All purchase requisitions**.
 
 2. Select **New**.
 
-3. Name: Enter **New HDMI Cables**.
+3. Name: Enter `New HDMI Cables`.
 
 4. Select **OK**.
 
 5. Reason: Select **General** (General supplies).
 
-6. Details: Enter **New, longer HDMI cables**.
+6. Details: Enter `New, longer HDMI cables`.
 
 ### Add an item to the purchase requisition
 
@@ -79,7 +78,7 @@ help her to use?**
 
 3. Under **Select From Filtered List**, select the ellipsis and select **Add unlisted product to lines**.
 
-4. Product name: Enter **24in HDMI Cable**.
+4. Product name: Enter `24in HDMI Cable`.
 
 5. Unit: Enter **ea**.
 
@@ -87,11 +86,11 @@ help her to use?**
 
 7. Change to the **Line details** tab.
 
-8. Product name: enter **24-inch HDMI cable**.
+8. Product name: enter `24-inch HDMI cable`.
 
-9. Quantity: Enter **5**.
+9. Quantity: Enter `5`.
 
-10. Unit price: Enter **41.49**.
+10. Unit price: Enter `41.49`.
 
 11. Vendor Account: Select **1001** (Acme Office Supplies).
 
@@ -107,7 +106,7 @@ help her to use?**
 
 3. Select **Workflow** at the top, and then select **Submit**.
 
-4. Comment: Enter **Request for longer HDMI cables.**
+4. Comment: Enter `Request for longer HDMI cables`.
 
 5. Select **Submit**.
 
@@ -115,7 +114,7 @@ help her to use?**
 
 7. Select **Refresh a** few times and wait until the work items shows records.
 
-8. Select **Reassign** button.
+8. Select **Reassign** button from **Work items** FastTab.
 
 9. Select **Admin** in the **User field.**
 
@@ -129,7 +128,7 @@ help her to use?**
 
 1. Select **Workflow** at the top, and then select **Approve**.
 
-2. Comment: Enter **Approved.**
+2. Comment: Enter `Approved.`
 
 3. Select **Approve**
 
@@ -155,6 +154,8 @@ You will have to do the following:
 
 - Reply to a request for quotation.
 
+- Process the quotation for US-103. Enter the vendors' replies to the request for quotation.
+
 - Accept a vendor’s reply.
 
 ### Create the request for quotation and send to the appropriate suppliers
@@ -166,7 +167,7 @@ You will have to do the following:
 
 3. Purchase type: Select **Purchase order**.
 
-4. Document title: Enter **HDMI Cables**.
+4. Document title: Enter `HDMI Cables`.
 
 5. Site: Select **1** (Home speakers production).
 
@@ -182,7 +183,7 @@ You will have to do the following:
 
 3. Item number: Select **A0001** (HDMI 6’ Cables).
 
-4. Quantity: Enter **500**.
+4. Quantity: Enter `500`.
 
 5. Select **Save**.
 
@@ -232,11 +233,11 @@ vendor responses.
 
 6. Select **Manage reply**. Select the **Edit** at the top, from the drop-down menu select **Edit RFQ reply**  
 
-7. Quantity: Enter **500**.
+7. Quantity: Enter `500`.
 
 8. Unit: Enter **ea**.
 
-9. Unit price: Enter **10.00**.
+9. Unit price: Enter `10.00`.
 
 10. Select **Save**.
 
@@ -248,11 +249,11 @@ vendor responses.
 
 14. Navigate back to **Vendor** FastTab. Select the **Request for quotation** number for **US-103** (Rain Projectors). Select **Manage reply**. Select the **Edit** at the top, from the drop-down menu select **Edit RFQ reply**
 
-15. Quantity: Enter **500**.
+15. Quantity: Enter `500`.
 
 16. Unit: Enter **ea**.
 
-17. Unit price: Enter **8.00**.
+17. Unit price: Enter `8.00`.
 
 18. Select **Save**.
 
@@ -312,8 +313,7 @@ He reached out for help and you will have to do the following:
 
 ### Create a purchasing policy
 
-1. Go to the **Procurement and sourcing** module, then to **Setup**, then to
-    **Policies**, and then to **Purchasing policies**.
+1. Go to **Procurement and sourcing** \> **Setup** \> **Policies** \> **Purchasing policies**.
 
 2. Select **Procurement Policy USMF**.
 
@@ -321,9 +321,9 @@ He reached out for help and you will have to do the following:
 
 4. In the **New** tab on the Action Pane, select **Policy**.
 
-5. Name: Enter **Office Supplies**.
+5. Name: Enter `Office Supplies`.
 
-6. Description: Enter **Office supplies policies**.
+6. Description: Enter `Office supplies policies`.
 
 7. Policy rule type: Select **Category access policy rule(3)**.
 
@@ -369,15 +369,15 @@ He is not clear how to perform this using the system and asking your help
 
     1. Item number: Select **T0003** (SurroundSoundReceive).
 
-    2. Quantity: Enter **5**.
+    2. Quantity: Enter `5`.
 
     3. Unit: Enter **ea**.
 
     4. Select **Add line**.
 
-    5. Item number: Select **M1101** (Foam reacting agent).
+    5. Item number: Select **M1101** (Foam reacting Agent).
 
-    6. Quantity: Enter **5**.
+    6. Quantity: Enter `5`.
 
     7. Unit: Enter **PL**.
 
@@ -400,11 +400,11 @@ He is not clear how to perform this using the system and asking your help
     7. Select the **Add address** button (**+**) to the right of the Delivery
         address field.
 
-    8. Name or description: Enter **Quality Testing Center**.
+    8. Name or description: Enter `Quality Testing Center`.
 
-    9. Zip/postal code: Enter **83642**.
+    9. Zip/postal code: Enter `83642`.
 
-    10. Street: Enter **123 W. Cherry Street**.
+    10. Street: Enter `123 W. Cherry Street`.
 
     11. Select **OK**.
 
@@ -421,7 +421,7 @@ He is not clear how to perform this using the system and asking your help
 13. Select **Registered quantity** in the **Quantity** field.
 
 14. In the **Product receipt** field, enter the product receipt number. For
-    example, enter **PR123**.
+    example, enter `PR123`.
 
 15. Select **OK** to post the product receipt.
 
@@ -456,9 +456,9 @@ specifications:
 
 2. Select **New**.
 
-3. Charges code: Enter **TRANSTO**.
+3. Charges code: Enter `TRANSTO`.
 
-4. Description: Enter **Transportation Fee to our sites**.
+4. Description: Enter `Transportation Fee to our sites`.
 
 5. Change to the Debit section.
 
@@ -501,9 +501,9 @@ You will have to do the following:
 
 2. Select **New**.
 
-3. Charges group: Enter **06**.
+3. Charges group: Enter `06`.
 
-4. Description: Enter **Freight 15%**.
+4. Description: Enter `Freight 15%`.
 
 5. Select **Save**.
 
@@ -564,9 +564,9 @@ You will have to do the following:
 
 2. Select **New**.
 
-3. Charges group: Enter **123**.
+3. Charges group: Enter `123`.
 
-4. Description: Enter **15% Freight Charge**.
+4. Description: Enter `15% Freight Charge`.
 
 5. Select **Save**.
 
@@ -594,7 +594,7 @@ You will have to do the following:
 
 11. Category: Select **Percent**.
 
-12. Charges value: Enter **15.00**.
+12. Charges value: Enter `15.00`.
 
 13. Select **Save**.
 
@@ -629,7 +629,7 @@ You will have to do the following:
 
 ### Configure change management for a vendor
 
-1. Go to **Procurement and sourcing**, then to **Vendors**, and then to **All
+1. Go to **Procurement and sourcing** \> **Vendors** \> **All
     vendors**.
 
 2. Open the vendor record for vendor **1001** (Acme Office Supplies).
@@ -653,7 +653,7 @@ Exercise \#9 Create trade agreements for vendors
 price for a certain item.*
 
 The company managed to standardize the purchase price for item A0001 with all
-domestic vendors to be \$8.26. You needto help the purchase manager to record
+domestic vendors to be \$8.26. You need to help the purchase manager to record
 this purchase price using a trade agreement journal, so that whenever a purchase
 order is created for item A0001 and the vendor is from the domestic vendors, the
 price will default to \$8.26.
@@ -684,9 +684,9 @@ price will default to \$8.26.
 
 12. From: Enter **1**.
 
-13. Amount in currency: Enter **8.26**.
+13. Amount in currency: Enter `8.26`.
 
-14. Change to the **Details** tab.
+14. Change to the **Details** FastTab.
 
 15. From date: Select **February 15, 2017**.  
 
@@ -730,7 +730,7 @@ What would you do?**
 
 5. Open the **General** FastTab.
 
-6. Document title: Enter **General Purchase**.
+6. Document title: Enter `General Purchase`.
 
 7. Default commitment: Select **Product quantity commitment**.
 
@@ -747,9 +747,9 @@ What would you do?**
 
 4. Warehouse: Select **13** (Finished Goods).
 
-5. Quantity: Enter **100**.
+5. Quantity: Enter `100`.
 
-6. Unit price: Enter **145.50**.
+6. Unit price: Enter `145.50`.
 
 7. Expiration date: Select the end of the next month.
 

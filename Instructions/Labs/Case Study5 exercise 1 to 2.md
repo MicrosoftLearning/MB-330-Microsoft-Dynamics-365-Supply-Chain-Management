@@ -128,7 +128,7 @@ Would you assist the planning manager in doing the following?
 
 3. Select **New** on the Action pane.
 
-4. Enter **Intercompa** in the **Name** field and **Intercompany Extended Group** in the description.
+4. Enter `Intercompa` in the **Name** field and `Intercompany Extended Group` in the description.
 
 5. Select **Save**.
 
@@ -136,7 +136,7 @@ Would you assist the planning manager in doing the following?
 
 7. Select **DEMF** in the **Legal entity** field.
 
-8. Enter **0** in the **Scheduling sequence** field.
+8. Enter `0` in the **Scheduling sequence** field.
 
 9. Select **20** for the **Master plan** field.
 
@@ -153,7 +153,7 @@ Would you assist the planning manager in doing the following?
 
 3. Select **Audio** from **Item Group** drop-down menu and select **Next**.
 
-4. Type **Audio Group** in **Name** box.
+4. Enter `Audio Group` in **Name** box.
 
 5. Select **Next**.
 

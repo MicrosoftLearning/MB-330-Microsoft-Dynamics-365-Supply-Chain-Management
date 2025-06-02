@@ -66,11 +66,11 @@ to help them creating the new warehouse.
 
 4. Select the **Locations** tab.
 
-5. In the **Standard width** field, enter **450**.
+5. In the **Standard width** field, enter `450`.
 
-6. In the **Standard depth** field, enter **250**.
+6. In the **Standard depth** field, enter `250`.
 
-7. In the **Standard height** field, enter **200**.
+7. In the **Standard height** field, enter `200`.
 
 8. Select **Save**.
 
@@ -82,9 +82,9 @@ to help them creating the new warehouse.
 
 2. Select **New**.
 
-3. In the **Warehouse** field, enter **17**.
+3. In the **Warehouse** field, enter `17`.
 
-4. In the **Name** field, enter **Raw materials**.
+4. In the **Name** field, enter `Raw materials`.
 
 5. In the **Site** field, select the drop-down button to open the lookup.
 
@@ -161,9 +161,9 @@ items must be grouped based on FIFO inventory model.
 
 3. In the **Costing type** field, select **Standard cost**.
 
-4. In the **Version** field, enter **SeahorseST**.
+4. In the **Version** field, enter `SeahorseST`.
 
-5. In the **Name** field, enter **Seahorse Standard Costing**.
+5. In the **Name** field, enter `Seahorse Standard Costing`.
 
 6. In the **Block activation** field, select **No**.
 
@@ -178,9 +178,9 @@ items must be grouped based on FIFO inventory model.
 
 2. Select **New**.
 
-3. In the **Item model group** field, enter **STDN**.
+3. In the **Item model group** field, enter `STDN`.
 
-4. In the **Name** field, enter **Standard Cost**.
+4. In the **Name** field, enter `Standard Cost`.
 
 5. In the **Inventory model** field, select **Standard cost**.
 
@@ -190,9 +190,9 @@ items must be grouped based on FIFO inventory model.
 
 8. Select **New**.
 
-9. In the **Item model group** field, enter **FIFO2**.
+9. In the **Item model group** field, enter `FIFO2`.
 
-10. In the **Name** field, enter **FIFO 2**.
+10. In the **Name** field, enter `FIFO 2`.
 
 11. Select **Save**.
 
@@ -205,15 +205,15 @@ items must be grouped based on FIFO inventory model.
 
 2. Select **New**.
 
-3. In the **Number group** field, enter **ASer**.
+3. In the **Number group** field, enter `ASer`.
 
-4. In the **Name** field, enter **Auto-Serial**.
+4. In the **Name** field, enter `Auto-Serial`.
 
 5. Turn off the **Date** toggle to **No**.
 
 6. Turn off the **Lot ID** toggle to **No**.
 
-7. Turn on the**Number sequence No.** toggle to **Yes**.
+7. Turn on the **Number sequence No.** toggle to **Yes**.
 
 8. Turn on the **Only for inventory transactions** toggle to **Yes**.
 
@@ -221,9 +221,9 @@ items must be grouped based on FIFO inventory model.
 
 10. Select **New**.
 
-11. In the **Number group** field, enter **USer**.
+11. In the **Number group** field, enter `USer`.
 
-12. In the **Name** field, enter **Unique-Serial**.
+12. In the **Name** field, enter `Unique-Serial`.
 
 13. Turn off the **Date** toggle to **No**.
 
@@ -242,9 +242,9 @@ items must be grouped based on FIFO inventory model.
 
 20. Select **New**.
 
-21. In the **Number group** field, enter **Batch**.
+21. In the **Number group** field, enter `Batch`.
 
-22. In the **Name** field, enter **Auto Batch**.
+22. In the **Name** field, enter `Auto Batch`.
 
 23. Turn off the **Date** toggle to **No**.
 
@@ -287,11 +287,11 @@ As supply chain manager, you will have to create 2 new products:
 
 4. In the **Product subtype** field, select **Product master**.
 
-5. In the **Product number** field, enter **GTLS001**.
+5. In the **Product number** field, enter `GTLS001`.
 
-6. In the **Product name** field, enter **V Neck T-Shirt**.
+6. In the **Product name** field, enter `V Neck T-Shirt`.
 
-7. In the **Search name** field, enter **VNeckTShirt**.
+7. In the **Search name** field, enter `VNeckTShirt`.
 
 8. In the **Retail category** field, select **Apparel and Footwear** and select **OK**.
 
@@ -301,7 +301,7 @@ As supply chain manager, you will have to create 2 new products:
 
 11. In the **Item model group** field, select **FIFO** (First In-First Out).
 
-12. In the Item group field, select **Audio**.
+12. In the **Item group** field, select **Audio**.
 
 13. In the **Storage dimension group** field, select **SiteWH**.
 
@@ -337,45 +337,45 @@ As supply chain manager, you will have to create 2 new products:
 
 28. Select **New** in the **Define sizes for a product master** section.
 
-29. In the **Size** field, enter **Small**.
+29. In the **Size** field, select **Small**.
 
-30. In the **Name** field, enter **Small**.
+30. In the **Name** field, enter `Small`.
 
-31. In the **Description** field, enter **Small Size**.
+31. In the **Description** field, enter `Small Size`.
 
 32. Select **New**.
 
-33. In the **Size** field, enter **Medium**.
+33. In the **Size** field, select **Medium**.
 
-34. In the **Name** field, enter **Medium**.
+34. In the **Name** field, enter `Medium`.
 
-35. In the **Description** field, enter **Medium Size**.
+35. In the **Description** field, enter `Medium Size`.
 
 36. Select **New**.
 
-37. In the **Size** field, enter **Large**.
+37. In the **Size** field, select **Large**.
 
-38. In the **Name** field, enter **Large**.
+38. In the **Name** field, enter `Large`.
 
-39. In the **Description** field, enter **Large Size**.
+39. In the **Description** field, enter `Large Size`.
 
 40. Select the **Colors** tab.
 
-41. Select **New** in the **Define sizes for a product master** section.
+41. Select **New** in the **Define colors for a product master** section.
 
-42. In the **Color** field, enter **Black**.
+42. In the **Color** field, select **Black**.
 
-43. In the **Name** field, enter **Black**.
+43. In the **Name** field, enter `Black`.
 
-44. In the **Description** field, enter **Black color**.
+44. In the **Description** field, enter `Black color`.
 
 45. Select **New**.
 
-46. In the **Color** field, enter **Red**.
+46. In the **Color** field, select **Red**.
 
-47. In the **Name** field, enter **Red**.
+47. In the **Name** field, enter `Red`.
 
-48. In the **Description** field, enter **Red color**.
+48. In the **Description** field, enter `Red color`.
 
 49. Select **Save**.
 
@@ -389,7 +389,7 @@ As supply chain manager, you will have to create 2 new products:
 
 54. Select **Create**.
 
-Close all pages.
+55. Close all pages.
 
 Exercise \#4 Using the inventory movement journal to initialize stock levels in a warehouse
 -------------------------------------------------------------------------------------------
@@ -425,7 +425,7 @@ data entities.
     templates for the different business purposes.
 
 5. In the **Offset account** field, specify the values **140200**. 
-    > **Note**This is the offset account that will be the default account on the journal lines. It is
+    > **Note** This is the offset account that will be the default account on the journal lines. It is
     possible to override the default to assign different offset accounts per line.
 
 6. Select **OK**.
@@ -669,13 +669,13 @@ You will:
 
 2. Select **New**.
 
-3. In the **Name** field, enter **High Quality Speaker**.
+3. In the **Name** field, enter `High Quality Speaker`.
 
 4. In the **Site** field, enter **1**.
 
 5. In the **Item group** field, enter or select **Audio**.
 
-6. On the **Maintain** tab, select **Designer**.
+6. On the **Maintain** tab from top, select **Designer**.
 
 7. Select **BOM lines**.
 

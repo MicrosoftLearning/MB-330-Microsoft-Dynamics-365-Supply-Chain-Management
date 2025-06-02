@@ -9,23 +9,20 @@ Case study 4 Quality control and quality management
 Objectives
 ----------
 
-1. *Enable quality management; create tests, item sampling, definitions and
-    process of the quality management process.*
+1. *Enable quality management, create tests, item sampling, definitions and process of the quality management process.*
 
 2. *Create a manual quality order with a specification.*
 
 3. *Work with non-conformance issues like faulty items by defining several required specifications.*
 
-4. *Create and process a non-conformance order to have an item repaired and to
-    adjust a faulty machine.*
+4. *Create and process a non-conformance order to have an item repaired and to adjust a faulty machine.*
 
-5. *Run a non-conformance report, a non-conformance tag report, and a
-    corrections report*
+5. *Run a non-conformance report, a non-conformance tag report, and a corrections report*
 
 Exercise \#1 Enable quality management process that specifies items to be inspected at the time of picking
 ----------------------------------------------------------------------------------------------------------
 
-*Objective: Enable quality management; create tests, item sampling, definitions
+*Objective: Enable quality management, create tests, item sampling, definitions
 and process of the quality management process.*
 
 The quality manager in USMF wants to know how to enable a quality management
@@ -58,8 +55,7 @@ process the quality order.
 
 ### Enable quality management
 
-1. Go to **Inventory management** \> **Setup** \> **Inventory and warehouse
-    management parameters**.
+1. Go to **Inventory management** \> **Setup** \> **Inventory and warehouse management parameters**.
 
 2. Select the **Quality management** tab.
 
@@ -79,9 +75,9 @@ process the quality order.
 
 2. Select **New**.
 
-3. In the **Test** field, type **eBookTest**.
+3. In the **Test** field, enter `eBookTest`.
 
-4. In the **Description** field, type **Test eBook**.
+4. In the **Description** field, enter `Test eBook`.
 
 5. In the **Type** field, select **Option** to assign the test results based on
     pre-defined values.
@@ -92,14 +88,13 @@ process the quality order.
 
 ### Create Test variables to define the way test results are recorded
 
-1. Go to **Inventory management** \> **Setup** \> **Quality control** \> **Test
-    variables**.
+1. Go to **Inventory management** \> **Setup** \> **Quality control** \> **Test variables**.
 
 2. Select **New**.
 
-3. In the **Variable** field, type **Power**.
+3. In the **Variable** field, enter `Power`.
 
-4. In the **Description** field, type **Power up**.
+4. In the **Description** field, enter `Power up`.
 
 5. Select **Save**.
 
@@ -107,9 +102,9 @@ process the quality order.
 
 7. Select **New**.
 
-8. In the **Outcome** field, type **ON**.
+8. In the **Outcome** field, enter **ON**.
 
-9. In the **Description** field, type **Device starts normally**.
+9. In the **Description** field, enter `Device starts normally`.
 
 10. In the **Outcome** status field, select **Pass**.
 
@@ -117,9 +112,9 @@ process the quality order.
 
 12. Select **New**.
 
-13. In the **Outcome** field, type **OFF**.
+13. In the **Outcome** field, enter `OFF`.
 
-14. In the **Description** field, type **Device does not power up**.
+14. In the **Description** field, enter `Device does not power up`.
 
 15. In the **Outcome** status field, select **Fail**.
 
@@ -129,18 +124,17 @@ process the quality order.
 
 ### Set up item sampling
 
-1. Go to **Inventory management** \> **Setup** \> **Quality control** \> **Item
-    sampling**.
+1. Go to **Inventory management** \> **Setup** \> **Quality control** \> **Item sampling**.
 
 2. Select **New**.
 
-3. In the **Item sampling** field, type **One**.
+3. In the **Item sampling** field, enter `One`.
 
-4. In the **Description** field, type **One sample**.
+4. In the **Description** field, enter `One sample`.
 
 5. In the **Quantity specification** field select **Fixed quantity**.
 
-6. In the **Value** field, enter **1**.
+6. In the **Value** field, enter `1`.
      >**Note** This value relates to the Quantity specification that’s selected in the adjacent field.
 
 7. Expand or collapse the **Process** section.
@@ -159,9 +153,9 @@ process the quality order.
 
 2. Select **New**.
 
-3. In the **Quality group** field, type **eBookQG**.
+3. In the **Quality group** field, enter `eBookQG`.
 
-4. In the **Description** field, type **Quality group for TVs**.
+4. In the **Description** field, enter `Quality group for TVs`.
 
 5. Select **Save**.
 
@@ -169,7 +163,7 @@ process the quality order.
 
 7. Select the row for **Items** in the **Tables** column.
 
-8. In the **Criteria** field, type **T\*** to filter on the item numbers that
+8. In the **Criteria** field, type **T** to filter on the item numbers that
     start with T.
 
 9. Select **OK**.
@@ -180,20 +174,19 @@ process the quality order.
 
 ### Create a test group
 
-1. Go to **Inventory management** \> **Setup** \> **Quality control** \> **Test
-    groups**.
+1. Go to **Inventory management** \> **Setup** \> **Quality control** \> **Test groups**.
 
 2. Select **New**.
 
-3. In the **Test group** field, type **eBookTG**.
+3. In the **Test group** field, enter `eBookTG`.
 
-4. In the **Description** field, type **Test group for TVs**.
+4. In the **Description** field, enter `Test group for TVs`.
 
 5. In the **Item sampling** field, select **One**.
 
 6. Under the **Overview** tab, select **Add**.
 
-7. In the **Sequence number** field, enter **1**.
+7. In the **Sequence number** field, enter `1`.
 
 8. In the **Test** field, select **eBookTest**.
 
@@ -361,7 +354,7 @@ You will need to do the following:
 
 11. Select the line for **Item number A0002**, and then select **Results**.
 
-12. In the **Result quantity** field, type **1.00**.
+12. In the **Result quantity** field, enter **1.00**.
 
 13. Select **Validate** and close the form.
 
@@ -391,7 +384,7 @@ Add a quarantine zone.
 
 2. Select **New**.
 
-3. Enter **Temperature** in both **Problem type** and **Description** fields.
+3. Enter `Temperature` in both **Problem type** and **Description** fields.
 
 4. Select **Save**.
 
@@ -402,7 +395,7 @@ Add a quarantine zone.
 
 2. Select **New**.
 
-3. Enter **Machine temperature** in both **Diagnostic** and **Description**
+3. Enter `Machine temperature` in both **Diagnostic** and **Description**
     fields.
 
 4. Select **Save**.
@@ -411,7 +404,7 @@ Add a quarantine zone.
 
 6. Select **New**.
 
-7. Enter **Adjustment temp** in both **Operation** and **Description** fields.
+7. Enter `Adjustment temp` in both **Operation** and **Description** fields.
 
 8. Select **Purchase order** in the **type** field.
 
@@ -422,7 +415,7 @@ Add a quarantine zone.
 
 11. Select **New**.
 
-12. Enter **Repair** in both **Problem type** and **Description** fields.
+12. Enter `Repair` in both **Problem type** and **Description** fields.
 
 13. Select **Save**.
 
@@ -433,7 +426,7 @@ Add a quarantine zone.
 
 2. Select **New**.
 
-3. Enter **Repair** in both **Quarantine zone** and **Description** fields.
+3. Enter `Repair` in both **Quarantine zone** and **Description** fields.
 
 4. Select **Save**.
 
@@ -460,17 +453,17 @@ You will need to do the following:
 
 2. Select **New**.
 
-3. Select **Internal** in **Non conformance** field.
+3. Select **Internal** in **Non conformance type** field.
 
-4. Enter **1000** in the **Item number** field.
+4. Enter or select `1000` in the **Item number** field.
 
-5. Enter **Enclosure** as the problem type.
+5. Enter or select **Enclosure** as the problem type.
 
-6. Enter **5.00** in the **Defective quantity** field.
+6. Enter `5.00` in the **Defective quantity** field.
 
-7. Enter **1** in the **Site** field.
+7. Enter or select **1** in the **Site** field.
 
-8. Enter **13** in the **Warehouse** field.
+8. Enteror select **13** in the **Warehouse** field.
 
 9. Select **OK.**
 
@@ -485,7 +478,7 @@ You will need to do the following:
 
 14. Select **Enclosure** in the **Operation** field.
 
-15. Enter **Damaged** in the **Reason** field.
+15. Enter `Damaged` in the **Reason** field.
 
 16. Select **Save**.
 
@@ -495,7 +488,7 @@ You will need to do the following:
 
 19. Select **A0001** as the item number.
 
-20. Enter **1.00** in the **Quantity** field.
+20. Enter `1.00` in the **Quantity** field.
 
 21. Select **Save** and close form.
 
@@ -505,9 +498,9 @@ You will need to do the following:
 
 24. Select **Rework** in the **Charges code** field.
 
-25. Enter **Rework** in the **Description** field.
+25. Enter `Rework` in the **Description** field.
 
-26. Enter **100.00** in the **Charges value** field.
+26. Enter `100.00` in the **Charges value** field.
 
 27. Select **Save** and exit form.
 
@@ -515,7 +508,7 @@ You will need to do the following:
 
 29. Select **New.**
 
-30. Enter **5.0** in the **Operation hours** field.
+30. Enter `5.0` in the **Operation hours** field.
 
 31. Select **Save** and exit form.
 

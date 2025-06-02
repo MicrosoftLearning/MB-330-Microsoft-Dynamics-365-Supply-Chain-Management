@@ -34,9 +34,9 @@ carriers**.  
 
 2. In the action pane, select **New** to create a new shipping carrier.  
 
-3. In the **Shipping carrier** field, enter **Ocean Carrier 2**.
+3. In the **Shipping carrier** field, enter `Ocean Carrier 2`.
 
-4. In the **Name** field, enter **Secondary ocean carrier**.
+4. In the **Name** field, enter `Secondary ocean carrier`.
 
 5. In the **Mode** field, select **Ocean**.  
 
@@ -46,22 +46,22 @@ carriers**.  
 
 8. Select vendor account **1002** from the **Vendor** drop-down menu.  
 
-9. In the **SCAC** field, enter **2005.**
+9. In the **SCAC** field, enter `2005`.
 
 10. Set the **Activate carrier rating** slider to **Yes.**
 
 11. On the **Addresses** FastTab, select **New**.
 
-12. In the **New address** form, enter **Ocean carrier location** in the **Name**
+12. In the **New address** form, enter `Ocean carrier location` in the **Name**
     field.
 
 13. Select **Business** from the **Purpose** drop-down list.
 
-14. Select USA in the Country/region drop-down list.
+14. Select **USA** in the **Country/region** drop-down list.
 
-15. In the **ZIP/postal code** field, enter **11251**.
+15. In the **ZIP/postal code** field, enter `11251`.
 
-16. In the **Street** field, enter **1577 Madison Blvd**.
+16. In the **Street** field, enter `1577 Madison Blvd`.
 
 17. Set the **Primary** slider to **Yes**.
 
@@ -71,8 +71,7 @@ carriers**.  
 
 ### Add a carrier service to the carrier
 
-1. Open **Transportation management \> Setup \> Carriers \> Shipping
-    carriers.**
+1. Open **Transportation management \> Setup \> Carriers \> Shipping carriers.**
 
 2. Select **Ocean Carrier 2** in the left-hand pane.
 
@@ -80,9 +79,9 @@ carriers**.  
 
 4. Select **New.**
 
-5. In the **Carrier service** field, enter **Ocean**.  
+5. In the **Carrier service** field, enter `Ocean`.  
 
-6. In the **Name** field, enter **Ocean**.
+6. In the **Name** field, enter `Ocean`.
 
 7. In the **Transportation method** field, select **Ocean**.
 
@@ -115,9 +114,9 @@ You will need to do the following:
 
 2. Select **New**.
 
-3. In the Rate master field, enter **AtlantaMaster**.
+3. In the Rate master field, enter `AtlantaMaster`.
 
-4. In the Name field, enter **Atlanta rate master**.
+4. In the Name field, enter `Atlanta rate master`.
 
 5. In the Rating metadata ID field, select the drop-down button to open the
     lookup.
@@ -140,9 +139,9 @@ You will need to do the following:
 
 2. Select **New**.
 
-3. In the **Rate base** field, enter **AtlantaBase**.
+3. In the **Rate base** field, enter `AtlantaBase`.
 
-4. In the **Name field**, enter **Atlanta rate base**.
+4. In the **Name field**, enter `Atlanta rate base`.
 
 5. In the **Break master** field, select the drop-down button to open the
     lookup.
@@ -151,39 +150,39 @@ You will need to do the following:
         breakpoints. The pricing structure uses tiered pricing that is based on
         physical dimensions.
 
-For this example, use **weight.**
+    For this example, use **weight.**
 
 1. Toggle the expansion of the **Details** section.
 
 2. Select **New**.
 
-3. In the **Drop-off Postal Code From** field, enter **30301**.
+3. In the **Drop-off Postal Code From** field, enter or select `30301`.
 
-4. In the **Drop-off Postal Code To** field, enter **30318**.
+4. In the **Drop-off Postal Code To** field, enter or select `30318`.
 
-5. In the **Drop-off Country Region** field, enter **USA**.
+5. In the **Drop-off Country Region** field, enter or select `USA`.
 
-6. In the **\<1.00 Lbs** field, enter **100**.
+6. In the **\<1.00 Lbs** field, enter `100`.
 
     - Insert the rate per lbs if the total weight of the load is less than 1
         pound.
 
-7. In the **\<5.00 Lbs** field, enter **300**.
+7. In the **\<5.00 Lbs** field, enter `300`.
 
     - Insert the rate per lbs if the total weight of the load is less than 5
         pounds.
 
-8. In the **\<20.00 Lbs** field, enter **500**.
+8. In the **\<20.00 Lbs** field, enter `500`.
 
     - Insert the rate per lbs if the total weight of the load is less than 20
         pounds.
 
-9. In the **\<100.00** Lbs field, enter **1000**.
+9. In the **\<100.00** Lbs field, enter `1000`.
 
     - Insert the rate per lbs if the total weight of the load is less than 100
         pounds.
 
-10. In the **\<1,000.00** Lbs field, enter **3000**.
+10. In the **\<1,000.00** Lbs field, enter `3000`.
 
     - Insert the rate per lbs if the total weight of the load is less than
         1000 pounds.
@@ -203,7 +202,7 @@ For this example, use **weight.**
         carrier depending on destinations, services, or different rate bases. In
         this procedure you will only create one rate base assignment.
 
-3. In the Name field, enter **AtlantaRateAssignment**.
+3. In the Name field, enter `AtlantaRateAssignment`.
 
 4. In the Rate base field, select the drop-down button to open the lookup.
 
@@ -213,12 +212,12 @@ For this example, use **weight.**
 
 7. In the list, find and select **Truck**.
 
-8. In the Pick-up Postal Code field, enter **98052**.
+8. In the Pick-up Postal Code field, enter or select `98052`.
 
     - Specify which postal code this rate base assignment should be valid
         from.
 
-9. In the **Pick-up Country Region** field, enter **USA**.
+9. In the **Pick-up Country Region** field, enter or select `USA`.
 
 10. Select **Save**.
 
@@ -247,9 +246,9 @@ You will need to do the following:
 
 2. Select **New**.
 
-3. In the **Route plan** field, enter **GA to LA**.
+3. In the **Route plan** field, enter `GA to LA`.
 
-4. In the **Name** field, enter **Georgia to Los Angeles**.
+4. In the **Name** field, enter `Georgia to Los Angeles`.
 
 5. Close the form.
 
@@ -259,13 +258,13 @@ You will need to do the following:
 
 2. Select **New**.  
 
-3. In the **Hub** field, enter **Georgia 3**.
+3. In the **Hub** field, enter `Georgia 3`.
 
-4. In the **Name** field, enter **Savannah GA**.
+4. In the **Name** field, enter `Savannah GA`.
 
 5. Expand the **Codes** FastTab.
 
-6. In the **Hub type** field, select Hub.
+6. In the **Hub type** field, select **Hub**.
 
 7. In the **Rate master** field, select **TruckRateMaster**.  
 
@@ -279,23 +278,23 @@ You will need to do the following:
 
 12. Select **Add**.
 
-13. In the **Name or description** field, enter **Georgia 3**.
+13. In the **Name or description** field, enter `Georgia 3`.
 
-14. In the **Zip/postal code** field, enter **31302**.
+14. In the **Zip/postal code** field, enter or select `31302`.
 
-15. In the **Street** field, enter **123 ABC Street**.
+15. In the **Street** field, enter `123 ABC Street`.
 
 16. Select **OK**.
 
-17. Select **New**.  
+17. Select **New** from Action pane.  
 
-18. In the **Hub** field, enter **Los Angeles 2**.
+18. In the **Hub** field, enter `Los Angeles 2`.
 
-19. In the **Name** field, enter **Los Angeles CA 2**.
+19. In the **Name** field, enter `Los Angeles CA 2`.
 
 20. Expand the **Codes** FastTab.
 
-21. In the **Hub type** field, select Hub.
+21. In the **Hub type** field, select **Hub**.
 
 22. In the **Rate master** field, select **TruckRateMaster**.  
 
@@ -309,11 +308,11 @@ You will need to do the following:
 
 27. Select **Add**.
 
-28. In the **Name or description** field, enter **Los Angeles 2**.
+28. In the **Name or description** field, enter `Los Angeles 2`.
 
-29. In the **Zip/postal code** field, enter **90001**.
+29. In the **Zip/postal code** field, enter or select `90001`.
 
-30. In the **Street** field, enter **987 XYZ Avenue**.
+30. In the **Street** field, enter `987 XYZ Avenue`.
 
 31. Select **OK**.
 
@@ -349,9 +348,9 @@ service Truck.  
 
 2. Select **New**.
 
-3. In the **Routing guide** field, enter **GA to LA**.
+3. In the **Routing guide** field, enter `GA to LA`.
 
-4. In the **Name** field, enter **Georgia to Los Angeles**.  
+4. In the **Name** field, enter `Georgia to Los Angeles`.  
 
 ### Add Information, Origin, Destination, and Result entities to the routing guide
 
@@ -367,21 +366,21 @@ service Truck.  
 
 6. Expand the **Origin** FastTab.
 
-7. In the **Zip/postal code** field, enter **31302**.
+7. In the **Zip/postal code** field, enter or select `31302`.
 
 8. In the **Hub** field, select **Los Angeles 2**.
 
-9. In the **Country/region** field, enter **USA**.
+9. In the **Country/region** field, enter `USA`.
 
 10. Expand the **Destination** FastTab.
 
-11. In the **Zip/postal code from** field, enter **31302**.
+11. In the **Zip/postal code from** field, enter or select `31302`.
 
-12. In the **Zip/postal code to** field, enter **90001**.
+12. In the **Zip/postal code to** field, enter or select `90001`.
 
 13. In the **Hub** field, select **Georgia 3**.
 
-14. In the **Country/region** field, enter **USA**.
+14. In the **Country/region** field, enter or select `USA`.
 
 15. Expand the **Result** FastTab.
 
@@ -421,11 +420,11 @@ You will need to do the following:
 
 4. In the **Addresses** FastTab, select **Add**.
 
-5. In the **Name or description** field, enter **Ade Supply Main Location**.
+5. In the **Name or description** field, enter `Ade Supply Main Location`.
 
-6. In the **Zip/postal code** field, enter **00210**.
+6. In the **Zip/postal code** field, enter or select `00210`.
 
-7. In the **Street** field, enter **123 Main Street**.
+7. In the **Street** field, enter `123 Main Street`.
 
 8. Set the **Primary** slider to **Yes**.
 
@@ -460,9 +459,9 @@ route plan and guide between the Ade Supply Company and USMF’s Warehouse 61.
 
 2. Select **New** in the action pane.
 
-3. In the **Hub** field, enter **Ade Supply.**
+3. In the **Hub** field, enter `Ade Supply`.
 
-4. In the **Name** field, enter **Ade Supply NH**.
+4. In the **Name** field, enter `Ade Supply NH`.
 
 5. In the **Codes** FastTab, in the **Hub type** field, select **Hub**.
 
@@ -471,11 +470,11 @@ route plan and guide between the Ade Supply Company and USMF’s Warehouse 61.
 7. In the **Address** FastTab, select **Add**.
 
 8. In the **New address** form, in the **Name or description** field, enter
-    **Ade Supply NH**.
+    `Ade Supply NH`.
 
-9. In the **ZIP/postal code** field, enter **00210**.
+9. In the **ZIP/postal code** field, enter or select `00210`.
 
-10. In the **Street** field, enter **123 Main Street**.
+10. In the **Street** field, enter `123 Main Street`.
 
 11. Select **OK**.
 
@@ -487,9 +486,9 @@ route plan and guide between the Ade Supply Company and USMF’s Warehouse 61.
 
 2. Select **New** in the action pane.
 
-3. In the **Route plan** field, enter **NH to WA**.
+3. In the **Route plan** field, enter `NH to WA`.
 
-4. In the **Name** field, enter **New Hampshire to Washington**.
+4. In the **Name** field, enter `New Hampshire to Washington`.
 
 5. In the **Details** FastTab, select **New**.
 
@@ -511,18 +510,15 @@ route plan and guide between the Ade Supply Company and USMF’s Warehouse 61.
 
 2. Select **New** in the action pane.
 
-3. In the **Routing guide** field, enter **NH to WA**.
+3. In the **Routing guide** field, enter `NH to WA`.
 
-4. In the **Name** field, enter **New Hampshire to Washington**.
+4. In the **Name** field, enter `New Hampshire to Washington`.
 
-5. In the **Origin** FastTab, in the **ZIP/postal code** field, enter
-    **00210**.
+5. In the **Origin** FastTab, in the **ZIP/postal code** field, enter or select `00210`.
 
-6. In the **Destination** FastTab, in the **ZIP/postal code** field, enter
-    **98052**.
+6. In the **Destination** FastTab, in the **ZIP/postal code** field, enter or select `98052`.
 
-7. In the **Result** FastTab, in the **Route plan** field, select **NH to
-    WA**.
+7. In the **Result** FastTab, in the **Route plan** field, select **NH to WA**.
 
 8. Close the form.
 
@@ -548,19 +544,17 @@ transportation rate.
 
 6. Select **OK**.
 
-7. In the **Purchase order lines** FastTab, in the **Item number** field, enter
-    **L0101**.
+7. In the **Purchase order lines** FastTab, in the **Item number** field, enter or select `L0101`.
 
-8. In the **Quantity** field, enter **10**.
+8. In the **Quantity** field, enter `10`.
 
-9. In the **Unit price** field, enter **50**.
+9. In the **Unit price** field, enter `50`.
 
 10. In the **Purchase** tab on the action pane, select **Confirm**.
 
 ### Create an inbound shipment
 
-1. In the **Warehouse** tab on the action pane, select **Load planning
-    workbench**.
+1. In the **Warehouse** tab on the action pane, select **Inbound load planning workbench**.
 
 2. Select the check mark column for the purchase order line.
 
@@ -573,8 +567,7 @@ transportation rate.
 
 ### Rate shop for the inbound load
 
-1. In the **Loads** tab of the Load planning workbench, select **Rate route
-    workbench** from the **Rating and routing** drop-down menu.
+1. In the **Loads** FastTab of the Load planning workbench, select **Rate route workbench** from the **Rating and routing** drop-down menu.
 
 2. In the action pane of the Rate route workbench, select **Rate shop**.
 
@@ -592,9 +585,9 @@ driver Tim Smith in and out of the appointment.
 
 ### Schedule an appointment
 
-1. Open **Transportation management \> Planning \> Load planning workbench**.
+1. Open **Transportation management \> Planning \> Inbound load planning workbench**.
 
-2. In the **Loads** tab, select the load ID for the purchase order created in
+2. In the **Loads** FastTab, select the load ID for the purchase order created in
     the earlier practice.
 
 3. Select **Appointment scheduling** from the **Transportation** drop-down
@@ -615,10 +608,9 @@ driver Tim Smith in and out of the appointment.
 1. In the action pane, select the **Update status** drop-down arrow and select
     **Driver check-in**.
 
-2. In the **Driver check-in details** form, in the **Driver name** field, enter
-    **Tim Smith**.
+2. In the **Driver check-in details** form, in the **Driver name** field, enter `Tim Smith`.
 
-3. In the **Driver license** field, enter **123**.
+3. In the **Driver license** field, enter `123`.
 
 4. Select **OK**.
 
@@ -642,14 +634,13 @@ You now need to confirm the inbound load.
 
 ### Confirm the inbound load
 
-1. Open **Transportation management \> Planning \> Load planning workbench**.
+1. Open **Transportation management \> Planning \> Inbound load planning workbench**.
 
 2. In the **Loads** tab, clear the **Hide shipped and received** check box.
 
 3. Select the load ID.
 
-4. In the **Load details** form, select the **Ship and receive** tab in the
-    action pane, and then select **Inbound shipment** in the **Confirm** area.
+4. In the **Load details** form, select the **Ship and receive** tab under Loads FastTab, and then select **Inbound shipment** in the **Confirm** area.
 
 5. Close the form.
 
@@ -695,16 +686,15 @@ stock for the order, and create an outbound transportation load.
 5. In the **Sales order** form, expand the **Sales order lines** FastTab, if
     not expanded already.
 
-6. In the existing sales order line, in the **Item number** field, enter
-    **A0001**.
+6. In the existing sales order line, in the **Item number** field, enter `A0001`.
 
-7. In the **Quantity** field, enter **5**.
+7. In the **Quantity** field, enter `5`.
 
-8. In the **Site** field, enter **6**.
+8. In the **Site** field, enter `6`.
 
-9. In the **Warehouse** field, enter **62**.
+9. In the **Warehouse** field, enter `62`.
 
-10. In the **Unit price** field, enter **15**.  
+10. In the **Unit price** field, enter `15`.  
 
 11. In the action pane, select **Save**.
 
@@ -724,7 +714,7 @@ stock for the order, and create an outbound transportation load.
 
 2. Select the **Inventory** drop-down arrow and select **Reservation**.
 
-3. In the **Reservation** form, in the **Reservation** field, enter **5**.
+3. In the **Reservation** form, in the **Reservation** field, enter `5`.
 
 4. In the action pane, select **Reserve lot**.
 
@@ -758,8 +748,7 @@ tasked with creating the consolidated load and confirming it.
 
 ### Set up parameters for consolidated shipments
 
-1. Open **Transportation management \> Setup \> Transportation management
-    parameters**.
+1. Open **Transportation management \> Setup \> Transportation management parameters**.
 
 2. Select the **General** tab.
 
@@ -777,9 +766,9 @@ tasked with creating the consolidated load and confirming it.
 3. In the **Sales order details** form, in the **Sales order lines** FastTab,
     select **Add line**.
 
-4. In the **Item number** field, enter **A0002**.
+4. In the **Item number** field, enter or select `A0002`.
 
-5. In the **Quantity** field, enter **5**.
+5. In the **Quantity** field, enter `5`.
 
 6. For **Site**, select **5**.
 
@@ -798,7 +787,7 @@ tasked with creating the consolidated load and confirming it.
 
 2. Select the **Inventory** drop-down arrow and select **Reservation**.
 
-3. In the **Reservation** form, in the **Reservation** field, enter **5**.
+3. In the **Reservation** form, in the **Reservation** field, enter `5`.
 
 4. In the action pane, select **Reserve lot**.
 
@@ -922,11 +911,11 @@ You will need to do the following:
 
 2. Select **New**.
 
-3. Type **OT** in the **Reconciliation reason code** field.
+3. Enter `OT` in the **Reconciliation reason code** field.
 
-4. Type **Overtime** in the **Description** field.
+4. Enter `Overtime` in the **Description** field.
 
-5. Type **211650** in the **Debit account** field.
+5. Enter `211650` in the **Debit account** field.
 
 6. Select the **Pay the freight vendor** check box.
 
@@ -970,9 +959,9 @@ You will need to do the following:
 
 2. Select **New**.
 
-3. Type **Duties** in the **Billing group** field.
+3. Enter `Duties` in the **Billing group** field.
 
-4. Type **Duties** in the **Name** field.
+4. Enter `Duties` in the **Name** field.
 
 5. Close the form.
 
@@ -983,7 +972,7 @@ You will need to do the following:
 
 2. Select **New**.
 
-3. Enter **Overtime** in the **Audit master ID** field.
+3. Enter `Overtime` in the **Audit master ID** field.
 
 4. Select **TruckCarrier** in the **Shipping carrier** field.
 
