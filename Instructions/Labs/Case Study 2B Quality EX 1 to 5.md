@@ -1,9 +1,9 @@
 ---
 lab:
-    title: 'Case study 4 Quality control and quality management'
-    module: 'Module 5: Configure and manage quality control and quality management '
+    title: 'Case study 2B Quality control and quality management'
+    module: 'Module 2: Implement inventory and asset management'
 ---
-Case study 4 Quality control and quality management
+Case study 2B Quality control and quality management
 ===================================================
 
 Objectives
