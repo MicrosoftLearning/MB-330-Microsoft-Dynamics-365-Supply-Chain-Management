@@ -145,6 +145,8 @@ Objective
 - Create a functional location lifecycle state and functional location lifecycle model.
 The IT manager in USMF wants to know how to define the states that a functional location can go through, for example, created, active, and end of the lifecycle state.
 
+### Scenario
+---------
 The IT manager wants to view all functional locations, regardless of their lifecycle state, in the All functional locations list page. He also wants to change the state of a functional location by selecting it in the All functional locations list. You were called to help the IT manager perform these tasks.
 
 You’ll assist the IT manager in doing the following:
@@ -228,7 +230,7 @@ Now you can set up a default functional location type and then set up a regular 
 
 You need to establish a new functional location type for **Munson's Pickles and Preserves Farm** to manage the quality control of salsa. Your task is to add a new functional location.
 
-## Create a Default Functional Location Type
+### Create a Default Functional Location Type
 
 A default functional location type must be established for use when new assets are created.
 
@@ -240,7 +242,7 @@ A default functional location type must be established for use when new assets a
 6. Set **Multiple assets** to `Yes`. This selection creates a default functional location.
 7. On the top menu bar, select **Save**.
 
-## Create a Functional Location Type
+### Create a Functional Location Type
 
 **Munson's Pickles and Preserves Farm** is taking the quality of its products seriously. The company has established a new location for its quality department.
 
