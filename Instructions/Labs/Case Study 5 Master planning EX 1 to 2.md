@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Case study 5 Master planning'
-    module: 'Module 6: Implement master planning '
+    module: 'Module 5: Implement master planning '
 ---
 Case study 5 Master planning
 ============================

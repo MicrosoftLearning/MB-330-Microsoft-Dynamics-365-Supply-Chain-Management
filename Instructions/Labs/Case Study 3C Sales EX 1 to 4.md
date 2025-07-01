@@ -409,16 +409,12 @@ Exercise \#4 Generate and process customer rebate claimes for payment
 ----------------------------------------------
 
 *Objective: Generate rebates and process rebate claims for payment.*
-----------------------------------------------
-Sales manager build better relationships with customers and encourage them to be
-loyal to the company\`s products and services by offering them rebates based on
-the order volumes or quantities.
 
-Customers can receive balance deductions, trade spending, invoices deductions,
-or get paid directly.
+Sales manager build better relationships with customers and encourage them to be loyal to the company\`s products and services by offering them rebates based on the order volumes or quantities.
 
-The sales manager you are working with asked you to show how this works using
-existing rebates for item T0020 and process a claim.
+Customers can receive balance deductions, trade spending, invoices deductions, or get paid directly.
+
+The sales manager you are working with asked you to show how this works using existing rebates for item T0020 and process a claim.
 
 You will have to do the following:
 
@@ -516,18 +512,12 @@ You will have to do the following:
 
 ### Process rebate claims
 
-The Rebates page acts a workbench in which you can review, approve, and process
-rebate claims. You’ll now process the claims that were created as a result of
-invoicing a sales order for customer US-009, who is the subject of the rebate
+The Rebates page acts a workbench in which you can review, approve, and process rebate claims. You’ll now process the claims that were created as a result of invoicing a sales order for customer US-009, who is the subject of the rebate
 agreement USMF-000001.
 
-The line represents a rebate claim for 800 USD, which is based on the sales of
-40 units of product T0020, calculated at 20 USD per unit. This matches the
-conditions of the first quantity break in the rebate agreement.
+The line represents a rebate claim for 800 USD, which is based on the sales of 40 units of product T0020, calculated at 20 USD per unit. This matches the conditions of the first quantity break in the rebate agreement.
 
-The claim is in the **To be calculated** state. This means that it is associated
-with an agreement that tracks the customer's sales performance on periodic basis
-and it must be re-calculated to account for the total sales volume within the
+The claim is in the **To be calculated** state. This means that it is associated with an agreement that tracks the customer's sales performance on periodic basis and it must be re-calculated to account for the total sales volume within the
 respective period.  
 
 1. Navigate to **Sales and marketing \> Customer rebates \> Rebates**.
@@ -548,20 +538,17 @@ respective period.  
 
 9. Select **OK**.
 
-If you get a message that it cannot create a record in Ledger journal table, it
-is because the demo data is out of sync; perform these steps:
+If you get a message that it cannot create a record in Ledger journal table, it is because the demo data is out of sync; perform these steps:
 
 1. Select **Close**.
 
 2. Reset the number sequence:
 
-    1. Navigate to **General Ledger \> Ledger setup \> General ledger
-        parameters**.
+    1. Navigate to **General Ledger** \> **Ledger setup** \> **General ledger parameters**.
 
     2. Select **Number sequences** tab.
 
-    3. Select the hyperlink for **Number sequence code** field for Journal batch
-        number.
+    3. Select the hyperlink for **Number sequence code** field for Journal batch number.
 
     4. In the **General** FastTab, change the Next number higher.
 
