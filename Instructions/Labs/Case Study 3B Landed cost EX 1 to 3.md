@@ -16,7 +16,7 @@ Objectives
 Exercise \#1 Set up landed cost parameters
 ----------------------------------------------
 
-Scenario
+### Scenario
 ---------
 In this exercise, you’ll help the system administrator at USMF use the Landed cost parameters page to set up general information and configuration settings that are used across the Landed cost module for posting, status updates, number sequences, and behavior.
 
@@ -57,33 +57,32 @@ You’ll need to assist the employee with the following tasks:
 
 ### Create a voyage
 
-1. Go to Landed cost, select Voyages, then select All voyages.
-2. In the Action pane, select + New.
-3. In the Description field, enter Shipping1.
-4. In the Booking reference field, enter 1111.
-5. In the Vessel field, select ABC357806.
-6. In the Mode of delivery field, enter 40.
-7. In the Shipping company field, select 1002.
-8. Select OK. 
-
+1. Go to **Landed cost** \> **Voyages** \> **All voyages**.
+2. In the **Action pane**, select + **New**.
+3. In the **Description** field, enter **Shipping1**.
+4. In the **Booking reference** field, enter **1111**.
+5. In the **Vessel** field, select **ABC357806**.
+6. In the **Mode of delivery** field, enter **40**.
+7. In the **Shipping company** field, select **1002**.
+8. Select OK.
 
 ### Add a purchase order to a staging list
-1.	On the Action pane, select Voyage editor.
-2.	In the Setup name field, select Inquiry.
-3.	On the Inbound orders FastTab, select the first two purchase orders. 
-4.	On the Lines to select FastTab, select the checkbox for each purchase order line that you want to include in the new shipping container.
-5.	On the Lines to select FastTab on the toolbar, select Add to staging list.
 
-
+1. On the **Action pane**, select **Voyage editor**.
+2. In the **Setup name** field, select **Inquiry**.
+3. On the **Inbound orders** FastTab, select the first two purchase orders. 
+4. On the **Lines to select** FastTab, select the checkbox for each purchase order line that you want to include in the new shipping container.
+5. On the **Lines to select** FastTab on the toolbar, select **Add to staging list**.
 
 ### Add a staging list to a shipping container
-1.	On the toolbar, select View staging list.
+
+1. On the toolbar, select **View staging list**.
 The Add staging list to shipping container page is opened. The purchase order lines that you selected are listed on the Lines in staging list FastTab. All the purchase order lines in this list will be added to the shipping container that you create. You can remove any line by selecting it and then selecting Remove line on the toolbar of the FastTab.
-2.	On the Lines in staging list FastTab, on the toolbar, select Add to new shipping container.
-3.	In the Shipping container field, select ECMU4657496.
-4.	In the Journey template field, select AUMEL-AKLNZ.
-5.	In the Shipping container type field, select 40'FCL.
-6.	Select OK.
+2. On the Lines in staging list FastTab, on the toolbar, select **Add** to new shipping container.
+3. In the **Shipping container** field, select **ECMU4657496**.
+4. In the **Journey template** field, select **AUMEL-AKLNZ**.
+5. In the **Shipping container type** field, select **40'FCL**.
+6. Select **OK**.
 
 
 Exercise \#3 Set up Auto Cost
@@ -95,19 +94,19 @@ Now you’ll help the IT manager at USMF set up Auto Cost for transactions so th
 
 *Objective: Set up Auto Cost*
 
-### 
+### Set up Auto Cost
 
 1. Go to **Landed Cost** \> **Setup** \> **Costing Setup** \> **Auto Costs**. 
-2. In the Cost area field, select Voyage
-3. Select + New.
-4. In the Account Code field, select All. This signifies that the Auto Cost Setup applies to all created voyages. Alternatively, you can set it to a specific vendor cost type group or designate a particular shipping company by choosing Group or Table, respectively.
-5. In the Mode of delivery field, select 40.
-6. In the From port field, select USLGB.
-7. In the To port field, select CNNGB.
-8. On the Lines FastTab, select + Add.
-9. In the Cost type code field, select Air.
-10. In the Apportionment method field, select Quantity.
-11. In the Category field, select Percent.
-12. In the Cost value field, enter 10.
-13. Select Save.
+2. In the **Cost area** field, select **Voyage
+3. Select + **New**.
+4. In the **Account Code** field, select **All**. This signifies that the Auto Cost Setup applies to all created voyages. Alternatively, you can set it to a specific vendor cost type group or designate a particular shipping company by choosing Group or Table, respectively.
+5. In the **Mode of delivery** field, select **40**.
+6. In the **From port** field, select **USLGB**.
+7. In the **To port** field, select **CNNGB**.
+8. On the **Lines** FastTab, select + **Add**.
+9. In the **Cost type code** field, select **Air**.
+10. In the **Apportionment method** field, select **Quantity**.
+11. In the **Category** field, select **Percent**.
+12. In the **Cost value** field, enter **10**.
+13. Select **Save**.
 
