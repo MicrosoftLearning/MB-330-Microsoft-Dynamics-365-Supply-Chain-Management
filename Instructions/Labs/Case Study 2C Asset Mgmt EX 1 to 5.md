@@ -6,47 +6,53 @@ lab:
 Case study 2C Asset management
 =================================
 
+In this case study, you will work with the Asset Management module to set up assets, functional locations, and maintenance requests for Munson's Pickles and Preserves Farm. You will create asset types, condition assessment templates, service levels, workers, and functional location lifecycle states and models.
+
 Objectives
 ----------
 
-- In this exercise you’ll work to set up assets, and perform the following tasks:
-  
-  - Create an asset type.
-  
-  - Create a condition assessment template.
-  
-  - Set up asset service levels.
-  
-  - Create workers.
+- Create an asset type.
+
+- Create a condition assessment template.
+
+- Set up asset service levels.
+
+- Create workers.
 
 Exercise \#1 Set up assets
 ----------------------------
-## Scenario
+
+### Scenario
 ---------
 You’ll set up new assets for Munson’s Pickles and Preserves Farm in Asset Management. In this task, you’ll configure "Forklift" as an asset within the system.
 
 ### Create an asset type
 
-1. Go to Asset management, select Setup, select Asset types, then select Asset types.
+1. Go to **Asset management** \> **Setup** \> **Asset types** \> **Asset types**.
 
-2. Select + New to create a new asset type.
+2. Select **New** to create a new asset type.
 
-3. In the Asset type field, enter Forklift1.
+3. In the **Asset type** field, enter **Forklift1**.
 
-4. In the Name field, enter Forklift1.
+4. In the **Name** field, enter **Forklift1**.
 
-5. In the Lifecycle state section, select Standard.
+5. In the **Lifecycle state** section, select **Standard**.
 
-6. In the KPIS section, set Total to Yes.
+6. In the **KPIS** section, set **Total** to **Yes**.
 
-7. Select Save.
+7. Select **Save**.
 
-8. On the Maintenance job types FastTab, select Calibration, Inspection, Lubrication, Preventive, and Repair and then to the Maintenance job types selected section.
-    > **Note** To select job types in the **Maintenance job types** FastTab, you must have created the Maintenance job types. In Asset Management, select **Setup**, select **Jobs**, then select **Maintenance job types**.
+8. On the **Maintenance job types** FastTab, select **Calibration**, **Inspection**, **Lubrication**, **Preventive**, and **Repair** and then to the **Maintenance job types selected** section.
 
-9. Assign a Counter for Production Hours, then select and move it to the Asset counters selected section. You won’t be adding an Attribute type at this time.
-10. Leave the Condition assessments FastTab blank for now.
-11. On the top menu bar, select Save.
+    > **Note** To select job types in the **Maintenance job types** FastTab, you must have created the **Maintenance job types**. In **Asset Management**, select **Setup** \> **Jobs** \> **Maintenance job types**.
+
+9. Assign a **Counter for Production Hours**
+
+10. Select and move **Counter for Production Hours** to the **Asset counters selected** section. You won’t be adding an Attribute type at this time.
+
+11. Leave the **Condition assessments** FastTab blank for now.
+
+12. Select **Save**.
 
 ### Create a condition assessment template
 
@@ -73,7 +79,7 @@ Asset service levels are used on maintenance requests and work orders to determi
 
 To set up asset service levels, follow these steps:
 
-1. Go to Asset management, select Setup, then select Asset service levels.
+1. Go to **Asset management**, select Setup, then select Asset service levels.
 
 2. Select + New.
 
@@ -158,7 +164,8 @@ You’ll assist the IT manager in doing the following:
 
 5. In the Name field, enter Closed – Not in use. 
 
-    > **Note**  When you’re creating a new lifecycle state, the Lifecycle model field will not be populated. When this lifecycle state is added to a lifecycle model, this field automatically populates to show the number of lifecycle models that this state is included in.
+    > [!**Note**]  
+    > When you’re creating a new lifecycle state, the Lifecycle model field will not be populated. When this lifecycle state is added to a lifecycle model, this field automatically populates to show the number of lifecycle models that this state is included in.
 
 6. Select the General FastTab, then set Active to Yes.
 
@@ -212,6 +219,43 @@ Munson's Pickles and Preserves Farm need to create a new Quality location for a 
 Exercise #3 – Create functional location types
 -----------------------------------------------
 
+# Exercise #3 – Create Functional Location Types
+
+Now you can set up a default functional location type and then set up a regular functional location type.
+
+You need to establish a new functional location type for **Munson's Pickles and Preserves Farm** to manage the quality control of salsa. Your task is to add a new functional location.
+
+---
+
+## Create a Default Functional Location Type
+
+A default functional location type must be established for use when new assets are created.
+
+1. Go to **Asset management** > **Setup** > **Functional locations** > **Functional location types**.
+2. Select **+ New** to create a new functional location type.
+3. In the **Functional location type** field, enter `Default`.
+4. In the **Name** field, enter `Default location`.
+5. In the **LIFECYCLE STATE** section of the **General FastTab**, in the **Functional location lifecycle model** field, select `Standard`.
+6. Set **Multiple assets** to `Yes`. This selection creates a default functional location.
+7. On the top menu bar, select **Save**.
+
+---
+
+## Create a Functional Location Type
+
+**Munson's Pickles and Preserves Farm** is taking the quality of its products seriously. The company has established a new location for its quality department.
+
+Your next task is to create a new functional location type for the farm’s new **Quality** location.
+
+1. Go to **Asset management** > **Setup** > **Functional locations** > **Functional location types**.
+2. Select **+ New** to create a functional location type.
+3. In the **Functional location type** field, enter `Office Building`.
+4. In the **Name** field, enter `Quality office`.
+5. In the **Functional location lifecycle model** dropdown menu, select `Quality`.
+6. Set **Multiple assets** to `Yes`.
+7. Set **Update asset dimension** to `Yes`.
+8. Leave the **Asset type** field blank.
+9. Select **Save**.
 
 
 Exercise #4 – Set up work orders

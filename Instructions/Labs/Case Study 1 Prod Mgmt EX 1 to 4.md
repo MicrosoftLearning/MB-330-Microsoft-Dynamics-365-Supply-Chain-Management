@@ -10,7 +10,7 @@ Case study 1 Product information management
 Objectives
 ----------
 
-- Create and manage products.
+*- Create and manage products.*
 
 Scenario
 ---------

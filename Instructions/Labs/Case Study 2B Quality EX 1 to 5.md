@@ -9,17 +9,17 @@ Case study 2B Quality control and quality management
 Objectives
 ----------
 
-1. *Enable quality management; create tests, item sampling, definitions and
+- *Enable quality management; create tests, item sampling, definitions and
     process of the quality management process.*
 
-2. *Create a manual quality order with a specification.*
+- *Create a manual quality order with a specification.*
 
-3. *Work with non-conformance issues like faulty items by defining several required specifications.*
+- *Work with non-conformance issues like faulty items by defining several required specifications.*
 
-4. *Create and process a non-conformance order to have an item repaired and to
+- *Create and process a non-conformance order to have an item repaired and to
     adjust a faulty machine.*
 
-5. *Run a non-conformance report, a non-conformance tag report, and a
+- *Run a non-conformance report, a non-conformance tag report, and a
     corrections report*
 
 Exercise \#1 Enable quality management process that specifies items to be inspected at the time of picking
