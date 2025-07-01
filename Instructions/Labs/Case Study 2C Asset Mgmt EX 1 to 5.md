@@ -21,7 +21,7 @@ Objectives
 
 Exercise \#1 Set up assets
 ----------------------------
-### Scenario
+## Scenario
 ---------
 You’ll set up new assets for Munson’s Pickles and Preserves Farm in Asset Management. In this task, you’ll configure "Forklift" as an asset within the system.
 
@@ -131,8 +131,8 @@ You must assign established workers to maintenance worker groups in the Human re
 
 9. On the top menu bar, select Save.
 
-
-## Exercise #2 – Create a functional location lifecycle state and functional location lifecycle model
+Exercise #2 – Create a functional location lifecycle state and functional location lifecycle model
+----------------------------
 
 Objective
 - Create a functional location lifecycle state and functional location lifecycle model.
@@ -208,3 +208,16 @@ Munson's Pickles and Preserves Farm need to create a new Quality location for a 
 13. Next to On Hold, select the Active checkbox. The On Hold state can be changed to Active.
 
 14. Select OK to save the changes.
+
+Exercise #3 – Create functional location types
+-----------------------------------------------
+
+
+
+Exercise #4 – Set up work orders
+----------------------------------
+
+
+
+Exercise #2 – Set up maintenance request lifecycle states, models, and types
+-----------------------------------------------------------------------
