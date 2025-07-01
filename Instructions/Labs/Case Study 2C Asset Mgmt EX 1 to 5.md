@@ -44,7 +44,8 @@ You’ll set up new assets for Munson’s Pickles and Preserves Farm in Asset Ma
 
 8. On the **Maintenance job types** FastTab, select **Calibration**, **Inspection**, **Lubrication**, **Preventive**, and **Repair** and then to the **Maintenance job types selected** section.
 
-    > **Note** To select job types in the **Maintenance job types** FastTab, you must have created the **Maintenance job types**. In **Asset Management**, select **Setup** \> **Jobs** \> **Maintenance job types**.
+    > **Note** 
+    > To select job types in the **Maintenance job types** FastTab, you must have created the **Maintenance job types**. In **Asset Management**, select **Setup** \> **Jobs** \> **Maintenance job types**.
 
 9. Assign a **Counter for Production Hours**
 
@@ -164,7 +165,7 @@ You’ll assist the IT manager in doing the following:
 
 5. In the Name field, enter Closed – Not in use. 
 
-    > [**Note**]  
+    > **Note**  
     > When you’re creating a new lifecycle state, the Lifecycle model field will not be populated. When this lifecycle state is added to a lifecycle model, this field automatically populates to show the number of lifecycle models that this state is included in.
 
 6. Select the General FastTab, then set Active to Yes.
@@ -175,7 +176,8 @@ You’ll assist the IT manager in doing the following:
 
 9. Set Install assets at locations to No.
 
-    > **Note** When initially building your lifecycle states, you won’t have any information yet to select from the Asset state > Lifecycle state dropdown menu until you've completed the full configuration for your assets, including the asset lifecycle states. Leave this field blank for now.
+    > **Note**
+    > When initially building your lifecycle states, you won’t have any information yet to select from the Asset state > Lifecycle state dropdown menu until you've completed the full configuration for your assets, including the asset lifecycle states. Leave this field blank for now.
 
 10. Select Save. Your new functional location lifecycle state has been created and activated.
 
@@ -219,13 +221,12 @@ Munson's Pickles and Preserves Farm need to create a new Quality location for a 
 Exercise #3 – Create functional location types
 -----------------------------------------------
 
-# Exercise #3 – Create Functional Location Types
+### Scenario
+---------
 
 Now you can set up a default functional location type and then set up a regular functional location type.
 
 You need to establish a new functional location type for **Munson's Pickles and Preserves Farm** to manage the quality control of salsa. Your task is to add a new functional location.
-
----
 
 ## Create a Default Functional Location Type
 
@@ -238,8 +239,6 @@ A default functional location type must be established for use when new assets a
 5. In the **LIFECYCLE STATE** section of the **General FastTab**, in the **Functional location lifecycle model** field, select `Standard`.
 6. Set **Multiple assets** to `Yes`. This selection creates a default functional location.
 7. On the top menu bar, select **Save**.
-
----
 
 ## Create a Functional Location Type
 
@@ -261,7 +260,138 @@ Your next task is to create a new functional location type for the farm’s new 
 Exercise #4 – Set up work orders
 ----------------------------------
 
+### Scenario
+---------
 
+In this exercise, you will set up work orders for maintenance jobs in the Asset Management module. You will create maintenance job types, service levels, and set up the fault designer for a blender.
 
-Exercise #2 – Set up maintenance request lifecycle states, models, and types
+Objective:
+- Create a maintenance job type category
+- Create a maintenance job trade
+- Create a maintenance job type
+- Create a service level
+- Set up the fault designer
+
+---
+
+### Create a Maintenance Job Type Category
+
+1. Go to **Asset management** > **Setup** > **Jobs** > **Maintenance job type categories**.
+2. Select **+ New**.
+3. In the **Maintenance job type category** field, enter `Inspection`.
+4. In the **Name** field, enter `Inspection job type`.
+5. Select **Save**.
+
+---
+
+### Create a Maintenance Job Trade
+
+1. Go to **Asset management** > **Setup** > **Jobs** > **Maintenance job trade**.
+2. Select **+ New**.
+3. In the **Trade** field, enter `HVAC`.
+4. In the **Description** field, enter `Heating, ventilation, air conditioning`.
+5. Select **Save**.
+
+---
+
+### Create a Maintenance Job Type
+
+1. Go to **Asset management** > **Setup** > **Jobs** > **Maintenance job types**.
+2. Select **+ New**.
+3. In the **Maintenance job type** field, enter `Calibration1`.
+4. In the **Name** field, enter `Calibration1`.
+5. On the **General** FastTab:
+   - In the **Maintenance job type category** dropdown, select `Preventative`.
+   - Set **Maintenance downtime activities** to `Yes`.
+6. On the **Description** FastTab, enter `Calibrate equipment`.
+7. Select **Save**.
+
+---
+
+### Create a Service Level
+
+1. Go to **Asset management** > **Setup** > **Work orders** > **Service level**.
+2. Select service level `5 - Low` and then select **Edit**.
+3. In the **Start day** field, enter `3`.
+4. In the **End day** field, enter `2`.
+5. Set **Set end time** to `No`.
+6. Select **Save**.
+
+---
+
+### Set Up Fault Designer
+You’re tasked with setting up the fault symptoms, fault area, and fault type in the fault designer for the blender.
+
+1. Go to **Asset management** > **Setup** > **Fault** > **Fault designer**.
+2. In the left pane, select `Blender – Extruder Blender`.
+3. Expand the **Fault system** FastTab and select `Excessive noise`.
+4. Expand the **Fault area** FastTab and select `Mechanical`.
+5. Expand the **Fault type** FastTab and select `Damaging`.
+6. Select **Save**.
+
+    > **Note:** 
+    > If lines are not already included, use **+ Add line** in each FastTab to add the respective entries.
+
+---
+
+Exercise #5 – Set up maintenance request lifecycle states, models, and types
 -----------------------------------------------------------------------
+
+### Scenario
+---------
+
+You will set up maintenance request lifecycle states, models, and types for Munson's Pickles and Preserves Farm. This setup will help manage maintenance requests effectively by defining their lifecycle and types.
+You’ll create lifecycle states and models to manage maintenance request workflows.
+
+---
+
+### Set Up Maintenance Request Lifecycle States
+
+1. Go to **Asset management** > **Setup** > **Maintenance requests** > **Lifecycle states**.
+2. Select **+ New**.
+3. In the **Lifecycle state** field, enter `Closed`.
+4. In the **Name** field, enter `Maintenance request has been closed`.
+5. On the **General** FastTab:
+   - Set **Active** to `No`
+   - Set **Set actual end** to `Yes`
+   - Set **Create work order** to `No`
+   - Set **Delete** to `No`
+6. Select **+ New** again.
+   - Enter `Active` in both **Lifecycle state** and **Name** fields.
+   - Set **Active**, **Set actual end**, and **Create work order** to `Yes`.
+7. Select **+ New** again.
+   - In the **ID** field, enter `InProgress`.
+   - Set **Active**, **Set actual end**, and **Create work order** to `Yes`.
+   - Set **Delete** to `No`.
+8. Select **Save**.
+
+---
+
+### Create Maintenance Request Lifecycle Models
+
+1. Go to **Asset management** > **Setup** > **Maintenance requests** > **Lifecycle models**.
+2. Select **+ New**.
+3. In the **Lifecycle model** field, enter `Service`.
+4. In the **Name** field, enter `Service`.
+5. Select **Save**.
+6. On the **Lifecycle states** FastTab:
+   - Move `Active`, `InProgress`, and `Closed` to the selected section.
+   - Reorder them as: `Active`, `InProgress`, `Closed`.
+7. Select **Save**.
+8. On the **Lifecycle state updates** tab:
+   - Set `Active` → `InProgress`
+   - Set `InProgress` → `Closed`
+   - Set `Closed` → `Active`
+9. Select **OK**.
+
+---
+
+### Create Maintenance Request Types
+
+1. Go to **Asset management** > **Setup** > **Maintenance requests** > **Maintenance request types**.
+2. Select **+ New**.
+3. In the **Maintenance request type** field, enter `Preventive`.
+4. In the **Name** field, enter `Preventive maintenance request`.
+5. On the **General** FastTab, select `Standard` in the **Maintenance request lifecycle model** dropdown.
+6. Leave the **Work order type** field blank.
+7. Select **Save**.
