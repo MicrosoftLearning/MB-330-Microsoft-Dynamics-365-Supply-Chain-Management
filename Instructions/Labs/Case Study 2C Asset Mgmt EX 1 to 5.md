@@ -138,7 +138,7 @@ You must assign established workers to maintenance worker groups in the Human re
 
 9. On the top menu bar, select Save.
 
-Exercise #2 – Create a functional location lifecycle state and functional location lifecycle model
+Exercise #2 Create a functional location lifecycle state and functional location lifecycle model
 ----------------------------
 
 Objective
@@ -258,8 +258,7 @@ Your next task is to create a new functional location type for the farm’s new 
 8. Leave the **Asset type** field blank.
 9. Select **Save**.
 
-
-Exercise #4 – Set up work orders
+Exercise #4 Set up work orders
 ----------------------------------
 
 ### Scenario
@@ -268,6 +267,7 @@ Exercise #4 – Set up work orders
 In this exercise, you will set up work orders for maintenance jobs in the Asset Management module. You will create maintenance job types, service levels, and set up the fault designer for a blender.
 
 Objective:
+
 - Create a maintenance job type category
 - Create a maintenance job trade
 - Create a maintenance job type
@@ -336,7 +336,7 @@ You’re tasked with setting up the fault symptoms, fault area, and fault type i
 
 ---
 
-Exercise #5 – Set up maintenance request lifecycle states, models, and types
+Exercise #5 Set up maintenance request lifecycle states, models, and types
 -----------------------------------------------------------------------
 
 ### Scenario
