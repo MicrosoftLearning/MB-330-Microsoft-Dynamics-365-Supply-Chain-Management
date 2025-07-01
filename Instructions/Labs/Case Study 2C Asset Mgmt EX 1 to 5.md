@@ -164,7 +164,7 @@ You’ll assist the IT manager in doing the following:
 
 5. In the Name field, enter Closed – Not in use. 
 
-    > [!**Note**]  
+    > [**Note**]  
     > When you’re creating a new lifecycle state, the Lifecycle model field will not be populated. When this lifecycle state is added to a lifecycle model, this field automatically populates to show the number of lifecycle models that this state is included in.
 
 6. Select the General FastTab, then set Active to Yes.
