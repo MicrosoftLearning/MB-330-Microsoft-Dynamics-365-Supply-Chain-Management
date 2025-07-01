@@ -25,12 +25,9 @@ Objectives
 Exercise \#1 Enable quality management process that specifies items to be inspected at the time of picking
 ----------------------------------------------------------------------------------------------------------
 
-*Objective: Enable quality management; create tests, item sampling, definitions
-and process of the quality management process.*
+*Objective: Enable quality management; create tests, item sampling, definitions and process of the quality management process.*
 
-The quality manager in USMF wants to know how to enable a quality management
-process requiring that incoming inventory for all TV products be inspected
-immediately at the time of picking.
+The quality manager in USMF wants to know how to enable a quality management process requiring that incoming inventory for all TV products be inspected immediately at the time of picking.
 
 When she create a sales order for item T0002 and during the picking step, a
 quality order will be automatically created.

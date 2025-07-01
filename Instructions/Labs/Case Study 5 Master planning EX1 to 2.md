@@ -9,8 +9,7 @@ Case study 5 Master planning
 Objectives
 ----------
 
-- *Firm and review a planned purchase order, change it to production, and
-    verify the change.*
+- *Firm and review a planned purchase order, change it to production, and verify the change.*
 
 - *Create a planning group, assign an item allocation key, and run the
     intercompany master plan.*
@@ -18,15 +17,11 @@ Objectives
 Exercise \#1 Process and view planned orders
 --------------------------------------------
 
-*Objective: Firm and review a planned purchase order, change it to production,
-and verify the change.*
+*Objective: Firm and review a planned purchase order, change it to production, and verify the change.*
 
-The planning manager in USMF wants to know how to setup, manage, and use the
-master planning module, as well as how to process planned orders.
+The planning manager in USMF wants to know how to setup, manage, and use the master planning module, as well as how to process planned orders.
 
-To firm planned orders, He will need to be sure that the master planning is
-running correctly, or there are some planned orders in the form that you can
-use.
+To firm planned orders, He will need to be sure that the master planning is running correctly, or there are some planned orders in the form that you can use.
 
 You were called to help the planning manager to perform the above tasks
 
