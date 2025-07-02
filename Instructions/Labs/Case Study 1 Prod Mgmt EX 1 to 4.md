@@ -7,7 +7,7 @@ lab:
 Case study 1 Product information management
 ====================================================================
 
-Objectives
+Objective
 ----------
 
 *- Create and manage products.*
