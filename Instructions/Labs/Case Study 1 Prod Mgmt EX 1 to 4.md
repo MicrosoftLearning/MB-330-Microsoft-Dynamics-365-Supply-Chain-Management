@@ -3,6 +3,7 @@ lab:
     title: 'Case study 1 Product information management'
     module: 'Module 1: Implement product information management'
 ---
+This exercise should take approximately 20 minutes to complete.
 
 Case study 1 Product information management
 ====================================================================
