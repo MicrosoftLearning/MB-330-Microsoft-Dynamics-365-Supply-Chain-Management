@@ -3,6 +3,7 @@ lab:
     title: 'Case study 1 Product information management and inventory management'
     module: 'Module 2: Implement inventory management '
 ---
+This exercise should take approximately 20 minutes to complete.
 
 Case study 1 Product information management and inventory management
 ====================================================================
