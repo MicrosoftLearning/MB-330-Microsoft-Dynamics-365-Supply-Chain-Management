@@ -686,7 +686,7 @@ stock for the order, and create an outbound transportation load.
 
 1. Open **Sales and marketing \> Customers \> All customers**.  
 
-2. In the list of customers, select the line for account **US-007**.
+2. In the list of customers, select the line for account **US-007**. 
 
 3. In the action pane, select the **Sell** tab.
 
