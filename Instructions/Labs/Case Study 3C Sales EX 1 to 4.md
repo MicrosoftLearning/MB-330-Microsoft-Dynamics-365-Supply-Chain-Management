@@ -1,8 +1,13 @@
 ---
 lab:
-    title: 'Case study 3C Sales and marketing'
-    module: 'Module 3: Implement and manage supply chain processes'
+  title: Case study 3C Sales and marketing
+  module: 'Module 3: Implement and manage supply chain processes'
+  description: Case study 3C Sales and marketing =================================
+  duration: 160 minutes
+  level: 100
+  islab: true
 ---
+
 Case study 3C Sales and marketing
 =================================
 
