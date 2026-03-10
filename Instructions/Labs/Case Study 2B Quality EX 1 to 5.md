@@ -1,8 +1,13 @@
 ---
 lab:
-    title: 'Case study 2B Quality control and quality management'
-    module: 'Module 2: Implement inventory and asset management'
+  title: Case study 2B Quality control and quality management
+  module: 'Module 2: Implement inventory and asset management'
+  description: Case study 2B Quality control and quality management ===================================================
+  duration: 162 minutes
+  level: 100
+  islab: true
 ---
+
 Case study 2B Quality control and quality management
 ===================================================
 
