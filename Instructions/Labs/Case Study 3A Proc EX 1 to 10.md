@@ -1,8 +1,13 @@
 ---
 lab:
-    title: 'Case study 3A Procurement and sourcing'
-    module: 'Module 3: Implement and manage supply chain processes '
+  title: Case study 3A Procurement and sourcing
+  module: 'Module 3: Implement and manage supply chain processes '
+  description: Case study 3A Procurement and sourcing ======================================
+  duration: 176 minutes
+  level: 200
+  islab: true
 ---
+
 Case study 3A Procurement and sourcing
 ======================================
 
