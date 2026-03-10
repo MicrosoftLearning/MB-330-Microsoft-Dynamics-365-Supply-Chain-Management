@@ -1,8 +1,13 @@
 ---
 lab:
-    title: 'Case study 5 Master planning'
-    module: 'Module 5: Implement master planning '
+  title: Case study 5 Master planning
+  module: 'Module 5: Implement master planning '
+  description: Case study 5 Master planning ============================
+  duration: 130 minutes
+  level: 100
+  islab: true
 ---
+
 Case study 5 Master planning
 ============================
 
