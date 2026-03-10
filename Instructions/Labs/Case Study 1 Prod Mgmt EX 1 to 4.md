@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Case study 1 Product information management'
-    module: 'Module 1: Implement product information management'
+  title: Case study 1 Product information management
+  module: 'Module 1: Implement product information management'
+  description: Case study 1 Product information management ====================================================================
+  duration: 146 minutes
+  level: 100
+  islab: true
 ---
 
 Case study 1 Product information management
