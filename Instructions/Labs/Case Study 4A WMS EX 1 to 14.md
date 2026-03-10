@@ -1,8 +1,13 @@
 ---
 lab:
-    title: 'Case study 4A Warehouse management'
-    module: 'Module 4: Implement warehouse management and transportation management'
+  title: Case study 4A Warehouse management
+  module: 'Module 4: Implement warehouse management and transportation management'
+  description: Case study 4A Warehouse management ===============================================================
+  duration: 190 minutes
+  level: 200
+  islab: true
 ---
+
 Case study 4A Warehouse management
 ===============================================================
 
