@@ -1,8 +1,13 @@
 ---
 lab:
-    title: 'Case study 3B Transportation management'
-    module: 'Module 4: Implement warehouse management and transportation management'
+  title: Case study 3B Transportation management
+  module: 'Module 4: Implement warehouse management and transportation management'
+  description: You have been asked to create a new purchase order for 10 mini-speakers from the Ade Supply Company. After creating the purchase order, you will need to create an inbound shipment and then rate shop for the inbound load to find the cheapest transportation rate.
+  duration: 190 minutes
+  level: 100
+  islab: true
 ---
+
 Case study 3B Transportation management
 ===============================================================
 
