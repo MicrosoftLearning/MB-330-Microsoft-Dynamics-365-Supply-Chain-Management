@@ -1,8 +1,13 @@
 ---
 lab:
-    title: 'Case study 4A Warehouse management'
-    module: 'Module 4: Implement warehouse management and transportation management'
+  title: Case study 4A Warehouse management
+  module: 'Module 4: Implement warehouse management and transportation management'
+  description: You must set up two new disposition codes. The first will be called “Ready,” which will be Available, and the second will be called “Not Ready,” which will be blocked for use with warehouse management. Next, you will configure a new inbound location directive that will receive goods to the warehouse, and another one that will put away goods in bulk locations.
+  duration: 190 minutes
+  level: 200
+  islab: true
 ---
+
 Case study 4A Warehouse management
 ===============================================================
 
