@@ -1,8 +1,13 @@
 ---
 lab:
-    title: 'Case study 3C Sales and marketing'
-    module: 'Module 3: Implement and manage supply chain processes'
+  title: Case study 3C Sales and marketing
+  module: 'Module 3: Implement and manage supply chain processes'
+  description: You will need to help her to create a sales order for customer US-013, who is requesting 2 units of item D0001. You will proceed with all of the sales order process until the invoicing step. Then you will check the registered sales commission on the sales order.
+  duration: 160 minutes
+  level: 100
+  islab: true
 ---
+
 Case study 3C Sales and marketing
 =================================
 
