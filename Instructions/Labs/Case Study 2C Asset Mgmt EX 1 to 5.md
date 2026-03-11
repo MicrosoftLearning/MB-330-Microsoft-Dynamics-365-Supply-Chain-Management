@@ -1,8 +1,13 @@
 ---
 lab:
-    title: 'Case study 2C Asset management'
-    module: 'Module 2: Implement inventory and asset management'
+  title: Case study 2C Asset management
+  module: 'Module 2: Implement inventory and asset management'
+  description: In this case study, you will work with the Asset Management module to set up assets, functional locations, and maintenance requests for Munson's Pickles and Preserves Farm. You will create asset types, condition assessment templates, service levels, workers, and functional location lifecycle states and models.
+  duration: 182 minutes
+  level: 100
+  islab: true
 ---
+
 Case study 2C Asset management
 =================================
 
