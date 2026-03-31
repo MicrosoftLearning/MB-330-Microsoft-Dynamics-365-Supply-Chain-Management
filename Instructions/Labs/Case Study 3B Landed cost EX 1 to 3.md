@@ -3,8 +3,8 @@ lab:
   title: Case study 3B Landed cost
   module: 'Module 3: Implement and manage supply chain processes'
   description: Case study 3B Landed cost =================================
-  duration: 110 minutes
-  level: 100
+  duration: 15 minutes
+  level: 200
   islab: true
 ---
 
