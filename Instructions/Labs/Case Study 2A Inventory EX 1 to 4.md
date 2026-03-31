@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Case study 2A Inventory management'
-    module: 'Module 2: Implement inventory and asset management'
+  title: Case study 2A Inventory management
+  module: 'Module 2: Implement inventory and asset management'
+  description: You will also need to adjust the stock levels of products in the warehouse.
+  duration: 40 minutes
+  level: 200
+  islab: true
 ---
 
 Case study 2A Inventory management

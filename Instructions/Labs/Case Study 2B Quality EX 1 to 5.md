@@ -1,8 +1,13 @@
 ---
 lab:
-    title: 'Case study 2B Quality control and quality management'
-    module: 'Module 2: Implement inventory and asset management'
+  title: Case study 2B Quality control and quality management
+  module: 'Module 2: Implement inventory and asset management'
+  description: 'You will need to define several conditions to work with non-conformance: problems and diagnostic types, operations, quality charges, and quarantine zones.'
+  duration: 40 minutes
+  level: 200
+  islab: true
 ---
+
 Case study 2B Quality control and quality management
 ===================================================
 

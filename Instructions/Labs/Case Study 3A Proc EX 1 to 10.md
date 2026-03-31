@@ -1,8 +1,13 @@
 ---
 lab:
-    title: 'Case study 3A Procurement and sourcing'
-    module: 'Module 3: Implement and manage supply chain processes '
+  title: Case study 3A Procurement and sourcing
+  module: 'Module 3: Implement and manage supply chain processes '
+  description: The employee must identify a vendor for the request and the quantity required. The employee do not know the actual part number, so you will use a procurement category instead.
+  duration: 30 minutes
+  level: 200
+  islab: true
 ---
+
 Case study 3A Procurement and sourcing
 ======================================
 

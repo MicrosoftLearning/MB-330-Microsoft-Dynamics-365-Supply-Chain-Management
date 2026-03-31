@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Case study 1 Product information management'
-    module: 'Module 1: Implement product information management'
+  title: Case study 1 Product information management
+  module: 'Module 1: Implement product information management'
+  description: 'New products are introduced by USMF and must be added to the new warehouse. As supply chain manager, you will have to create 2 new products:'
+  duration: 10 minutes
+  level: 200
+  islab: true
 ---
 
 Case study 1 Product information management
