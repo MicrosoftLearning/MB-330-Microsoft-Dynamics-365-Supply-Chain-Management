@@ -7,6 +7,7 @@ lab:
   level: 200
   islab: true
 ---
+This exercise should take approximately 20 minutes to complete.
 
 Case study 1 Product information management
 ====================================================================
